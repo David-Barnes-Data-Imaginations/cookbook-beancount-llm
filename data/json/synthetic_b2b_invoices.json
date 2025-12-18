@@ -1,0 +1,3266 @@
+[
+  {
+    "invoice_id": "INV-727224",
+    "date": "2025-02-23",
+    "due_date": "2025-03-25",
+    "vendor_name": "Thompson, Hancock and Burns",
+    "vendor_address": "Studio 3, Davies union, South Julian, SN82 6SH",
+    "vendor_tax_id": "GB661942446",
+    "customer_name": "Jackson-Dixon",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Re-contextualized grid-enabled array",
+        "quantity": 10,
+        "unit_price": 1292.11,
+        "line_total": 12921.1
+      },
+      {
+        "description": "Server Hosting - Upgradable dedicated utilization",
+        "quantity": 2,
+        "unit_price": 4503.01,
+        "line_total": 9006.02
+      },
+      {
+        "description": "Office  - Integrated web-enabled groupware",
+        "quantity": 10,
+        "unit_price": 951.17,
+        "line_total": 9511.7
+      },
+      {
+        "description": "Legal  - Intuitive multi-tasking portal",
+        "quantity": 4,
+        "unit_price": 1850.03,
+        "line_total": 7400.12
+      }
+    ],
+    "subtotal": 38838.94,
+    "tax_amount": 7767.79,
+    "total_amount": 46606.73,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-269204",
+    "date": "2025-04-21",
+    "due_date": "2025-05-21",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Griffiths LLC",
+    "line_items": [
+      {
+        "description": "Catering  - Operative dedicated circuit",
+        "quantity": 9,
+        "unit_price": 731.82,
+        "line_total": 6586.38
+      },
+      {
+        "description": "Audit Services - Re-engineered tangible customer loyalty",
+        "quantity": 8,
+        "unit_price": 1419.41,
+        "line_total": 11355.28
+      },
+      {
+        "description": "Consulting - Grass-roots real-time intranet",
+        "quantity": 5,
+        "unit_price": 1345.05,
+        "line_total": 6725.25
+      },
+      {
+        "description": "Office  - Secured needs-based access",
+        "quantity": 4,
+        "unit_price": 1205.37,
+        "line_total": 4821.48
+      }
+    ],
+    "subtotal": 29488.39,
+    "tax_amount": 5897.68,
+    "total_amount": 35386.07,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-848218",
+    "date": "2025-07-12",
+    "due_date": "2025-08-11",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Hussain, Patel and Thomas",
+    "line_items": [
+      {
+        "description": "Postage  - Managed regional toolset",
+        "quantity": 6,
+        "unit_price": 781.73,
+        "line_total": 4690.38
+      },
+      {
+        "description": "Office Supplies - Open-source heuristic approach",
+        "quantity": 10,
+        "unit_price": 76.58,
+        "line_total": 765.8
+      },
+      {
+        "description": "Office  - Automated attitude-oriented open architecture",
+        "quantity": 4,
+        "unit_price": 1510.46,
+        "line_total": 6041.84
+      },
+      {
+        "description": "Telecommunications  - Upgradable object-oriented encoding",
+        "quantity": 1,
+        "unit_price": 1990.98,
+        "line_total": 1990.98
+      }
+    ],
+    "subtotal": 13489.0,
+    "tax_amount": 2697.8,
+    "total_amount": 16186.8,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-192477",
+    "date": "2025-09-17",
+    "due_date": "2025-10-17",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Bruce-Smith",
+    "line_items": [
+      {
+        "description": "Staff Compensation - Reverse-engineered value-added help-desk",
+        "quantity": 9,
+        "unit_price": 1462.77,
+        "line_total": 13164.93
+      },
+      {
+        "description": "Server Hosting - Devolved hybrid pricing structure",
+        "quantity": 2,
+        "unit_price": 4576.99,
+        "line_total": 9153.98
+      },
+      {
+        "description": "Legal  - Versatile stable adapter",
+        "quantity": 9,
+        "unit_price": 1597.75,
+        "line_total": 14379.75
+      },
+      {
+        "description": "Building  - Digitized even-keeled artificial intelligence",
+        "quantity": 6,
+        "unit_price": 1848.14,
+        "line_total": 11088.84
+      }
+    ],
+    "subtotal": 47787.5,
+    "tax_amount": 9557.5,
+    "total_amount": 57345.0,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-585052",
+    "date": "2025-04-18",
+    "due_date": "2025-05-18",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Hunter-Vincent",
+    "line_items": [
+      {
+        "description": "Printing  - Profit-focused local parallelism",
+        "quantity": 1,
+        "unit_price": 1924.27,
+        "line_total": 1924.27
+      }
+    ],
+    "subtotal": 1924.27,
+    "tax_amount": 384.85,
+    "total_amount": 2309.12,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-333195",
+    "date": "2025-07-22",
+    "due_date": "2025-08-21",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Patel and Sons",
+    "line_items": [
+      {
+        "description": "Telecommunications  - User-centric reciprocal architecture",
+        "quantity": 6,
+        "unit_price": 515.3,
+        "line_total": 3091.8
+      },
+      {
+        "description": "Consulting - Expanded multi-state success",
+        "quantity": 8,
+        "unit_price": 679.49,
+        "line_total": 5435.92
+      },
+      {
+        "description": "IT Services - Multi-lateral user-facing Graphic Interface",
+        "quantity": 3,
+        "unit_price": 100.09,
+        "line_total": 300.27
+      },
+      {
+        "description": "Legal  - Inverse client-server conglomeration",
+        "quantity": 9,
+        "unit_price": 1508.76,
+        "line_total": 13578.84
+      },
+      {
+        "description": "Printing  - Expanded real-time budgetary management",
+        "quantity": 7,
+        "unit_price": 982.62,
+        "line_total": 6878.34
+      }
+    ],
+    "subtotal": 29285.170000000002,
+    "tax_amount": 5857.03,
+    "total_amount": 35142.2,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-766931",
+    "date": "2025-03-20",
+    "due_date": "2025-04-19",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Clark-Gray",
+    "line_items": [
+      {
+        "description": "Insurance  - Fundamental systematic migration",
+        "quantity": 8,
+        "unit_price": 754.96,
+        "line_total": 6039.68
+      },
+      {
+        "description": "Software License - Customer-focused composite forecast",
+        "quantity": 4,
+        "unit_price": 163.08,
+        "line_total": 652.32
+      },
+      {
+        "description": "Server Hosting - Devolved grid-enabled instruction set",
+        "quantity": 9,
+        "unit_price": 1905.68,
+        "line_total": 17151.12
+      },
+      {
+        "description": "Building  - Object-based uniform productivity",
+        "quantity": 9,
+        "unit_price": 1232.25,
+        "line_total": 11090.25
+      }
+    ],
+    "subtotal": 34933.369999999995,
+    "tax_amount": 6986.67,
+    "total_amount": 41920.04,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-474966",
+    "date": "2025-08-16",
+    "due_date": "2025-09-15",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Murphy, Miller and Burke",
+    "line_items": [
+      {
+        "description": "Consulting - Devolved global infrastructure",
+        "quantity": 2,
+        "unit_price": 578.36,
+        "line_total": 1156.72
+      },
+      {
+        "description": "Marketing Agency - Persevering bifurcated support",
+        "quantity": 3,
+        "unit_price": 278.68,
+        "line_total": 836.04
+      }
+    ],
+    "subtotal": 1992.76,
+    "tax_amount": 398.55,
+    "total_amount": 2391.31,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-924996",
+    "date": "2025-07-12",
+    "due_date": "2025-08-11",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Ali, Leach and Page",
+    "line_items": [
+      {
+        "description": "Hardware - Upgradable zero tolerance implementation",
+        "quantity": 10,
+        "unit_price": 1587.97,
+        "line_total": 15879.7
+      },
+      {
+        "description": "Server Hosting - Operative explicit functionalities",
+        "quantity": 1,
+        "unit_price": 4701.16,
+        "line_total": 4701.16
+      },
+      {
+        "description": "Printing  - Implemented human-resource functionalities",
+        "quantity": 4,
+        "unit_price": 919.74,
+        "line_total": 3678.96
+      }
+    ],
+    "subtotal": 24259.82,
+    "tax_amount": 4851.96,
+    "total_amount": 29111.78,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-259573",
+    "date": "2025-01-03",
+    "due_date": "2025-02-02",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Bailey-George",
+    "line_items": [
+      {
+        "description": "Office Supplies - Down-sized leadingedge productivity",
+        "quantity": 8,
+        "unit_price": 150.35,
+        "line_total": 1202.8
+      },
+      {
+        "description": "Staff Compensation - Multi-lateral bandwidth-monitored installation",
+        "quantity": 10,
+        "unit_price": 1640.68,
+        "line_total": 16406.8
+      },
+      {
+        "description": "Audit Services - Multi-layered national standardization",
+        "quantity": 5,
+        "unit_price": 1714.6,
+        "line_total": 8573.0
+      },
+      {
+        "description": "Legal Retainer - User-friendly multimedia definition",
+        "quantity": 1,
+        "unit_price": 1380.06,
+        "line_total": 1380.06
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Devolved upward-trending adapter",
+        "quantity": 9,
+        "unit_price": 25892.08,
+        "line_total": 233028.72
+      }
+    ],
+    "subtotal": 260591.38,
+    "tax_amount": 52118.28,
+    "total_amount": 312709.66,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-593254",
+    "date": "2025-07-08",
+    "due_date": "2025-08-07",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Kent Group",
+    "line_items": [
+      {
+        "description": "Postage  - Stand-alone eco-centric secured line",
+        "quantity": 6,
+        "unit_price": 1588.22,
+        "line_total": 9529.32
+      },
+      {
+        "description": "Hardware - Monitored modular encryption",
+        "quantity": 9,
+        "unit_price": 1873.91,
+        "line_total": 16865.19
+      },
+      {
+        "description": "Printing  - Managed methodical contingency",
+        "quantity": 6,
+        "unit_price": 768.68,
+        "line_total": 4612.08
+      },
+      {
+        "description": "Marketing Agency - Switchable value-added alliance",
+        "quantity": 2,
+        "unit_price": 284.47,
+        "line_total": 568.94
+      },
+      {
+        "description": "Office Supplies - Future-proofed intangible circuit",
+        "quantity": 8,
+        "unit_price": 86.75,
+        "line_total": 694.0
+      }
+    ],
+    "subtotal": 32269.529999999995,
+    "tax_amount": 6453.91,
+    "total_amount": 38723.44,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-836301",
+    "date": "2025-01-23",
+    "due_date": "2025-02-22",
+    "vendor_name": "Thompson, Hancock and Burns",
+    "vendor_address": "Studio 3, Davies union, South Julian, SN82 6SH",
+    "vendor_tax_id": "GB661942446",
+    "customer_name": "Sharp-Smith",
+    "line_items": [
+      {
+        "description": "Staff Compensation - Focused logistical matrices",
+        "quantity": 7,
+        "unit_price": 801.11,
+        "line_total": 5607.77
+      },
+      {
+        "description": "Telecommunications  - Synergized local alliance",
+        "quantity": 5,
+        "unit_price": 1557.65,
+        "line_total": 7788.25
+      },
+      {
+        "description": "Audit Services - Decentralized regional model",
+        "quantity": 10,
+        "unit_price": 1574.85,
+        "line_total": 15748.5
+      },
+      {
+        "description": "Hardware - Re-engineered foreground protocol",
+        "quantity": 3,
+        "unit_price": 1542.88,
+        "line_total": 4628.64
+      }
+    ],
+    "subtotal": 33773.16,
+    "tax_amount": 6754.63,
+    "total_amount": 40527.79,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-228313",
+    "date": "2025-03-04",
+    "due_date": "2025-04-03",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Ali-Brown",
+    "line_items": [
+      {
+        "description": "Recruitment Agency - Temporary - Grass-roots radical synergy",
+        "quantity": 9,
+        "unit_price": 21823.29,
+        "line_total": 196409.61
+      },
+      {
+        "description": "Office Supplies - Synergistic dynamic extranet",
+        "quantity": 5,
+        "unit_price": 89.24,
+        "line_total": 446.2
+      },
+      {
+        "description": "Office Supplies - Inverse regional moderator",
+        "quantity": 2,
+        "unit_price": 75.35,
+        "line_total": 150.7
+      },
+      {
+        "description": "Server Hosting - Automated bifurcated budgetary management",
+        "quantity": 4,
+        "unit_price": 2169.72,
+        "line_total": 8678.88
+      }
+    ],
+    "subtotal": 205685.39,
+    "tax_amount": 41137.08,
+    "total_amount": 246822.47,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-609177",
+    "date": "2025-11-04",
+    "due_date": "2025-12-04",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Edwards, Quinn and Fletcher",
+    "line_items": [
+      {
+        "description": "Office Supplies - Integrated fault-tolerant flexibility",
+        "quantity": 1,
+        "unit_price": 56.54,
+        "line_total": 56.54
+      },
+      {
+        "description": "Office  - Balanced bi-directional capability",
+        "quantity": 3,
+        "unit_price": 1353.4,
+        "line_total": 4060.2
+      },
+      {
+        "description": "Legal  - Face-to-face attitude-oriented architecture",
+        "quantity": 3,
+        "unit_price": 1795.48,
+        "line_total": 5386.44
+      },
+      {
+        "description": "Staff Compensation - User-centric radical software",
+        "quantity": 4,
+        "unit_price": 1139.15,
+        "line_total": 4556.6
+      },
+      {
+        "description": "Building  - Open-source empowering Local Area Network",
+        "quantity": 7,
+        "unit_price": 1619.6,
+        "line_total": 11337.2
+      }
+    ],
+    "subtotal": 25396.980000000003,
+    "tax_amount": 5079.4,
+    "total_amount": 30476.38,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-328669",
+    "date": "2025-10-01",
+    "due_date": "2025-10-31",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Duncan-Turner",
+    "line_items": [
+      {
+        "description": "Legal  - Integrated systematic support",
+        "quantity": 9,
+        "unit_price": 831.44,
+        "line_total": 7482.96
+      },
+      {
+        "description": "IT Services - Multi-channeled zero-defect adapter",
+        "quantity": 7,
+        "unit_price": 126.82,
+        "line_total": 887.74
+      },
+      {
+        "description": "Legal  - Synergized stable pricing structure",
+        "quantity": 8,
+        "unit_price": 1614.79,
+        "line_total": 12918.32
+      },
+      {
+        "description": "Printing  - De-engineered directional attitude",
+        "quantity": 7,
+        "unit_price": 707.94,
+        "line_total": 4955.58
+      }
+    ],
+    "subtotal": 26244.6,
+    "tax_amount": 5248.92,
+    "total_amount": 31493.52,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-389478",
+    "date": "2025-07-04",
+    "due_date": "2025-08-03",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Randall-White",
+    "line_items": [
+      {
+        "description": "Staff Compensation - Mandatory client-server database",
+        "quantity": 1,
+        "unit_price": 1819.93,
+        "line_total": 1819.93
+      }
+    ],
+    "subtotal": 1819.93,
+    "tax_amount": 363.99,
+    "total_amount": 2183.92,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-708336",
+    "date": "2025-06-25",
+    "due_date": "2025-07-25",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Mitchell-Green",
+    "line_items": [
+      {
+        "description": "Server Hosting - Adaptive client-driven support",
+        "quantity": 7,
+        "unit_price": 324.55,
+        "line_total": 2271.85
+      },
+      {
+        "description": "Travel - Expanded fresh-thinking function",
+        "quantity": 10,
+        "unit_price": 1353.24,
+        "line_total": 13532.4
+      },
+      {
+        "description": "Software License - Programmable mobile adapter",
+        "quantity": 9,
+        "unit_price": 196.87,
+        "line_total": 1771.83
+      },
+      {
+        "description": "Office Supplies - Enhanced stable contingency",
+        "quantity": 8,
+        "unit_price": 179.57,
+        "line_total": 1436.56
+      }
+    ],
+    "subtotal": 19012.640000000003,
+    "tax_amount": 3802.53,
+    "total_amount": 22815.17,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-397048",
+    "date": "2025-06-16",
+    "due_date": "2025-07-16",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "James-Stevens",
+    "line_items": [
+      {
+        "description": "Telecommunications  - Exclusive didactic solution",
+        "quantity": 9,
+        "unit_price": 729.97,
+        "line_total": 6569.73
+      }
+    ],
+    "subtotal": 6569.73,
+    "tax_amount": 1313.95,
+    "total_amount": 7883.68,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-441379",
+    "date": "2025-07-11",
+    "due_date": "2025-08-10",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Atkins-Lee",
+    "line_items": [
+      {
+        "description": "Consulting - Robust secondary structure",
+        "quantity": 4,
+        "unit_price": 821.59,
+        "line_total": 3286.36
+      },
+      {
+        "description": "Printing  - Customizable directional application",
+        "quantity": 10,
+        "unit_price": 1906.14,
+        "line_total": 19061.4
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Cross-group homogeneous info-mediaries",
+        "quantity": 6,
+        "unit_price": 26607.46,
+        "line_total": 159644.76
+      }
+    ],
+    "subtotal": 181992.52000000002,
+    "tax_amount": 36398.5,
+    "total_amount": 218391.02,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-917589",
+    "date": "2025-01-04",
+    "due_date": "2025-02-03",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Little-Smith",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Fully-configurable neutral conglomeration",
+        "quantity": 2,
+        "unit_price": 1807.78,
+        "line_total": 3615.56
+      },
+      {
+        "description": "Telecommunications  - Cloned systemic benchmark",
+        "quantity": 10,
+        "unit_price": 1719.52,
+        "line_total": 17195.2
+      },
+      {
+        "description": "Accounting - Quality-focused secondary software",
+        "quantity": 7,
+        "unit_price": 4680.33,
+        "line_total": 32762.31
+      }
+    ],
+    "subtotal": 53573.07000000001,
+    "tax_amount": 10714.61,
+    "total_amount": 64287.68,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-748041",
+    "date": "2024-12-30",
+    "due_date": "2025-01-29",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Jones-Ellis",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Multi-channeled zero administration artificial intelligence",
+        "quantity": 3,
+        "unit_price": 3685.37,
+        "line_total": 11056.11
+      },
+      {
+        "description": "Printing  - Progressive attitude-oriented contingency",
+        "quantity": 6,
+        "unit_price": 1810.44,
+        "line_total": 10862.64
+      },
+      {
+        "description": "Consulting - Customizable system-worthy alliance",
+        "quantity": 4,
+        "unit_price": 1181.9,
+        "line_total": 4727.6
+      }
+    ],
+    "subtotal": 26646.35,
+    "tax_amount": 5329.27,
+    "total_amount": 31975.62,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-764530",
+    "date": "2025-05-06",
+    "due_date": "2025-06-05",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Roberts, Sharpe and Cooke",
+    "line_items": [
+      {
+        "description": "Software License - Phased mobile solution",
+        "quantity": 10,
+        "unit_price": 149.44,
+        "line_total": 1494.4
+      }
+    ],
+    "subtotal": 1494.4,
+    "tax_amount": 298.88,
+    "total_amount": 1793.28,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-950857",
+    "date": "2025-05-05",
+    "due_date": "2025-06-04",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Howard-Baker",
+    "line_items": [
+      {
+        "description": "Legal  - Sharable web-enabled approach",
+        "quantity": 1,
+        "unit_price": 714.92,
+        "line_total": 714.92
+      }
+    ],
+    "subtotal": 714.92,
+    "tax_amount": 142.98,
+    "total_amount": 857.9,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-62087",
+    "date": "2025-07-15",
+    "due_date": "2025-08-14",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Carter and Sons",
+    "line_items": [
+      {
+        "description": "Insurance  - Innovative neutral system engine",
+        "quantity": 9,
+        "unit_price": 1476.12,
+        "line_total": 13285.08
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Cross-group solution-oriented toolset",
+        "quantity": 8,
+        "unit_price": 34554.96,
+        "line_total": 276439.68
+      },
+      {
+        "description": "Printing  - Face-to-face value-added infrastructure",
+        "quantity": 5,
+        "unit_price": 1970.89,
+        "line_total": 9854.45
+      },
+      {
+        "description": "Marketing Agency - Synergized global monitoring",
+        "quantity": 5,
+        "unit_price": 742.62,
+        "line_total": 3713.1
+      },
+      {
+        "description": "Office  - Intuitive leadingedge orchestration",
+        "quantity": 9,
+        "unit_price": 1159.23,
+        "line_total": 10433.07
+      }
+    ],
+    "subtotal": 313725.38,
+    "tax_amount": 62745.08,
+    "total_amount": 376470.46,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-86096",
+    "date": "2025-05-10",
+    "due_date": "2025-06-09",
+    "vendor_name": "Smith-Rogers",
+    "vendor_address": "Flat 35, Jones causeway, South Lucyhaven, S1T 9ZU",
+    "vendor_tax_id": "GB252332680",
+    "customer_name": "Wilkins LLC",
+    "line_items": [
+      {
+        "description": "Building  - Pre-emptive bifurcated utilization",
+        "quantity": 6,
+        "unit_price": 991.1,
+        "line_total": 5946.6
+      }
+    ],
+    "subtotal": 5946.6,
+    "tax_amount": 1189.32,
+    "total_amount": 7135.92,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-916663",
+    "date": "2025-08-01",
+    "due_date": "2025-08-31",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Moore-Ford",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Exclusive exuding help-desk",
+        "quantity": 9,
+        "unit_price": 4056.42,
+        "line_total": 36507.78
+      },
+      {
+        "description": "Consulting - Mandatory intermediate initiative",
+        "quantity": 4,
+        "unit_price": 1320.25,
+        "line_total": 5281.0
+      }
+    ],
+    "subtotal": 41788.78,
+    "tax_amount": 8357.76,
+    "total_amount": 50146.54,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-769360",
+    "date": "2025-05-18",
+    "due_date": "2025-06-17",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Cooper-Harvey",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Cross-group directional solution",
+        "quantity": 6,
+        "unit_price": 558.9,
+        "line_total": 3353.4
+      },
+      {
+        "description": "Travel - Visionary actuating portal",
+        "quantity": 4,
+        "unit_price": 1037.2,
+        "line_total": 4148.8
+      }
+    ],
+    "subtotal": 7502.200000000001,
+    "tax_amount": 1500.44,
+    "total_amount": 9002.64,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-855784",
+    "date": "2025-05-10",
+    "due_date": "2025-06-09",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Johnson-Quinn",
+    "line_items": [
+      {
+        "description": "Postage  - Decentralized full-range success",
+        "quantity": 6,
+        "unit_price": 1916.04,
+        "line_total": 11496.24
+      },
+      {
+        "description": "Hardware - Total coherent matrix",
+        "quantity": 10,
+        "unit_price": 1522.32,
+        "line_total": 15223.2
+      },
+      {
+        "description": "Insurance  - Fundamental composite policy",
+        "quantity": 1,
+        "unit_price": 597.2,
+        "line_total": 597.2
+      },
+      {
+        "description": "Server Hosting - Reduced homogeneous process improvement",
+        "quantity": 2,
+        "unit_price": 4812.01,
+        "line_total": 9624.02
+      },
+      {
+        "description": "Legal Retainer - Distributed composite functionalities",
+        "quantity": 9,
+        "unit_price": 1026.9,
+        "line_total": 9242.1
+      }
+    ],
+    "subtotal": 46182.76,
+    "tax_amount": 9236.55,
+    "total_amount": 55419.31,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-227668",
+    "date": "2025-08-22",
+    "due_date": "2025-09-21",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Stewart-Jones",
+    "line_items": [
+      {
+        "description": "IT Services - Enhanced hybrid toolset",
+        "quantity": 6,
+        "unit_price": 119.67,
+        "line_total": 718.02
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Visionary foreground artificial intelligence",
+        "quantity": 5,
+        "unit_price": 39685.56,
+        "line_total": 198427.8
+      },
+      {
+        "description": "Telecommunications  - Advanced value-added protocol",
+        "quantity": 9,
+        "unit_price": 649.21,
+        "line_total": 5842.89
+      }
+    ],
+    "subtotal": 204988.71,
+    "tax_amount": 40997.74,
+    "total_amount": 245986.45,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-782619",
+    "date": "2025-08-04",
+    "due_date": "2025-09-03",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Barker LLC",
+    "line_items": [
+      {
+        "description": "Catering  - Customizable global artificial intelligence",
+        "quantity": 4,
+        "unit_price": 1014.93,
+        "line_total": 4059.72
+      },
+      {
+        "description": "Audit Services - Diverse client-server focus group",
+        "quantity": 10,
+        "unit_price": 4979.27,
+        "line_total": 49792.7
+      },
+      {
+        "description": "Marketing Agency - Visionary grid-enabled flexibility",
+        "quantity": 1,
+        "unit_price": 1029.7,
+        "line_total": 1029.7
+      }
+    ],
+    "subtotal": 54882.119999999995,
+    "tax_amount": 10976.42,
+    "total_amount": 65858.54,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-948739",
+    "date": "2025-03-11",
+    "due_date": "2025-04-10",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Richards-Roberts",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Universal needs-based Local Area Network",
+        "quantity": 3,
+        "unit_price": 4760.33,
+        "line_total": 14280.99
+      },
+      {
+        "description": "Printing  - Cross-group optimizing approach",
+        "quantity": 9,
+        "unit_price": 903.53,
+        "line_total": 8131.77
+      },
+      {
+        "description": "Legal  - Multi-tiered motivating core",
+        "quantity": 6,
+        "unit_price": 547.09,
+        "line_total": 3282.54
+      },
+      {
+        "description": "Office  - Enhanced secondary policy",
+        "quantity": 4,
+        "unit_price": 1963.11,
+        "line_total": 7852.44
+      }
+    ],
+    "subtotal": 33547.740000000005,
+    "tax_amount": 6709.55,
+    "total_amount": 40257.29,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-867591",
+    "date": "2025-03-26",
+    "due_date": "2025-04-25",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Duffy, Bell and Foster",
+    "line_items": [
+      {
+        "description": "IT Services - Cross-platform incremental analyzer",
+        "quantity": 7,
+        "unit_price": 138.91,
+        "line_total": 972.37
+      }
+    ],
+    "subtotal": 972.37,
+    "tax_amount": 194.47,
+    "total_amount": 1166.84,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-552948",
+    "date": "2025-03-23",
+    "due_date": "2025-04-22",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Johnson and Sons",
+    "line_items": [
+      {
+        "description": "Hardware - Fully-configurable intermediate monitoring",
+        "quantity": 9,
+        "unit_price": 1709.65,
+        "line_total": 15386.85
+      },
+      {
+        "description": "Audit Services - Visionary neutral data-warehouse",
+        "quantity": 9,
+        "unit_price": 2821.28,
+        "line_total": 25391.52
+      },
+      {
+        "description": "Insurance  - Re-engineered executive access",
+        "quantity": 2,
+        "unit_price": 660.1,
+        "line_total": 1320.2
+      },
+      {
+        "description": "IT Services - Secured systematic installation",
+        "quantity": 1,
+        "unit_price": 163.93,
+        "line_total": 163.93
+      },
+      {
+        "description": "Telecommunications  - Virtual background Internet solution",
+        "quantity": 2,
+        "unit_price": 1514.86,
+        "line_total": 3029.72
+      }
+    ],
+    "subtotal": 45292.22,
+    "tax_amount": 9058.44,
+    "total_amount": 54350.66,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-172961",
+    "date": "2025-04-27",
+    "due_date": "2025-05-27",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Morgan-Evans",
+    "line_items": [
+      {
+        "description": "Accounting - Business-focused full-range budgetary management",
+        "quantity": 1,
+        "unit_price": 1129.22,
+        "line_total": 1129.22
+      }
+    ],
+    "subtotal": 1129.22,
+    "tax_amount": 225.84,
+    "total_amount": 1355.06,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-279478",
+    "date": "2025-05-19",
+    "due_date": "2025-06-18",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Scott, Lewis and Rogers",
+    "line_items": [
+      {
+        "description": "Hardware - Right-sized disintermediate support",
+        "quantity": 3,
+        "unit_price": 647.69,
+        "line_total": 1943.07
+      }
+    ],
+    "subtotal": 1943.07,
+    "tax_amount": 388.61,
+    "total_amount": 2331.68,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-540463",
+    "date": "2025-05-13",
+    "due_date": "2025-06-12",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Phillips Ltd",
+    "line_items": [
+      {
+        "description": "Travel - Quality-focused optimal framework",
+        "quantity": 8,
+        "unit_price": 688.46,
+        "line_total": 5507.68
+      }
+    ],
+    "subtotal": 5507.68,
+    "tax_amount": 1101.54,
+    "total_amount": 6609.22,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-797829",
+    "date": "2025-05-08",
+    "due_date": "2025-06-07",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Rogers Inc",
+    "line_items": [
+      {
+        "description": "Catering  - Diverse object-oriented hierarchy",
+        "quantity": 5,
+        "unit_price": 1036.18,
+        "line_total": 5180.9
+      }
+    ],
+    "subtotal": 5180.9,
+    "tax_amount": 1036.18,
+    "total_amount": 6217.08,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-75860",
+    "date": "2025-07-05",
+    "due_date": "2025-08-04",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Patel-Knowles",
+    "line_items": [
+      {
+        "description": "Travel - Visionary optimizing policy",
+        "quantity": 7,
+        "unit_price": 878.09,
+        "line_total": 6146.63
+      }
+    ],
+    "subtotal": 6146.63,
+    "tax_amount": 1229.33,
+    "total_amount": 7375.96,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-507011",
+    "date": "2025-06-29",
+    "due_date": "2025-07-29",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Thomas-Lawrence",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Customer-focused heuristic challenge",
+        "quantity": 5,
+        "unit_price": 3796.82,
+        "line_total": 18984.1
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Managed fresh-thinking definition",
+        "quantity": 6,
+        "unit_price": 4868.67,
+        "line_total": 29212.02
+      },
+      {
+        "description": "Legal  - Innovative tertiary hub",
+        "quantity": 6,
+        "unit_price": 679.01,
+        "line_total": 4074.06
+      },
+      {
+        "description": "Building  - Expanded 6thgeneration complexity",
+        "quantity": 8,
+        "unit_price": 718.14,
+        "line_total": 5745.12
+      },
+      {
+        "description": "Consulting - Reactive attitude-oriented concept",
+        "quantity": 7,
+        "unit_price": 820.67,
+        "line_total": 5744.69
+      }
+    ],
+    "subtotal": 63759.99,
+    "tax_amount": 12752.0,
+    "total_amount": 76511.99,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-564295",
+    "date": "2025-08-21",
+    "due_date": "2025-09-20",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Winter, Rogers and Nelson",
+    "line_items": [
+      {
+        "description": "IT Services - Optimized clear-thinking portal",
+        "quantity": 6,
+        "unit_price": 109.98,
+        "line_total": 659.88
+      },
+      {
+        "description": "Postage  - Face-to-face 6thgeneration core",
+        "quantity": 5,
+        "unit_price": 1018.22,
+        "line_total": 5091.1
+      }
+    ],
+    "subtotal": 5750.9800000000005,
+    "tax_amount": 1150.2,
+    "total_amount": 6901.18,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-259532",
+    "date": "2025-09-25",
+    "due_date": "2025-10-25",
+    "vendor_name": "Smith-Rogers",
+    "vendor_address": "Flat 35, Jones causeway, South Lucyhaven, S1T 9ZU",
+    "vendor_tax_id": "GB252332680",
+    "customer_name": "Dobson Group",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Adaptive contextually-based task-force",
+        "quantity": 4,
+        "unit_price": 1348.97,
+        "line_total": 5395.88
+      },
+      {
+        "description": "Travel - Robust zero-defect groupware",
+        "quantity": 6,
+        "unit_price": 1578.75,
+        "line_total": 9472.5
+      },
+      {
+        "description": "Office  - Configurable client-server capacity",
+        "quantity": 5,
+        "unit_price": 638.31,
+        "line_total": 3191.55
+      },
+      {
+        "description": "Server Hosting - Synergistic contextually-based matrices",
+        "quantity": 3,
+        "unit_price": 1224.89,
+        "line_total": 3674.67
+      },
+      {
+        "description": "Consulting - Decentralized neutral application",
+        "quantity": 3,
+        "unit_price": 921.97,
+        "line_total": 2765.91
+      }
+    ],
+    "subtotal": 24500.51,
+    "tax_amount": 4900.1,
+    "total_amount": 29400.61,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-271658",
+    "date": "2025-01-03",
+    "due_date": "2025-02-02",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Nicholls-Wilson",
+    "line_items": [
+      {
+        "description": "Recruitment Agency - Temporary - Public-key clear-thinking capacity",
+        "quantity": 3,
+        "unit_price": 22640.28,
+        "line_total": 67920.84
+      },
+      {
+        "description": "Building  - Business-focused actuating website",
+        "quantity": 7,
+        "unit_price": 764.6,
+        "line_total": 5352.2
+      }
+    ],
+    "subtotal": 73273.04,
+    "tax_amount": 14654.61,
+    "total_amount": 87927.65,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-903950",
+    "date": "2025-11-16",
+    "due_date": "2025-12-16",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Horton-Clarke",
+    "line_items": [
+      {
+        "description": "Postage  - Multi-channeled zero-defect implementation",
+        "quantity": 7,
+        "unit_price": 1498.23,
+        "line_total": 10487.61
+      },
+      {
+        "description": "Hardware - Fundamental motivating artificial intelligence",
+        "quantity": 10,
+        "unit_price": 1229.87,
+        "line_total": 12298.7
+      },
+      {
+        "description": "Postage  - De-engineered tertiary product",
+        "quantity": 1,
+        "unit_price": 1273.35,
+        "line_total": 1273.35
+      },
+      {
+        "description": "Building  - Persevering content-based throughput",
+        "quantity": 3,
+        "unit_price": 1365.66,
+        "line_total": 4096.98
+      },
+      {
+        "description": "Insurance  - Visionary contextually-based benchmark",
+        "quantity": 10,
+        "unit_price": 831.82,
+        "line_total": 8318.2
+      }
+    ],
+    "subtotal": 36474.84,
+    "tax_amount": 7294.97,
+    "total_amount": 43769.81,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-47940",
+    "date": "2025-02-12",
+    "due_date": "2025-03-14",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "King, Clarke and Newton",
+    "line_items": [
+      {
+        "description": "Recruitment Agency - Permanent - Phased explicit projection",
+        "quantity": 7,
+        "unit_price": 32042.3,
+        "line_total": 224296.1
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Versatile impactful workforce",
+        "quantity": 9,
+        "unit_price": 9319.87,
+        "line_total": 83878.83
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Proactive actuating hardware",
+        "quantity": 5,
+        "unit_price": 25453.83,
+        "line_total": 127269.15
+      }
+    ],
+    "subtotal": 435444.07999999996,
+    "tax_amount": 87088.82,
+    "total_amount": 522532.9,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-64442",
+    "date": "2024-12-29",
+    "due_date": "2025-01-28",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Murphy LLC",
+    "line_items": [
+      {
+        "description": "Hardware - De-engineered secondary moderator",
+        "quantity": 9,
+        "unit_price": 575.5,
+        "line_total": 5179.5
+      },
+      {
+        "description": "Legal Retainer - Programmable responsive time-frame",
+        "quantity": 8,
+        "unit_price": 946.92,
+        "line_total": 7575.36
+      },
+      {
+        "description": "Travel - Programmable analyzing contingency",
+        "quantity": 8,
+        "unit_price": 783.16,
+        "line_total": 6265.28
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Devolved radical intranet",
+        "quantity": 8,
+        "unit_price": 2542.33,
+        "line_total": 20338.64
+      }
+    ],
+    "subtotal": 39358.78,
+    "tax_amount": 7871.76,
+    "total_amount": 47230.54,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-616428",
+    "date": "2025-03-15",
+    "due_date": "2025-04-14",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Hewitt and Sons",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Future-proofed tangible leverage",
+        "quantity": 6,
+        "unit_price": 2691.3,
+        "line_total": 16147.8
+      }
+    ],
+    "subtotal": 16147.8,
+    "tax_amount": 3229.56,
+    "total_amount": 19377.36,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-774702",
+    "date": "2025-11-07",
+    "due_date": "2025-12-07",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Bond, Williams and Lowe",
+    "line_items": [
+      {
+        "description": "Travel - Implemented encompassing forecast",
+        "quantity": 3,
+        "unit_price": 1173.52,
+        "line_total": 3520.56
+      }
+    ],
+    "subtotal": 3520.56,
+    "tax_amount": 704.11,
+    "total_amount": 4224.67,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-763312",
+    "date": "2025-02-23",
+    "due_date": "2025-03-25",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Cooper Ltd",
+    "line_items": [
+      {
+        "description": "Office  - Programmable leadingedge model",
+        "quantity": 10,
+        "unit_price": 760.11,
+        "line_total": 7601.1
+      }
+    ],
+    "subtotal": 7601.1,
+    "tax_amount": 1520.22,
+    "total_amount": 9121.32,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-817449",
+    "date": "2025-02-02",
+    "due_date": "2025-03-04",
+    "vendor_name": "Smith-Rogers",
+    "vendor_address": "Flat 35, Jones causeway, South Lucyhaven, S1T 9ZU",
+    "vendor_tax_id": "GB252332680",
+    "customer_name": "Coates-Skinner",
+    "line_items": [
+      {
+        "description": "Software License - Reactive asynchronous circuit",
+        "quantity": 5,
+        "unit_price": 246.87,
+        "line_total": 1234.35
+      },
+      {
+        "description": "Marketing Agency - Optimized multi-state Internet solution",
+        "quantity": 7,
+        "unit_price": 3575.08,
+        "line_total": 25025.56
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Pre-emptive incremental collaboration",
+        "quantity": 9,
+        "unit_price": 21615.12,
+        "line_total": 194536.08
+      }
+    ],
+    "subtotal": 220795.99,
+    "tax_amount": 44159.2,
+    "total_amount": 264955.19,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-578683",
+    "date": "2025-06-14",
+    "due_date": "2025-07-14",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Farrell Ltd",
+    "line_items": [
+      {
+        "description": "Printing  - Multi-tiered national alliance",
+        "quantity": 2,
+        "unit_price": 758.48,
+        "line_total": 1516.96
+      },
+      {
+        "description": "Software License - Streamlined systemic intranet",
+        "quantity": 6,
+        "unit_price": 209.77,
+        "line_total": 1258.62
+      },
+      {
+        "description": "Hardware - Synergistic multi-state Graphical User Interface",
+        "quantity": 6,
+        "unit_price": 1808.93,
+        "line_total": 10853.58
+      },
+      {
+        "description": "Building  - Devolved motivating pricing structure",
+        "quantity": 8,
+        "unit_price": 1997.42,
+        "line_total": 15979.36
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Virtual dynamic migration",
+        "quantity": 10,
+        "unit_price": 6399.19,
+        "line_total": 63991.9
+      }
+    ],
+    "subtotal": 93600.42,
+    "tax_amount": 18720.08,
+    "total_amount": 112320.5,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-485767",
+    "date": "2024-12-14",
+    "due_date": "2025-01-13",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Gray-Walker",
+    "line_items": [
+      {
+        "description": "Accounting - Front-line full-range leverage",
+        "quantity": 2,
+        "unit_price": 3548.81,
+        "line_total": 7097.62
+      },
+      {
+        "description": "Accounting - Adaptive value-added framework",
+        "quantity": 8,
+        "unit_price": 2944.23,
+        "line_total": 23553.84
+      },
+      {
+        "description": "Postage  - Organized client-server functionalities",
+        "quantity": 5,
+        "unit_price": 1610.68,
+        "line_total": 8053.4
+      },
+      {
+        "description": "Staff Compensation - Universal multi-state portal",
+        "quantity": 2,
+        "unit_price": 1807.54,
+        "line_total": 3615.08
+      },
+      {
+        "description": "Catering  - User-centric multi-tasking product",
+        "quantity": 4,
+        "unit_price": 1937.62,
+        "line_total": 7750.48
+      }
+    ],
+    "subtotal": 50070.42,
+    "tax_amount": 10014.08,
+    "total_amount": 60084.5,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-734012",
+    "date": "2025-03-28",
+    "due_date": "2025-04-27",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Stephenson, Brown and Walton",
+    "line_items": [
+      {
+        "description": "Consulting - Automated client-driven capacity",
+        "quantity": 5,
+        "unit_price": 1646.39,
+        "line_total": 8231.95
+      },
+      {
+        "description": "Server Hosting - Visionary bifurcated hardware",
+        "quantity": 6,
+        "unit_price": 4712.74,
+        "line_total": 28276.44
+      }
+    ],
+    "subtotal": 36508.39,
+    "tax_amount": 7301.68,
+    "total_amount": 43810.07,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-290732",
+    "date": "2025-10-25",
+    "due_date": "2025-11-24",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Fraser, Hussain and Berry",
+    "line_items": [
+      {
+        "description": "Office Supplies - Function-based systemic standardization",
+        "quantity": 8,
+        "unit_price": 65.81,
+        "line_total": 526.48
+      }
+    ],
+    "subtotal": 526.48,
+    "tax_amount": 105.3,
+    "total_amount": 631.78,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-252756",
+    "date": "2025-08-02",
+    "due_date": "2025-09-01",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Bennett-Chambers",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Operative clear-thinking productivity",
+        "quantity": 2,
+        "unit_price": 4313.74,
+        "line_total": 8627.48
+      }
+    ],
+    "subtotal": 8627.48,
+    "tax_amount": 1725.5,
+    "total_amount": 10352.98,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-931244",
+    "date": "2025-02-03",
+    "due_date": "2025-03-05",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Stephens and Sons",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Networked modular strategy",
+        "quantity": 6,
+        "unit_price": 4113.56,
+        "line_total": 24681.36
+      },
+      {
+        "description": "Catering  - Re-contextualized bandwidth-monitored service-desk",
+        "quantity": 4,
+        "unit_price": 1968.47,
+        "line_total": 7873.88
+      }
+    ],
+    "subtotal": 32555.24,
+    "tax_amount": 6511.05,
+    "total_amount": 39066.29,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-211759",
+    "date": "2025-05-07",
+    "due_date": "2025-06-06",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Woods Group",
+    "line_items": [
+      {
+        "description": "Marketing Agency - Profound bi-directional circuit",
+        "quantity": 5,
+        "unit_price": 4360.88,
+        "line_total": 21804.4
+      },
+      {
+        "description": "Legal Retainer - Expanded context-sensitive monitoring",
+        "quantity": 1,
+        "unit_price": 584.89,
+        "line_total": 584.89
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Centralized interactive project",
+        "quantity": 1,
+        "unit_price": 24416.07,
+        "line_total": 24416.07
+      }
+    ],
+    "subtotal": 46805.36,
+    "tax_amount": 9361.07,
+    "total_amount": 56166.43,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-706372",
+    "date": "2025-09-28",
+    "due_date": "2025-10-28",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Morgan-Francis",
+    "line_items": [
+      {
+        "description": "Postage  - Advanced value-added emulation",
+        "quantity": 4,
+        "unit_price": 554.91,
+        "line_total": 2219.64
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Pre-emptive tertiary support",
+        "quantity": 2,
+        "unit_price": 31082.47,
+        "line_total": 62164.94
+      },
+      {
+        "description": "IT Services - Ergonomic executive analyzer",
+        "quantity": 6,
+        "unit_price": 192.01,
+        "line_total": 1152.06
+      }
+    ],
+    "subtotal": 65536.64,
+    "tax_amount": 13107.33,
+    "total_amount": 78643.97,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-599207",
+    "date": "2025-08-05",
+    "due_date": "2025-09-04",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Kaur, Scott and Green",
+    "line_items": [
+      {
+        "description": "Consulting - Proactive actuating productivity",
+        "quantity": 5,
+        "unit_price": 542.54,
+        "line_total": 2712.7
+      },
+      {
+        "description": "Insurance  - Extended contextually-based Graphical User Interface",
+        "quantity": 2,
+        "unit_price": 1726.82,
+        "line_total": 3453.64
+      },
+      {
+        "description": "IT Services - Enterprise-wide zero administration parallelism",
+        "quantity": 4,
+        "unit_price": 116.56,
+        "line_total": 466.24
+      },
+      {
+        "description": "Office  - Ergonomic zero tolerance success",
+        "quantity": 2,
+        "unit_price": 747.38,
+        "line_total": 1494.76
+      },
+      {
+        "description": "Marketing Agency - Configurable 24hour infrastructure",
+        "quantity": 5,
+        "unit_price": 3989.16,
+        "line_total": 19945.8
+      }
+    ],
+    "subtotal": 28073.14,
+    "tax_amount": 5614.63,
+    "total_amount": 33687.77,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-456481",
+    "date": "2025-06-22",
+    "due_date": "2025-07-22",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Burgess-Allan",
+    "line_items": [
+      {
+        "description": "Telecommunications  - Universal local flexibility",
+        "quantity": 2,
+        "unit_price": 1667.89,
+        "line_total": 3335.78
+      },
+      {
+        "description": "Printing  - Vision-oriented object-oriented task-force",
+        "quantity": 10,
+        "unit_price": 1116.49,
+        "line_total": 11164.9
+      },
+      {
+        "description": "Audit Services - Universal coherent benchmark",
+        "quantity": 8,
+        "unit_price": 4719.73,
+        "line_total": 37757.84
+      },
+      {
+        "description": "Server Hosting - Triple-buffered real-time challenge",
+        "quantity": 7,
+        "unit_price": 4363.28,
+        "line_total": 30542.96
+      },
+      {
+        "description": "IT Services - Down-sized actuating collaboration",
+        "quantity": 4,
+        "unit_price": 61.26,
+        "line_total": 245.04
+      }
+    ],
+    "subtotal": 83046.51999999999,
+    "tax_amount": 16609.3,
+    "total_amount": 99655.82,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-189752",
+    "date": "2025-01-29",
+    "due_date": "2025-02-28",
+    "vendor_name": "Murphy, Richards and Warner",
+    "vendor_address": "6 Hanson port, Port Beverleystad, SY1P 6ED",
+    "vendor_tax_id": "GB395947954",
+    "customer_name": "Williams-Hunt",
+    "line_items": [
+      {
+        "description": "Consulting - Multi-tiered neutral help-desk",
+        "quantity": 3,
+        "unit_price": 1953.76,
+        "line_total": 5861.28
+      },
+      {
+        "description": "Consulting - Configurable neutral conglomeration",
+        "quantity": 7,
+        "unit_price": 1145.69,
+        "line_total": 8019.83
+      },
+      {
+        "description": "Server Hosting - Proactive content-based leverage",
+        "quantity": 7,
+        "unit_price": 1377.75,
+        "line_total": 9644.25
+      }
+    ],
+    "subtotal": 23525.36,
+    "tax_amount": 4705.07,
+    "total_amount": 28230.43,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-40229",
+    "date": "2025-09-30",
+    "due_date": "2025-10-30",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Wilkins, Holloway and Bryant",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Balanced optimizing functionalities",
+        "quantity": 6,
+        "unit_price": 1176.21,
+        "line_total": 7057.26
+      }
+    ],
+    "subtotal": 7057.26,
+    "tax_amount": 1411.45,
+    "total_amount": 8468.71,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-616330",
+    "date": "2024-12-14",
+    "due_date": "2025-01-13",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "White and Sons",
+    "line_items": [
+      {
+        "description": "Accounting - Optimized asynchronous data-warehouse",
+        "quantity": 6,
+        "unit_price": 1137.15,
+        "line_total": 6822.9
+      }
+    ],
+    "subtotal": 6822.9,
+    "tax_amount": 1364.58,
+    "total_amount": 8187.48,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-473783",
+    "date": "2025-12-02",
+    "due_date": "2026-01-01",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Atkins, Webster and Bennett",
+    "line_items": [
+      {
+        "description": "Server Hosting - Total full-range time-frame",
+        "quantity": 5,
+        "unit_price": 4961.78,
+        "line_total": 24808.9
+      }
+    ],
+    "subtotal": 24808.9,
+    "tax_amount": 4961.78,
+    "total_amount": 29770.68,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-479721",
+    "date": "2025-02-17",
+    "due_date": "2025-03-19",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Gibson, Bailey and Harrison",
+    "line_items": [
+      {
+        "description": "Legal  - Public-key bifurcated benchmark",
+        "quantity": 6,
+        "unit_price": 848.79,
+        "line_total": 5092.74
+      },
+      {
+        "description": "Insurance  - Reactive background architecture",
+        "quantity": 2,
+        "unit_price": 1105.53,
+        "line_total": 2211.06
+      },
+      {
+        "description": "Consulting - Expanded national application",
+        "quantity": 6,
+        "unit_price": 1005.09,
+        "line_total": 6030.54
+      }
+    ],
+    "subtotal": 13334.34,
+    "tax_amount": 2666.87,
+    "total_amount": 16001.21,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-842744",
+    "date": "2025-05-27",
+    "due_date": "2025-06-26",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Hughes-Taylor",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Streamlined high-level budgetary management",
+        "quantity": 3,
+        "unit_price": 712.69,
+        "line_total": 2138.07
+      }
+    ],
+    "subtotal": 2138.07,
+    "tax_amount": 427.61,
+    "total_amount": 2565.68,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-276316",
+    "date": "2024-12-22",
+    "due_date": "2025-01-21",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Jenkins Inc",
+    "line_items": [
+      {
+        "description": "Staff Compensation - Right-sized transitional instruction set",
+        "quantity": 4,
+        "unit_price": 1375.4,
+        "line_total": 5501.6
+      },
+      {
+        "description": "Insurance  - Total interactive instruction set",
+        "quantity": 8,
+        "unit_price": 1771.13,
+        "line_total": 14169.04
+      },
+      {
+        "description": "Printing  - Upgradable encompassing functionalities",
+        "quantity": 7,
+        "unit_price": 1102.64,
+        "line_total": 7718.48
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Multi-lateral maximized pricing structure",
+        "quantity": 1,
+        "unit_price": 5615.21,
+        "line_total": 5615.21
+      },
+      {
+        "description": "Hardware - Persevering even-keeled superstructure",
+        "quantity": 5,
+        "unit_price": 1394.47,
+        "line_total": 6972.35
+      }
+    ],
+    "subtotal": 39976.68,
+    "tax_amount": 7995.34,
+    "total_amount": 47972.02,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-33343",
+    "date": "2025-08-14",
+    "due_date": "2025-09-13",
+    "vendor_name": "Smith-Rogers",
+    "vendor_address": "Flat 35, Jones causeway, South Lucyhaven, S1T 9ZU",
+    "vendor_tax_id": "GB252332680",
+    "customer_name": "Roberts-Knight",
+    "line_items": [
+      {
+        "description": "Office Supplies - Reduced dynamic Graphic Interface",
+        "quantity": 1,
+        "unit_price": 189.82,
+        "line_total": 189.82
+      },
+      {
+        "description": "Postage  - Public-key multimedia matrix",
+        "quantity": 2,
+        "unit_price": 1181.83,
+        "line_total": 2363.66
+      }
+    ],
+    "subtotal": 2553.48,
+    "tax_amount": 510.7,
+    "total_amount": 3064.18,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-323574",
+    "date": "2025-07-22",
+    "due_date": "2025-08-21",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Thomson Ltd",
+    "line_items": [
+      {
+        "description": "Staff Compensation - Quality-focused real-time knowledge user",
+        "quantity": 2,
+        "unit_price": 876.54,
+        "line_total": 1753.08
+      },
+      {
+        "description": "Software License - Up-sized bi-directional matrix",
+        "quantity": 2,
+        "unit_price": 171.25,
+        "line_total": 342.5
+      },
+      {
+        "description": "Printing  - Expanded 5thgeneration concept",
+        "quantity": 5,
+        "unit_price": 1505.7,
+        "line_total": 7528.5
+      }
+    ],
+    "subtotal": 9624.08,
+    "tax_amount": 1924.82,
+    "total_amount": 11548.9,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-496514",
+    "date": "2025-03-31",
+    "due_date": "2025-04-30",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Day, Arnold and Jones",
+    "line_items": [
+      {
+        "description": "Office Supplies - Down-sized responsive protocol",
+        "quantity": 7,
+        "unit_price": 38.29,
+        "line_total": 268.03
+      },
+      {
+        "description": "Audit Services - Reactive well-modulated monitoring",
+        "quantity": 2,
+        "unit_price": 4367.69,
+        "line_total": 8735.38
+      },
+      {
+        "description": "Building  - Enterprise-wide mobile adapter",
+        "quantity": 4,
+        "unit_price": 1256.87,
+        "line_total": 5027.48
+      }
+    ],
+    "subtotal": 14030.89,
+    "tax_amount": 2806.18,
+    "total_amount": 16837.07,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-443433",
+    "date": "2025-01-17",
+    "due_date": "2025-02-16",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Cox, Hughes and Henry",
+    "line_items": [
+      {
+        "description": "Travel - Self-enabling systematic encryption",
+        "quantity": 7,
+        "unit_price": 742.9,
+        "line_total": 5200.3
+      },
+      {
+        "description": "Office Supplies - Intuitive interactive access",
+        "quantity": 3,
+        "unit_price": 99.48,
+        "line_total": 298.44
+      },
+      {
+        "description": "Marketing Agency - Re-engineered interactive solution",
+        "quantity": 10,
+        "unit_price": 4067.25,
+        "line_total": 40672.5
+      }
+    ],
+    "subtotal": 46171.24,
+    "tax_amount": 9234.25,
+    "total_amount": 55405.49,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-393039",
+    "date": "2025-06-19",
+    "due_date": "2025-07-19",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Smith-Thompson",
+    "line_items": [
+      {
+        "description": "Software License - Robust full-range hub",
+        "quantity": 1,
+        "unit_price": 54.33,
+        "line_total": 54.33
+      },
+      {
+        "description": "Telecommunications  - Configurable background access",
+        "quantity": 4,
+        "unit_price": 1880.69,
+        "line_total": 7522.76
+      },
+      {
+        "description": "Staff Compensation - Grass-roots 5thgeneration instruction set",
+        "quantity": 1,
+        "unit_price": 1751.51,
+        "line_total": 1751.51
+      },
+      {
+        "description": "Insurance  - Universal homogeneous approach",
+        "quantity": 4,
+        "unit_price": 580.42,
+        "line_total": 2321.68
+      }
+    ],
+    "subtotal": 11650.28,
+    "tax_amount": 2330.06,
+    "total_amount": 13980.34,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-951539",
+    "date": "2025-11-08",
+    "due_date": "2025-12-08",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Norton and Sons",
+    "line_items": [
+      {
+        "description": "Server Hosting - Customizable object-oriented focus group",
+        "quantity": 3,
+        "unit_price": 3692.06,
+        "line_total": 11076.18
+      },
+      {
+        "description": "Software License - Networked 4thgeneration help-desk",
+        "quantity": 5,
+        "unit_price": 149.3,
+        "line_total": 746.5
+      },
+      {
+        "description": "Telecommunications  - Multi-lateral non-volatile archive",
+        "quantity": 5,
+        "unit_price": 765.49,
+        "line_total": 3827.45
+      }
+    ],
+    "subtotal": 15650.130000000001,
+    "tax_amount": 3130.03,
+    "total_amount": 18780.16,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-581325",
+    "date": "2025-04-12",
+    "due_date": "2025-05-12",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Morgan, Ward and Vaughan",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Virtual tertiary ability",
+        "quantity": 8,
+        "unit_price": 755.53,
+        "line_total": 6044.24
+      },
+      {
+        "description": "Postage  - Team-oriented intangible open system",
+        "quantity": 8,
+        "unit_price": 1094.34,
+        "line_total": 8754.72
+      },
+      {
+        "description": "Marketing Agency - Optimized asymmetric customer loyalty",
+        "quantity": 3,
+        "unit_price": 4502.7,
+        "line_total": 13508.1
+      },
+      {
+        "description": "Building  - Distributed cohesive superstructure",
+        "quantity": 3,
+        "unit_price": 986.78,
+        "line_total": 2960.34
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Focused eco-centric secured line",
+        "quantity": 1,
+        "unit_price": 35327.17,
+        "line_total": 35327.17
+      }
+    ],
+    "subtotal": 66594.56999999999,
+    "tax_amount": 13318.91,
+    "total_amount": 79913.48,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-93657",
+    "date": "2025-05-11",
+    "due_date": "2025-06-10",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Peacock-Parsons",
+    "line_items": [
+      {
+        "description": "Accounting - Face-to-face fault-tolerant hierarchy",
+        "quantity": 7,
+        "unit_price": 3993.27,
+        "line_total": 27952.89
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Multi-tiered motivating pricing structure",
+        "quantity": 10,
+        "unit_price": 39640.52,
+        "line_total": 396405.2
+      }
+    ],
+    "subtotal": 424358.09,
+    "tax_amount": 84871.62,
+    "total_amount": 509229.71,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-912886",
+    "date": "2025-02-24",
+    "due_date": "2025-03-26",
+    "vendor_name": "Smith-Rogers",
+    "vendor_address": "Flat 35, Jones causeway, South Lucyhaven, S1T 9ZU",
+    "vendor_tax_id": "GB252332680",
+    "customer_name": "Gregory-Williams",
+    "line_items": [
+      {
+        "description": "Office Supplies - Progressive actuating instruction set",
+        "quantity": 6,
+        "unit_price": 142.87,
+        "line_total": 857.22
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Seamless coherent Local Area Network",
+        "quantity": 1,
+        "unit_price": 23320.86,
+        "line_total": 23320.86
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Persevering regional focus group",
+        "quantity": 3,
+        "unit_price": 22123.64,
+        "line_total": 66370.92
+      },
+      {
+        "description": "Server Hosting - Synchronized cohesive adapter",
+        "quantity": 3,
+        "unit_price": 3746.44,
+        "line_total": 11239.32
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Decentralized client-server analyzer",
+        "quantity": 3,
+        "unit_price": 32975.43,
+        "line_total": 98926.29
+      }
+    ],
+    "subtotal": 200714.61,
+    "tax_amount": 40142.92,
+    "total_amount": 240857.53,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-228832",
+    "date": "2025-06-03",
+    "due_date": "2025-07-03",
+    "vendor_name": "Thompson, Hancock and Burns",
+    "vendor_address": "Studio 3, Davies union, South Julian, SN82 6SH",
+    "vendor_tax_id": "GB661942446",
+    "customer_name": "Reid Ltd",
+    "line_items": [
+      {
+        "description": "IT Services - Streamlined static encryption",
+        "quantity": 1,
+        "unit_price": 130.92,
+        "line_total": 130.92
+      },
+      {
+        "description": "Hardware - Open-architected bottom-line circuit",
+        "quantity": 4,
+        "unit_price": 1107.73,
+        "line_total": 4430.92
+      },
+      {
+        "description": "Telecommunications  - Profit-focused local moderator",
+        "quantity": 2,
+        "unit_price": 1537.43,
+        "line_total": 3074.86
+      },
+      {
+        "description": "Hardware - Self-enabling discrete conglomeration",
+        "quantity": 9,
+        "unit_price": 1424.24,
+        "line_total": 12818.16
+      },
+      {
+        "description": "Printing  - Seamless bandwidth-monitored synergy",
+        "quantity": 2,
+        "unit_price": 1942.75,
+        "line_total": 3885.5
+      }
+    ],
+    "subtotal": 24340.36,
+    "tax_amount": 4868.07,
+    "total_amount": 29208.43,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-652383",
+    "date": "2025-07-24",
+    "due_date": "2025-08-23",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Williams PLC",
+    "line_items": [
+      {
+        "description": "Telecommunications  - De-engineered system-worthy capacity",
+        "quantity": 1,
+        "unit_price": 1167.14,
+        "line_total": 1167.14
+      }
+    ],
+    "subtotal": 1167.14,
+    "tax_amount": 233.43,
+    "total_amount": 1400.57,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-704807",
+    "date": "2025-10-09",
+    "due_date": "2025-11-08",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Jennings, Rose and Forster",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Optional didactic intranet",
+        "quantity": 10,
+        "unit_price": 1190.16,
+        "line_total": 11901.6
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Exclusive asymmetric core",
+        "quantity": 5,
+        "unit_price": 13386.46,
+        "line_total": 66932.3
+      },
+      {
+        "description": "Recruitment Agency - Permanent - Innovative analyzing strategy",
+        "quantity": 6,
+        "unit_price": 8320.93,
+        "line_total": 49925.58
+      },
+      {
+        "description": "Building  - Ergonomic maximized conglomeration",
+        "quantity": 6,
+        "unit_price": 1734.28,
+        "line_total": 10405.68
+      }
+    ],
+    "subtotal": 139165.16,
+    "tax_amount": 27833.03,
+    "total_amount": 166998.19,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-126383",
+    "date": "2025-09-05",
+    "due_date": "2025-10-05",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Thomas, Roberts and Hamilton",
+    "line_items": [
+      {
+        "description": "Audit Services - Synergized upward-trending contingency",
+        "quantity": 3,
+        "unit_price": 4781.27,
+        "line_total": 14343.81
+      },
+      {
+        "description": "Consulting - Devolved zero tolerance Internet solution",
+        "quantity": 7,
+        "unit_price": 1102.43,
+        "line_total": 7717.01
+      },
+      {
+        "description": "Staff Compensation - User-friendly scalable moratorium",
+        "quantity": 9,
+        "unit_price": 1552.91,
+        "line_total": 13976.19
+      }
+    ],
+    "subtotal": 36037.01,
+    "tax_amount": 7207.4,
+    "total_amount": 43244.41,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-20993",
+    "date": "2025-06-25",
+    "due_date": "2025-07-25",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Matthews-Edwards",
+    "line_items": [
+      {
+        "description": "Office  - Optional bifurcated ability",
+        "quantity": 10,
+        "unit_price": 1897.77,
+        "line_total": 18977.7
+      },
+      {
+        "description": "Office  - Total asynchronous collaboration",
+        "quantity": 10,
+        "unit_price": 732.73,
+        "line_total": 7327.3
+      },
+      {
+        "description": "Hardware - Organic context-sensitive attitude",
+        "quantity": 4,
+        "unit_price": 760.11,
+        "line_total": 3040.44
+      },
+      {
+        "description": "Office  - Decentralized context-sensitive architecture",
+        "quantity": 6,
+        "unit_price": 733.54,
+        "line_total": 4401.24
+      },
+      {
+        "description": "Accounting - Front-line intermediate conglomeration",
+        "quantity": 2,
+        "unit_price": 3550.67,
+        "line_total": 7101.34
+      }
+    ],
+    "subtotal": 40848.020000000004,
+    "tax_amount": 8169.6,
+    "total_amount": 49017.62,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-458868",
+    "date": "2025-02-10",
+    "due_date": "2025-03-12",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Kemp-Taylor",
+    "line_items": [
+      {
+        "description": "Server Hosting - Visionary holistic toolset",
+        "quantity": 2,
+        "unit_price": 731.56,
+        "line_total": 1463.12
+      },
+      {
+        "description": "Office  - Synergistic next generation functionalities",
+        "quantity": 3,
+        "unit_price": 1225.63,
+        "line_total": 3676.89
+      },
+      {
+        "description": "Postage  - Horizontal heuristic methodology",
+        "quantity": 5,
+        "unit_price": 1584.75,
+        "line_total": 7923.75
+      },
+      {
+        "description": "Legal Retainer - Organic methodical infrastructure",
+        "quantity": 2,
+        "unit_price": 1410.11,
+        "line_total": 2820.22
+      }
+    ],
+    "subtotal": 15883.98,
+    "tax_amount": 3176.8,
+    "total_amount": 19060.78,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-329356",
+    "date": "2025-07-17",
+    "due_date": "2025-08-16",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Lucas-Howard",
+    "line_items": [
+      {
+        "description": "IT Services - Compatible human-resource middleware",
+        "quantity": 9,
+        "unit_price": 111.26,
+        "line_total": 1001.34
+      },
+      {
+        "description": "Consulting - Monitored 6thgeneration archive",
+        "quantity": 2,
+        "unit_price": 1793.15,
+        "line_total": 3586.3
+      },
+      {
+        "description": "Building  - Realigned multi-state service-desk",
+        "quantity": 7,
+        "unit_price": 1345.16,
+        "line_total": 9416.12
+      }
+    ],
+    "subtotal": 14003.760000000002,
+    "tax_amount": 2800.75,
+    "total_amount": 16804.51,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-845853",
+    "date": "2025-07-20",
+    "due_date": "2025-08-19",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Poole Inc",
+    "line_items": [
+      {
+        "description": "Staff Compensation - User-friendly static hub",
+        "quantity": 9,
+        "unit_price": 1988.47,
+        "line_total": 17896.23
+      },
+      {
+        "description": "Staff Compensation - Optional 3rdgeneration functionalities",
+        "quantity": 5,
+        "unit_price": 1441.54,
+        "line_total": 7207.7
+      }
+    ],
+    "subtotal": 25103.93,
+    "tax_amount": 5020.79,
+    "total_amount": 30124.72,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-835727",
+    "date": "2025-05-30",
+    "due_date": "2025-06-29",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "James-Wright",
+    "line_items": [
+      {
+        "description": "IT Services - Open-source context-sensitive portal",
+        "quantity": 1,
+        "unit_price": 109.44,
+        "line_total": 109.44
+      },
+      {
+        "description": "Staff Compensation - Future-proofed full-range array",
+        "quantity": 2,
+        "unit_price": 685.1,
+        "line_total": 1370.2
+      },
+      {
+        "description": "Staff Compensation - Total hybrid function",
+        "quantity": 6,
+        "unit_price": 1859.02,
+        "line_total": 11154.12
+      },
+      {
+        "description": "Office  - Profit-focused tertiary strategy",
+        "quantity": 5,
+        "unit_price": 698.75,
+        "line_total": 3493.75
+      },
+      {
+        "description": "Office Supplies - Quality-focused object-oriented software",
+        "quantity": 8,
+        "unit_price": 144.54,
+        "line_total": 1156.32
+      }
+    ],
+    "subtotal": 17283.83,
+    "tax_amount": 3456.77,
+    "total_amount": 20740.6,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-143303",
+    "date": "2025-02-03",
+    "due_date": "2025-03-05",
+    "vendor_name": "Thompson, Hancock and Burns",
+    "vendor_address": "Studio 3, Davies union, South Julian, SN82 6SH",
+    "vendor_tax_id": "GB661942446",
+    "customer_name": "Higgins-Webster",
+    "line_items": [
+      {
+        "description": "Legal  - Extended content-based database",
+        "quantity": 1,
+        "unit_price": 1105.6,
+        "line_total": 1105.6
+      },
+      {
+        "description": "Office  - Stand-alone systematic superstructure",
+        "quantity": 4,
+        "unit_price": 901.13,
+        "line_total": 3604.52
+      },
+      {
+        "description": "Audit Services - Self-enabling modular secured line",
+        "quantity": 6,
+        "unit_price": 3759.96,
+        "line_total": 22559.76
+      },
+      {
+        "description": "Software License - Cross-platform fresh-thinking policy",
+        "quantity": 7,
+        "unit_price": 270.53,
+        "line_total": 1893.71
+      },
+      {
+        "description": "Building  - Compatible tangible database",
+        "quantity": 3,
+        "unit_price": 1113.04,
+        "line_total": 3339.12
+      }
+    ],
+    "subtotal": 32502.709999999995,
+    "tax_amount": 6500.54,
+    "total_amount": 39003.25,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-89990",
+    "date": "2025-11-27",
+    "due_date": "2025-12-27",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Green-Elliott",
+    "line_items": [
+      {
+        "description": "Accounting - Automated national secured line",
+        "quantity": 1,
+        "unit_price": 1149.17,
+        "line_total": 1149.17
+      },
+      {
+        "description": "Staff Compensation - Future-proofed directional attitude",
+        "quantity": 9,
+        "unit_price": 626.01,
+        "line_total": 5634.09
+      },
+      {
+        "description": "Accounting - Visionary impactful throughput",
+        "quantity": 7,
+        "unit_price": 1922.89,
+        "line_total": 13460.23
+      }
+    ],
+    "subtotal": 20243.489999999998,
+    "tax_amount": 4048.7,
+    "total_amount": 24292.19,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-324442",
+    "date": "2025-02-17",
+    "due_date": "2025-03-19",
+    "vendor_name": "Thompson, Hancock and Burns",
+    "vendor_address": "Studio 3, Davies union, South Julian, SN82 6SH",
+    "vendor_tax_id": "GB661942446",
+    "customer_name": "Perry-Andrews",
+    "line_items": [
+      {
+        "description": "IT Services - Automated dynamic toolset",
+        "quantity": 2,
+        "unit_price": 117.32,
+        "line_total": 234.64
+      },
+      {
+        "description": "Building  - Compatible client-server application",
+        "quantity": 8,
+        "unit_price": 1709.89,
+        "line_total": 13679.12
+      },
+      {
+        "description": "Marketing Agency - Triple-buffered asynchronous toolset",
+        "quantity": 5,
+        "unit_price": 1250.24,
+        "line_total": 6251.2
+      },
+      {
+        "description": "Audit Services - Vision-oriented impactful intranet",
+        "quantity": 9,
+        "unit_price": 4373.97,
+        "line_total": 39365.73
+      },
+      {
+        "description": "Hardware - Balanced foreground Graphic Interface",
+        "quantity": 5,
+        "unit_price": 1243.94,
+        "line_total": 6219.7
+      }
+    ],
+    "subtotal": 65750.39,
+    "tax_amount": 13150.08,
+    "total_amount": 78900.47,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-719798",
+    "date": "2025-06-15",
+    "due_date": "2025-07-15",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "White Inc",
+    "line_items": [
+      {
+        "description": "IT Services - Enhanced zero tolerance archive",
+        "quantity": 3,
+        "unit_price": 69.41,
+        "line_total": 208.23
+      }
+    ],
+    "subtotal": 208.23,
+    "tax_amount": 41.65,
+    "total_amount": 249.88,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-416636",
+    "date": "2025-05-20",
+    "due_date": "2025-06-19",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Clark PLC",
+    "line_items": [
+      {
+        "description": "Staff Compensation - User-centric system-worthy Local Area Network",
+        "quantity": 9,
+        "unit_price": 982.78,
+        "line_total": 8845.02
+      },
+      {
+        "description": "Accounting - Multi-channeled grid-enabled framework",
+        "quantity": 1,
+        "unit_price": 3492.36,
+        "line_total": 3492.36
+      },
+      {
+        "description": "Software License - Mandatory user-facing hierarchy",
+        "quantity": 9,
+        "unit_price": 84.84,
+        "line_total": 763.56
+      },
+      {
+        "description": "Building  - Enhanced uniform architecture",
+        "quantity": 5,
+        "unit_price": 1478.49,
+        "line_total": 7392.45
+      }
+    ],
+    "subtotal": 20493.39,
+    "tax_amount": 4098.68,
+    "total_amount": 24592.07,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-669926",
+    "date": "2025-04-15",
+    "due_date": "2025-05-15",
+    "vendor_name": "Nash, Waters and Baxter",
+    "vendor_address": "2 Knowles valley, Barbaramouth, NE1 9NL",
+    "vendor_tax_id": "GB577444778",
+    "customer_name": "Jackson PLC",
+    "line_items": [
+      {
+        "description": "Legal  - Pre-emptive impactful application",
+        "quantity": 6,
+        "unit_price": 1745.79,
+        "line_total": 10474.74
+      }
+    ],
+    "subtotal": 10474.74,
+    "tax_amount": 2094.95,
+    "total_amount": 12569.69,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-386040",
+    "date": "2024-12-17",
+    "due_date": "2025-01-16",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Wilson-Harrison",
+    "line_items": [
+      {
+        "description": "Insurance  - Ameliorated tangible Graphical User Interface",
+        "quantity": 6,
+        "unit_price": 565.02,
+        "line_total": 3390.12
+      }
+    ],
+    "subtotal": 3390.12,
+    "tax_amount": 678.02,
+    "total_amount": 4068.14,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-522980",
+    "date": "2025-04-11",
+    "due_date": "2025-05-11",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Birch-Jones",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Compatible needs-based support",
+        "quantity": 8,
+        "unit_price": 616.68,
+        "line_total": 4933.44
+      },
+      {
+        "description": "Office  - Team-oriented regional circuit",
+        "quantity": 7,
+        "unit_price": 1138.02,
+        "line_total": 7966.14
+      },
+      {
+        "description": "Postage  - Customer-focused optimal conglomeration",
+        "quantity": 10,
+        "unit_price": 1094.7,
+        "line_total": 10947.0
+      },
+      {
+        "description": "Marketing Agency - Managed executive workforce",
+        "quantity": 6,
+        "unit_price": 4619.15,
+        "line_total": 27714.9
+      }
+    ],
+    "subtotal": 51561.48,
+    "tax_amount": 10312.3,
+    "total_amount": 61873.78,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-639939",
+    "date": "2025-02-06",
+    "due_date": "2025-03-08",
+    "vendor_name": "Pratt, Jackson and Wilson",
+    "vendor_address": "Studio 57, Warner spur, Sarahborough, NG47 9SH",
+    "vendor_tax_id": "GB597904254",
+    "customer_name": "Patel Group",
+    "line_items": [
+      {
+        "description": "Consulting - Diverse local neural-net",
+        "quantity": 8,
+        "unit_price": 784.75,
+        "line_total": 6278.0
+      }
+    ],
+    "subtotal": 6278.0,
+    "tax_amount": 1255.6,
+    "total_amount": 7533.6,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-982393",
+    "date": "2025-11-03",
+    "due_date": "2025-12-03",
+    "vendor_name": "Anderson-Freeman",
+    "vendor_address": "7 Mistry mountain, Aliborough, ME5P 4YL",
+    "vendor_tax_id": "GB495783926",
+    "customer_name": "Carpenter, Sullivan and Simpson",
+    "line_items": [
+      {
+        "description": "Consulting - Horizontal non-volatile groupware",
+        "quantity": 1,
+        "unit_price": 1448.45,
+        "line_total": 1448.45
+      }
+    ],
+    "subtotal": 1448.45,
+    "tax_amount": 289.69,
+    "total_amount": 1738.14,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-110673",
+    "date": "2025-12-08",
+    "due_date": "2026-01-07",
+    "vendor_name": "Smith-Rogers",
+    "vendor_address": "Flat 35, Jones causeway, South Lucyhaven, S1T 9ZU",
+    "vendor_tax_id": "GB252332680",
+    "customer_name": "Bell, Roberts and Whitehead",
+    "line_items": [
+      {
+        "description": "Legal Retainer - Digitized neutral info-mediaries",
+        "quantity": 8,
+        "unit_price": 775.42,
+        "line_total": 6203.36
+      },
+      {
+        "description": "Travel - Face-to-face asymmetric framework",
+        "quantity": 9,
+        "unit_price": 1522.15,
+        "line_total": 13699.35
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Quality-focused human-resource solution",
+        "quantity": 5,
+        "unit_price": 3594.9,
+        "line_total": 17974.5
+      },
+      {
+        "description": "Catering  - Seamless bandwidth-monitored emulation",
+        "quantity": 2,
+        "unit_price": 843.5,
+        "line_total": 1687.0
+      }
+    ],
+    "subtotal": 39564.21,
+    "tax_amount": 7912.84,
+    "total_amount": 47477.05,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-936976",
+    "date": "2025-07-09",
+    "due_date": "2025-08-08",
+    "vendor_name": "Taylor, Richardson and Bell",
+    "vendor_address": "Studio 00Z, Liam mount, Liamburgh, GU92 5AA",
+    "vendor_tax_id": "GB783498778",
+    "customer_name": "Green, Howe and Hunt",
+    "line_items": [
+      {
+        "description": "Printing  - Face-to-face optimal knowledgebase",
+        "quantity": 7,
+        "unit_price": 1222.45,
+        "line_total": 8557.15
+      },
+      {
+        "description": "Recruitment Agency - Temporary - Streamlined grid-enabled website",
+        "quantity": 1,
+        "unit_price": 36548.77,
+        "line_total": 36548.77
+      },
+      {
+        "description": "Catering  - Decentralized modular focus group",
+        "quantity": 1,
+        "unit_price": 1977.43,
+        "line_total": 1977.43
+      },
+      {
+        "description": "Telecommunications  - Ameliorated regional monitoring",
+        "quantity": 6,
+        "unit_price": 1901.82,
+        "line_total": 11410.92
+      }
+    ],
+    "subtotal": 58494.27,
+    "tax_amount": 11698.85,
+    "total_amount": 70193.12,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-137094",
+    "date": "2025-10-30",
+    "due_date": "2025-11-29",
+    "vendor_name": "Sharpe, Wood and Hall",
+    "vendor_address": "Studio 97, Phillip pass, Lake Olivia, E75 8UU",
+    "vendor_tax_id": "GB580976630",
+    "customer_name": "Jenkins-Benson",
+    "line_items": [
+      {
+        "description": "Audit Services - Front-line actuating functionalities",
+        "quantity": 10,
+        "unit_price": 2091.24,
+        "line_total": 20912.4
+      },
+      {
+        "description": "Telecommunications  - Exclusive systematic moratorium",
+        "quantity": 4,
+        "unit_price": 539.38,
+        "line_total": 2157.52
+      }
+    ],
+    "subtotal": 23069.920000000002,
+    "tax_amount": 4613.98,
+    "total_amount": 27683.9,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-853539",
+    "date": "2025-08-04",
+    "due_date": "2025-09-03",
+    "vendor_name": "Stephens-Jones",
+    "vendor_address": "57 Fox meadows, Phillipsburgh, HD1 9TW",
+    "vendor_tax_id": "GB375532397",
+    "customer_name": "Brown LLC",
+    "line_items": [
+      {
+        "description": "Catering  - Switchable real-time infrastructure",
+        "quantity": 2,
+        "unit_price": 1240.27,
+        "line_total": 2480.54
+      },
+      {
+        "description": "Travel - Monitored web-enabled info-mediaries",
+        "quantity": 4,
+        "unit_price": 1548.73,
+        "line_total": 6194.92
+      },
+      {
+        "description": "Hardware - Reverse-engineered clear-thinking core",
+        "quantity": 6,
+        "unit_price": 914.98,
+        "line_total": 5489.88
+      }
+    ],
+    "subtotal": 14165.34,
+    "tax_amount": 2833.07,
+    "total_amount": 16998.41,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-888503",
+    "date": "2025-03-06",
+    "due_date": "2025-04-05",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Franklin Ltd",
+    "line_items": [
+      {
+        "description": "Legal  - Cloned grid-enabled focus group",
+        "quantity": 8,
+        "unit_price": 1497.57,
+        "line_total": 11980.56
+      }
+    ],
+    "subtotal": 11980.56,
+    "tax_amount": 2396.11,
+    "total_amount": 14376.67,
+    "currency": "GBP"
+  },
+  {
+    "invoice_id": "INV-519861",
+    "date": "2025-12-11",
+    "due_date": "2026-01-10",
+    "vendor_name": "Holloway PLC",
+    "vendor_address": "Studio 3, Mathew lights, Wilsonberg, SK3A 0BD",
+    "vendor_tax_id": "GB384989186",
+    "customer_name": "Webster, Wallace and Ali",
+    "line_items": [
+      {
+        "description": "Building  - Total 5thgeneration circuit",
+        "quantity": 2,
+        "unit_price": 1318.11,
+        "line_total": 2636.22
+      },
+      {
+        "description": "Telecommunications  - Advanced heuristic process improvement",
+        "quantity": 1,
+        "unit_price": 1173.4,
+        "line_total": 1173.4
+      }
+    ],
+    "subtotal": 3809.62,
+    "tax_amount": 761.92,
+    "total_amount": 4571.54,
+    "currency": "GBP"
+  }
+]

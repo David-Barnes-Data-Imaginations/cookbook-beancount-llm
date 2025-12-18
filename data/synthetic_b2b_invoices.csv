@@ -1,0 +1,295 @@
+Invoice_ID,Date,Vendor,Customer,Description,Quantity,Unit_Price,Line_Total,Invoice_Subtotal,Invoice_Tax,Invoice_Total
+INV-727224,2025-02-23,"Thompson, Hancock and Burns",Jackson-Dixon,Legal Retainer - Re-contextualized grid-enabled array,10,1292.11,12921.1,38838.94,7767.79,46606.73
+INV-727224,2025-02-23,"Thompson, Hancock and Burns",Jackson-Dixon,Server Hosting - Upgradable dedicated utilization,2,4503.01,9006.02,38838.94,7767.79,46606.73
+INV-727224,2025-02-23,"Thompson, Hancock and Burns",Jackson-Dixon,Office  - Integrated web-enabled groupware,10,951.17,9511.7,38838.94,7767.79,46606.73
+INV-727224,2025-02-23,"Thompson, Hancock and Burns",Jackson-Dixon,Legal  - Intuitive multi-tasking portal,4,1850.03,7400.12,38838.94,7767.79,46606.73
+INV-269204,2025-04-21,"Murphy, Richards and Warner",Griffiths LLC,Catering  - Operative dedicated circuit,9,731.82,6586.38,29488.39,5897.68,35386.07
+INV-269204,2025-04-21,"Murphy, Richards and Warner",Griffiths LLC,Audit Services - Re-engineered tangible customer loyalty,8,1419.41,11355.28,29488.39,5897.68,35386.07
+INV-269204,2025-04-21,"Murphy, Richards and Warner",Griffiths LLC,Consulting - Grass-roots real-time intranet,5,1345.05,6725.25,29488.39,5897.68,35386.07
+INV-269204,2025-04-21,"Murphy, Richards and Warner",Griffiths LLC,Office  - Secured needs-based access,4,1205.37,4821.48,29488.39,5897.68,35386.07
+INV-848218,2025-07-12,"Murphy, Richards and Warner","Hussain, Patel and Thomas",Postage  - Managed regional toolset,6,781.73,4690.38,13489.0,2697.8,16186.8
+INV-848218,2025-07-12,"Murphy, Richards and Warner","Hussain, Patel and Thomas",Office Supplies - Open-source heuristic approach,10,76.58,765.8,13489.0,2697.8,16186.8
+INV-848218,2025-07-12,"Murphy, Richards and Warner","Hussain, Patel and Thomas",Office  - Automated attitude-oriented open architecture,4,1510.46,6041.84,13489.0,2697.8,16186.8
+INV-848218,2025-07-12,"Murphy, Richards and Warner","Hussain, Patel and Thomas",Telecommunications  - Upgradable object-oriented encoding,1,1990.98,1990.98,13489.0,2697.8,16186.8
+INV-192477,2025-09-17,"Pratt, Jackson and Wilson",Bruce-Smith,Staff Compensation - Reverse-engineered value-added help-desk,9,1462.77,13164.93,47787.5,9557.5,57345.0
+INV-192477,2025-09-17,"Pratt, Jackson and Wilson",Bruce-Smith,Server Hosting - Devolved hybrid pricing structure,2,4576.99,9153.98,47787.5,9557.5,57345.0
+INV-192477,2025-09-17,"Pratt, Jackson and Wilson",Bruce-Smith,Legal  - Versatile stable adapter,9,1597.75,14379.75,47787.5,9557.5,57345.0
+INV-192477,2025-09-17,"Pratt, Jackson and Wilson",Bruce-Smith,Building  - Digitized even-keeled artificial intelligence,6,1848.14,11088.84,47787.5,9557.5,57345.0
+INV-585052,2025-04-18,"Murphy, Richards and Warner",Hunter-Vincent,Printing  - Profit-focused local parallelism,1,1924.27,1924.27,1924.27,384.85,2309.12
+INV-333195,2025-07-22,Anderson-Freeman,Patel and Sons,Telecommunications  - User-centric reciprocal architecture,6,515.3,3091.8,29285.170000000002,5857.03,35142.2
+INV-333195,2025-07-22,Anderson-Freeman,Patel and Sons,Consulting - Expanded multi-state success,8,679.49,5435.92,29285.170000000002,5857.03,35142.2
+INV-333195,2025-07-22,Anderson-Freeman,Patel and Sons,IT Services - Multi-lateral user-facing Graphic Interface,3,100.09,300.27,29285.170000000002,5857.03,35142.2
+INV-333195,2025-07-22,Anderson-Freeman,Patel and Sons,Legal  - Inverse client-server conglomeration,9,1508.76,13578.84,29285.170000000002,5857.03,35142.2
+INV-333195,2025-07-22,Anderson-Freeman,Patel and Sons,Printing  - Expanded real-time budgetary management,7,982.62,6878.34,29285.170000000002,5857.03,35142.2
+INV-766931,2025-03-20,Holloway PLC,Clark-Gray,Insurance  - Fundamental systematic migration,8,754.96,6039.68,34933.369999999995,6986.67,41920.04
+INV-766931,2025-03-20,Holloway PLC,Clark-Gray,Software License - Customer-focused composite forecast,4,163.08,652.32,34933.369999999995,6986.67,41920.04
+INV-766931,2025-03-20,Holloway PLC,Clark-Gray,Server Hosting - Devolved grid-enabled instruction set,9,1905.68,17151.12,34933.369999999995,6986.67,41920.04
+INV-766931,2025-03-20,Holloway PLC,Clark-Gray,Building  - Object-based uniform productivity,9,1232.25,11090.25,34933.369999999995,6986.67,41920.04
+INV-474966,2025-08-16,"Taylor, Richardson and Bell","Murphy, Miller and Burke",Consulting - Devolved global infrastructure,2,578.36,1156.72,1992.76,398.55,2391.31
+INV-474966,2025-08-16,"Taylor, Richardson and Bell","Murphy, Miller and Burke",Marketing Agency - Persevering bifurcated support,3,278.68,836.04,1992.76,398.55,2391.31
+INV-924996,2025-07-12,"Pratt, Jackson and Wilson","Ali, Leach and Page",Hardware - Upgradable zero tolerance implementation,10,1587.97,15879.7,24259.82,4851.96,29111.78
+INV-924996,2025-07-12,"Pratt, Jackson and Wilson","Ali, Leach and Page",Server Hosting - Operative explicit functionalities,1,4701.16,4701.16,24259.82,4851.96,29111.78
+INV-924996,2025-07-12,"Pratt, Jackson and Wilson","Ali, Leach and Page",Printing  - Implemented human-resource functionalities,4,919.74,3678.96,24259.82,4851.96,29111.78
+INV-259573,2025-01-03,Stephens-Jones,Bailey-George,Office Supplies - Down-sized leadingedge productivity,8,150.35,1202.8,260591.38,52118.28,312709.66
+INV-259573,2025-01-03,Stephens-Jones,Bailey-George,Staff Compensation - Multi-lateral bandwidth-monitored installation,10,1640.68,16406.8,260591.38,52118.28,312709.66
+INV-259573,2025-01-03,Stephens-Jones,Bailey-George,Audit Services - Multi-layered national standardization,5,1714.6,8573.0,260591.38,52118.28,312709.66
+INV-259573,2025-01-03,Stephens-Jones,Bailey-George,Legal Retainer - User-friendly multimedia definition,1,1380.06,1380.06,260591.38,52118.28,312709.66
+INV-259573,2025-01-03,Stephens-Jones,Bailey-George,Recruitment Agency - Temporary - Devolved upward-trending adapter,9,25892.08,233028.72,260591.38,52118.28,312709.66
+INV-593254,2025-07-08,Holloway PLC,Kent Group,Postage  - Stand-alone eco-centric secured line,6,1588.22,9529.32,32269.529999999995,6453.91,38723.44
+INV-593254,2025-07-08,Holloway PLC,Kent Group,Hardware - Monitored modular encryption,9,1873.91,16865.19,32269.529999999995,6453.91,38723.44
+INV-593254,2025-07-08,Holloway PLC,Kent Group,Printing  - Managed methodical contingency,6,768.68,4612.08,32269.529999999995,6453.91,38723.44
+INV-593254,2025-07-08,Holloway PLC,Kent Group,Marketing Agency - Switchable value-added alliance,2,284.47,568.94,32269.529999999995,6453.91,38723.44
+INV-593254,2025-07-08,Holloway PLC,Kent Group,Office Supplies - Future-proofed intangible circuit,8,86.75,694.0,32269.529999999995,6453.91,38723.44
+INV-836301,2025-01-23,"Thompson, Hancock and Burns",Sharp-Smith,Staff Compensation - Focused logistical matrices,7,801.11,5607.77,33773.16,6754.63,40527.79
+INV-836301,2025-01-23,"Thompson, Hancock and Burns",Sharp-Smith,Telecommunications  - Synergized local alliance,5,1557.65,7788.25,33773.16,6754.63,40527.79
+INV-836301,2025-01-23,"Thompson, Hancock and Burns",Sharp-Smith,Audit Services - Decentralized regional model,10,1574.85,15748.5,33773.16,6754.63,40527.79
+INV-836301,2025-01-23,"Thompson, Hancock and Burns",Sharp-Smith,Hardware - Re-engineered foreground protocol,3,1542.88,4628.64,33773.16,6754.63,40527.79
+INV-228313,2025-03-04,Anderson-Freeman,Ali-Brown,Recruitment Agency - Temporary - Grass-roots radical synergy,9,21823.29,196409.61,205685.39,41137.08,246822.47
+INV-228313,2025-03-04,Anderson-Freeman,Ali-Brown,Office Supplies - Synergistic dynamic extranet,5,89.24,446.2,205685.39,41137.08,246822.47
+INV-228313,2025-03-04,Anderson-Freeman,Ali-Brown,Office Supplies - Inverse regional moderator,2,75.35,150.7,205685.39,41137.08,246822.47
+INV-228313,2025-03-04,Anderson-Freeman,Ali-Brown,Server Hosting - Automated bifurcated budgetary management,4,2169.72,8678.88,205685.39,41137.08,246822.47
+INV-609177,2025-11-04,"Sharpe, Wood and Hall","Edwards, Quinn and Fletcher",Office Supplies - Integrated fault-tolerant flexibility,1,56.54,56.54,25396.980000000003,5079.4,30476.38
+INV-609177,2025-11-04,"Sharpe, Wood and Hall","Edwards, Quinn and Fletcher",Office  - Balanced bi-directional capability,3,1353.4,4060.2,25396.980000000003,5079.4,30476.38
+INV-609177,2025-11-04,"Sharpe, Wood and Hall","Edwards, Quinn and Fletcher",Legal  - Face-to-face attitude-oriented architecture,3,1795.48,5386.44,25396.980000000003,5079.4,30476.38
+INV-609177,2025-11-04,"Sharpe, Wood and Hall","Edwards, Quinn and Fletcher",Staff Compensation - User-centric radical software,4,1139.15,4556.6,25396.980000000003,5079.4,30476.38
+INV-609177,2025-11-04,"Sharpe, Wood and Hall","Edwards, Quinn and Fletcher",Building  - Open-source empowering Local Area Network,7,1619.6,11337.2,25396.980000000003,5079.4,30476.38
+INV-328669,2025-10-01,"Taylor, Richardson and Bell",Duncan-Turner,Legal  - Integrated systematic support,9,831.44,7482.96,26244.6,5248.92,31493.52
+INV-328669,2025-10-01,"Taylor, Richardson and Bell",Duncan-Turner,IT Services - Multi-channeled zero-defect adapter,7,126.82,887.74,26244.6,5248.92,31493.52
+INV-328669,2025-10-01,"Taylor, Richardson and Bell",Duncan-Turner,Legal  - Synergized stable pricing structure,8,1614.79,12918.32,26244.6,5248.92,31493.52
+INV-328669,2025-10-01,"Taylor, Richardson and Bell",Duncan-Turner,Printing  - De-engineered directional attitude,7,707.94,4955.58,26244.6,5248.92,31493.52
+INV-389478,2025-07-04,"Murphy, Richards and Warner",Randall-White,Staff Compensation - Mandatory client-server database,1,1819.93,1819.93,1819.93,363.99,2183.92
+INV-708336,2025-06-25,"Pratt, Jackson and Wilson",Mitchell-Green,Server Hosting - Adaptive client-driven support,7,324.55,2271.85,19012.640000000003,3802.53,22815.17
+INV-708336,2025-06-25,"Pratt, Jackson and Wilson",Mitchell-Green,Travel - Expanded fresh-thinking function,10,1353.24,13532.4,19012.640000000003,3802.53,22815.17
+INV-708336,2025-06-25,"Pratt, Jackson and Wilson",Mitchell-Green,Software License - Programmable mobile adapter,9,196.87,1771.83,19012.640000000003,3802.53,22815.17
+INV-708336,2025-06-25,"Pratt, Jackson and Wilson",Mitchell-Green,Office Supplies - Enhanced stable contingency,8,179.57,1436.56,19012.640000000003,3802.53,22815.17
+INV-397048,2025-06-16,"Pratt, Jackson and Wilson",James-Stevens,Telecommunications  - Exclusive didactic solution,9,729.97,6569.73,6569.73,1313.95,7883.68
+INV-441379,2025-07-11,Holloway PLC,Atkins-Lee,Consulting - Robust secondary structure,4,821.59,3286.36,181992.52000000002,36398.5,218391.02
+INV-441379,2025-07-11,Holloway PLC,Atkins-Lee,Printing  - Customizable directional application,10,1906.14,19061.4,181992.52000000002,36398.5,218391.02
+INV-441379,2025-07-11,Holloway PLC,Atkins-Lee,Recruitment Agency - Permanent - Cross-group homogeneous info-mediaries,6,26607.46,159644.76,181992.52000000002,36398.5,218391.02
+INV-917589,2025-01-04,"Taylor, Richardson and Bell",Little-Smith,Marketing Agency - Fully-configurable neutral conglomeration,2,1807.78,3615.56,53573.07000000001,10714.61,64287.68
+INV-917589,2025-01-04,"Taylor, Richardson and Bell",Little-Smith,Telecommunications  - Cloned systemic benchmark,10,1719.52,17195.2,53573.07000000001,10714.61,64287.68
+INV-917589,2025-01-04,"Taylor, Richardson and Bell",Little-Smith,Accounting - Quality-focused secondary software,7,4680.33,32762.31,53573.07000000001,10714.61,64287.68
+INV-748041,2024-12-30,Holloway PLC,Jones-Ellis,Marketing Agency - Multi-channeled zero administration artificial intelligence,3,3685.37,11056.11,26646.35,5329.27,31975.62
+INV-748041,2024-12-30,Holloway PLC,Jones-Ellis,Printing  - Progressive attitude-oriented contingency,6,1810.44,10862.64,26646.35,5329.27,31975.62
+INV-748041,2024-12-30,Holloway PLC,Jones-Ellis,Consulting - Customizable system-worthy alliance,4,1181.9,4727.6,26646.35,5329.27,31975.62
+INV-764530,2025-05-06,Anderson-Freeman,"Roberts, Sharpe and Cooke",Software License - Phased mobile solution,10,149.44,1494.4,1494.4,298.88,1793.28
+INV-950857,2025-05-05,"Taylor, Richardson and Bell",Howard-Baker,Legal  - Sharable web-enabled approach,1,714.92,714.92,714.92,142.98,857.9
+INV-62087,2025-07-15,Holloway PLC,Carter and Sons,Insurance  - Innovative neutral system engine,9,1476.12,13285.08,313725.38,62745.08,376470.46
+INV-62087,2025-07-15,Holloway PLC,Carter and Sons,Recruitment Agency - Temporary - Cross-group solution-oriented toolset,8,34554.96,276439.68,313725.38,62745.08,376470.46
+INV-62087,2025-07-15,Holloway PLC,Carter and Sons,Printing  - Face-to-face value-added infrastructure,5,1970.89,9854.45,313725.38,62745.08,376470.46
+INV-62087,2025-07-15,Holloway PLC,Carter and Sons,Marketing Agency - Synergized global monitoring,5,742.62,3713.1,313725.38,62745.08,376470.46
+INV-62087,2025-07-15,Holloway PLC,Carter and Sons,Office  - Intuitive leadingedge orchestration,9,1159.23,10433.07,313725.38,62745.08,376470.46
+INV-86096,2025-05-10,Smith-Rogers,Wilkins LLC,Building  - Pre-emptive bifurcated utilization,6,991.1,5946.6,5946.6,1189.32,7135.92
+INV-916663,2025-08-01,"Nash, Waters and Baxter",Moore-Ford,Marketing Agency - Exclusive exuding help-desk,9,4056.42,36507.78,41788.78,8357.76,50146.54
+INV-916663,2025-08-01,"Nash, Waters and Baxter",Moore-Ford,Consulting - Mandatory intermediate initiative,4,1320.25,5281.0,41788.78,8357.76,50146.54
+INV-769360,2025-05-18,"Taylor, Richardson and Bell",Cooper-Harvey,Legal Retainer - Cross-group directional solution,6,558.9,3353.4,7502.200000000001,1500.44,9002.64
+INV-769360,2025-05-18,"Taylor, Richardson and Bell",Cooper-Harvey,Travel - Visionary actuating portal,4,1037.2,4148.8,7502.200000000001,1500.44,9002.64
+INV-855784,2025-05-10,Stephens-Jones,Johnson-Quinn,Postage  - Decentralized full-range success,6,1916.04,11496.24,46182.76,9236.55,55419.31
+INV-855784,2025-05-10,Stephens-Jones,Johnson-Quinn,Hardware - Total coherent matrix,10,1522.32,15223.2,46182.76,9236.55,55419.31
+INV-855784,2025-05-10,Stephens-Jones,Johnson-Quinn,Insurance  - Fundamental composite policy,1,597.2,597.2,46182.76,9236.55,55419.31
+INV-855784,2025-05-10,Stephens-Jones,Johnson-Quinn,Server Hosting - Reduced homogeneous process improvement,2,4812.01,9624.02,46182.76,9236.55,55419.31
+INV-855784,2025-05-10,Stephens-Jones,Johnson-Quinn,Legal Retainer - Distributed composite functionalities,9,1026.9,9242.1,46182.76,9236.55,55419.31
+INV-227668,2025-08-22,"Sharpe, Wood and Hall",Stewart-Jones,IT Services - Enhanced hybrid toolset,6,119.67,718.02,204988.71,40997.74,245986.45
+INV-227668,2025-08-22,"Sharpe, Wood and Hall",Stewart-Jones,Recruitment Agency - Permanent - Visionary foreground artificial intelligence,5,39685.56,198427.8,204988.71,40997.74,245986.45
+INV-227668,2025-08-22,"Sharpe, Wood and Hall",Stewart-Jones,Telecommunications  - Advanced value-added protocol,9,649.21,5842.89,204988.71,40997.74,245986.45
+INV-782619,2025-08-04,"Nash, Waters and Baxter",Barker LLC,Catering  - Customizable global artificial intelligence,4,1014.93,4059.72,54882.119999999995,10976.42,65858.54
+INV-782619,2025-08-04,"Nash, Waters and Baxter",Barker LLC,Audit Services - Diverse client-server focus group,10,4979.27,49792.7,54882.119999999995,10976.42,65858.54
+INV-782619,2025-08-04,"Nash, Waters and Baxter",Barker LLC,Marketing Agency - Visionary grid-enabled flexibility,1,1029.7,1029.7,54882.119999999995,10976.42,65858.54
+INV-948739,2025-03-11,"Murphy, Richards and Warner",Richards-Roberts,Marketing Agency - Universal needs-based Local Area Network,3,4760.33,14280.99,33547.740000000005,6709.55,40257.29
+INV-948739,2025-03-11,"Murphy, Richards and Warner",Richards-Roberts,Printing  - Cross-group optimizing approach,9,903.53,8131.77,33547.740000000005,6709.55,40257.29
+INV-948739,2025-03-11,"Murphy, Richards and Warner",Richards-Roberts,Legal  - Multi-tiered motivating core,6,547.09,3282.54,33547.740000000005,6709.55,40257.29
+INV-948739,2025-03-11,"Murphy, Richards and Warner",Richards-Roberts,Office  - Enhanced secondary policy,4,1963.11,7852.44,33547.740000000005,6709.55,40257.29
+INV-867591,2025-03-26,"Taylor, Richardson and Bell","Duffy, Bell and Foster",IT Services - Cross-platform incremental analyzer,7,138.91,972.37,972.37,194.47,1166.84
+INV-552948,2025-03-23,Stephens-Jones,Johnson and Sons,Hardware - Fully-configurable intermediate monitoring,9,1709.65,15386.85,45292.22,9058.44,54350.66
+INV-552948,2025-03-23,Stephens-Jones,Johnson and Sons,Audit Services - Visionary neutral data-warehouse,9,2821.28,25391.52,45292.22,9058.44,54350.66
+INV-552948,2025-03-23,Stephens-Jones,Johnson and Sons,Insurance  - Re-engineered executive access,2,660.1,1320.2,45292.22,9058.44,54350.66
+INV-552948,2025-03-23,Stephens-Jones,Johnson and Sons,IT Services - Secured systematic installation,1,163.93,163.93,45292.22,9058.44,54350.66
+INV-552948,2025-03-23,Stephens-Jones,Johnson and Sons,Telecommunications  - Virtual background Internet solution,2,1514.86,3029.72,45292.22,9058.44,54350.66
+INV-172961,2025-04-27,Holloway PLC,Morgan-Evans,Accounting - Business-focused full-range budgetary management,1,1129.22,1129.22,1129.22,225.84,1355.06
+INV-279478,2025-05-19,"Taylor, Richardson and Bell","Scott, Lewis and Rogers",Hardware - Right-sized disintermediate support,3,647.69,1943.07,1943.07,388.61,2331.68
+INV-540463,2025-05-13,"Sharpe, Wood and Hall",Phillips Ltd,Travel - Quality-focused optimal framework,8,688.46,5507.68,5507.68,1101.54,6609.22
+INV-797829,2025-05-08,Stephens-Jones,Rogers Inc,Catering  - Diverse object-oriented hierarchy,5,1036.18,5180.9,5180.9,1036.18,6217.08
+INV-75860,2025-07-05,"Pratt, Jackson and Wilson",Patel-Knowles,Travel - Visionary optimizing policy,7,878.09,6146.63,6146.63,1229.33,7375.96
+INV-507011,2025-06-29,"Nash, Waters and Baxter",Thomas-Lawrence,Marketing Agency - Customer-focused heuristic challenge,5,3796.82,18984.1,63759.99,12752.0,76511.99
+INV-507011,2025-06-29,"Nash, Waters and Baxter",Thomas-Lawrence,Recruitment Agency - Temporary - Managed fresh-thinking definition,6,4868.67,29212.02,63759.99,12752.0,76511.99
+INV-507011,2025-06-29,"Nash, Waters and Baxter",Thomas-Lawrence,Legal  - Innovative tertiary hub,6,679.01,4074.06,63759.99,12752.0,76511.99
+INV-507011,2025-06-29,"Nash, Waters and Baxter",Thomas-Lawrence,Building  - Expanded 6thgeneration complexity,8,718.14,5745.12,63759.99,12752.0,76511.99
+INV-507011,2025-06-29,"Nash, Waters and Baxter",Thomas-Lawrence,Consulting - Reactive attitude-oriented concept,7,820.67,5744.69,63759.99,12752.0,76511.99
+INV-564295,2025-08-21,"Pratt, Jackson and Wilson","Winter, Rogers and Nelson",IT Services - Optimized clear-thinking portal,6,109.98,659.88,5750.9800000000005,1150.2,6901.18
+INV-564295,2025-08-21,"Pratt, Jackson and Wilson","Winter, Rogers and Nelson",Postage  - Face-to-face 6thgeneration core,5,1018.22,5091.1,5750.9800000000005,1150.2,6901.18
+INV-259532,2025-09-25,Smith-Rogers,Dobson Group,Legal Retainer - Adaptive contextually-based task-force,4,1348.97,5395.88,24500.51,4900.1,29400.61
+INV-259532,2025-09-25,Smith-Rogers,Dobson Group,Travel - Robust zero-defect groupware,6,1578.75,9472.5,24500.51,4900.1,29400.61
+INV-259532,2025-09-25,Smith-Rogers,Dobson Group,Office  - Configurable client-server capacity,5,638.31,3191.55,24500.51,4900.1,29400.61
+INV-259532,2025-09-25,Smith-Rogers,Dobson Group,Server Hosting - Synergistic contextually-based matrices,3,1224.89,3674.67,24500.51,4900.1,29400.61
+INV-259532,2025-09-25,Smith-Rogers,Dobson Group,Consulting - Decentralized neutral application,3,921.97,2765.91,24500.51,4900.1,29400.61
+INV-271658,2025-01-03,Anderson-Freeman,Nicholls-Wilson,Recruitment Agency - Temporary - Public-key clear-thinking capacity,3,22640.28,67920.84,73273.04,14654.61,87927.65
+INV-271658,2025-01-03,Anderson-Freeman,Nicholls-Wilson,Building  - Business-focused actuating website,7,764.6,5352.2,73273.04,14654.61,87927.65
+INV-903950,2025-11-16,Holloway PLC,Horton-Clarke,Postage  - Multi-channeled zero-defect implementation,7,1498.23,10487.61,36474.84,7294.97,43769.81
+INV-903950,2025-11-16,Holloway PLC,Horton-Clarke,Hardware - Fundamental motivating artificial intelligence,10,1229.87,12298.7,36474.84,7294.97,43769.81
+INV-903950,2025-11-16,Holloway PLC,Horton-Clarke,Postage  - De-engineered tertiary product,1,1273.35,1273.35,36474.84,7294.97,43769.81
+INV-903950,2025-11-16,Holloway PLC,Horton-Clarke,Building  - Persevering content-based throughput,3,1365.66,4096.98,36474.84,7294.97,43769.81
+INV-903950,2025-11-16,Holloway PLC,Horton-Clarke,Insurance  - Visionary contextually-based benchmark,10,831.82,8318.2,36474.84,7294.97,43769.81
+INV-47940,2025-02-12,Holloway PLC,"King, Clarke and Newton",Recruitment Agency - Permanent - Phased explicit projection,7,32042.3,224296.1,435444.07999999996,87088.82,522532.9
+INV-47940,2025-02-12,Holloway PLC,"King, Clarke and Newton",Recruitment Agency - Temporary - Versatile impactful workforce,9,9319.87,83878.83,435444.07999999996,87088.82,522532.9
+INV-47940,2025-02-12,Holloway PLC,"King, Clarke and Newton",Recruitment Agency - Temporary - Proactive actuating hardware,5,25453.83,127269.15,435444.07999999996,87088.82,522532.9
+INV-64442,2024-12-29,"Murphy, Richards and Warner",Murphy LLC,Hardware - De-engineered secondary moderator,9,575.5,5179.5,39358.78,7871.76,47230.54
+INV-64442,2024-12-29,"Murphy, Richards and Warner",Murphy LLC,Legal Retainer - Programmable responsive time-frame,8,946.92,7575.36,39358.78,7871.76,47230.54
+INV-64442,2024-12-29,"Murphy, Richards and Warner",Murphy LLC,Travel - Programmable analyzing contingency,8,783.16,6265.28,39358.78,7871.76,47230.54
+INV-64442,2024-12-29,"Murphy, Richards and Warner",Murphy LLC,Recruitment Agency - Temporary - Devolved radical intranet,8,2542.33,20338.64,39358.78,7871.76,47230.54
+INV-616428,2025-03-15,Anderson-Freeman,Hewitt and Sons,Marketing Agency - Future-proofed tangible leverage,6,2691.3,16147.8,16147.8,3229.56,19377.36
+INV-774702,2025-11-07,Stephens-Jones,"Bond, Williams and Lowe",Travel - Implemented encompassing forecast,3,1173.52,3520.56,3520.56,704.11,4224.67
+INV-763312,2025-02-23,"Nash, Waters and Baxter",Cooper Ltd,Office  - Programmable leadingedge model,10,760.11,7601.1,7601.1,1520.22,9121.32
+INV-817449,2025-02-02,Smith-Rogers,Coates-Skinner,Software License - Reactive asynchronous circuit,5,246.87,1234.35,220795.99,44159.2,264955.19
+INV-817449,2025-02-02,Smith-Rogers,Coates-Skinner,Marketing Agency - Optimized multi-state Internet solution,7,3575.08,25025.56,220795.99,44159.2,264955.19
+INV-817449,2025-02-02,Smith-Rogers,Coates-Skinner,Recruitment Agency - Temporary - Pre-emptive incremental collaboration,9,21615.12,194536.08,220795.99,44159.2,264955.19
+INV-578683,2025-06-14,"Pratt, Jackson and Wilson",Farrell Ltd,Printing  - Multi-tiered national alliance,2,758.48,1516.96,93600.42,18720.08,112320.5
+INV-578683,2025-06-14,"Pratt, Jackson and Wilson",Farrell Ltd,Software License - Streamlined systemic intranet,6,209.77,1258.62,93600.42,18720.08,112320.5
+INV-578683,2025-06-14,"Pratt, Jackson and Wilson",Farrell Ltd,Hardware - Synergistic multi-state Graphical User Interface,6,1808.93,10853.58,93600.42,18720.08,112320.5
+INV-578683,2025-06-14,"Pratt, Jackson and Wilson",Farrell Ltd,Building  - Devolved motivating pricing structure,8,1997.42,15979.36,93600.42,18720.08,112320.5
+INV-578683,2025-06-14,"Pratt, Jackson and Wilson",Farrell Ltd,Recruitment Agency - Permanent - Virtual dynamic migration,10,6399.19,63991.9,93600.42,18720.08,112320.5
+INV-485767,2024-12-14,Holloway PLC,Gray-Walker,Accounting - Front-line full-range leverage,2,3548.81,7097.62,50070.42,10014.08,60084.5
+INV-485767,2024-12-14,Holloway PLC,Gray-Walker,Accounting - Adaptive value-added framework,8,2944.23,23553.84,50070.42,10014.08,60084.5
+INV-485767,2024-12-14,Holloway PLC,Gray-Walker,Postage  - Organized client-server functionalities,5,1610.68,8053.4,50070.42,10014.08,60084.5
+INV-485767,2024-12-14,Holloway PLC,Gray-Walker,Staff Compensation - Universal multi-state portal,2,1807.54,3615.08,50070.42,10014.08,60084.5
+INV-485767,2024-12-14,Holloway PLC,Gray-Walker,Catering  - User-centric multi-tasking product,4,1937.62,7750.48,50070.42,10014.08,60084.5
+INV-734012,2025-03-28,"Sharpe, Wood and Hall","Stephenson, Brown and Walton",Consulting - Automated client-driven capacity,5,1646.39,8231.95,36508.39,7301.68,43810.07
+INV-734012,2025-03-28,"Sharpe, Wood and Hall","Stephenson, Brown and Walton",Server Hosting - Visionary bifurcated hardware,6,4712.74,28276.44,36508.39,7301.68,43810.07
+INV-290732,2025-10-25,"Murphy, Richards and Warner","Fraser, Hussain and Berry",Office Supplies - Function-based systemic standardization,8,65.81,526.48,526.48,105.3,631.78
+INV-252756,2025-08-02,Anderson-Freeman,Bennett-Chambers,Marketing Agency - Operative clear-thinking productivity,2,4313.74,8627.48,8627.48,1725.5,10352.98
+INV-931244,2025-02-03,"Pratt, Jackson and Wilson",Stephens and Sons,Marketing Agency - Networked modular strategy,6,4113.56,24681.36,32555.24,6511.05,39066.29
+INV-931244,2025-02-03,"Pratt, Jackson and Wilson",Stephens and Sons,Catering  - Re-contextualized bandwidth-monitored service-desk,4,1968.47,7873.88,32555.24,6511.05,39066.29
+INV-211759,2025-05-07,"Sharpe, Wood and Hall",Woods Group,Marketing Agency - Profound bi-directional circuit,5,4360.88,21804.4,46805.36,9361.07,56166.43
+INV-211759,2025-05-07,"Sharpe, Wood and Hall",Woods Group,Legal Retainer - Expanded context-sensitive monitoring,1,584.89,584.89,46805.36,9361.07,56166.43
+INV-211759,2025-05-07,"Sharpe, Wood and Hall",Woods Group,Recruitment Agency - Temporary - Centralized interactive project,1,24416.07,24416.07,46805.36,9361.07,56166.43
+INV-706372,2025-09-28,Holloway PLC,Morgan-Francis,Postage  - Advanced value-added emulation,4,554.91,2219.64,65536.64,13107.33,78643.97
+INV-706372,2025-09-28,Holloway PLC,Morgan-Francis,Recruitment Agency - Permanent - Pre-emptive tertiary support,2,31082.47,62164.94,65536.64,13107.33,78643.97
+INV-706372,2025-09-28,Holloway PLC,Morgan-Francis,IT Services - Ergonomic executive analyzer,6,192.01,1152.06,65536.64,13107.33,78643.97
+INV-599207,2025-08-05,Stephens-Jones,"Kaur, Scott and Green",Consulting - Proactive actuating productivity,5,542.54,2712.7,28073.14,5614.63,33687.77
+INV-599207,2025-08-05,Stephens-Jones,"Kaur, Scott and Green",Insurance  - Extended contextually-based Graphical User Interface,2,1726.82,3453.64,28073.14,5614.63,33687.77
+INV-599207,2025-08-05,Stephens-Jones,"Kaur, Scott and Green",IT Services - Enterprise-wide zero administration parallelism,4,116.56,466.24,28073.14,5614.63,33687.77
+INV-599207,2025-08-05,Stephens-Jones,"Kaur, Scott and Green",Office  - Ergonomic zero tolerance success,2,747.38,1494.76,28073.14,5614.63,33687.77
+INV-599207,2025-08-05,Stephens-Jones,"Kaur, Scott and Green",Marketing Agency - Configurable 24hour infrastructure,5,3989.16,19945.8,28073.14,5614.63,33687.77
+INV-456481,2025-06-22,Anderson-Freeman,Burgess-Allan,Telecommunications  - Universal local flexibility,2,1667.89,3335.78,83046.51999999999,16609.3,99655.82
+INV-456481,2025-06-22,Anderson-Freeman,Burgess-Allan,Printing  - Vision-oriented object-oriented task-force,10,1116.49,11164.9,83046.51999999999,16609.3,99655.82
+INV-456481,2025-06-22,Anderson-Freeman,Burgess-Allan,Audit Services - Universal coherent benchmark,8,4719.73,37757.84,83046.51999999999,16609.3,99655.82
+INV-456481,2025-06-22,Anderson-Freeman,Burgess-Allan,Server Hosting - Triple-buffered real-time challenge,7,4363.28,30542.96,83046.51999999999,16609.3,99655.82
+INV-456481,2025-06-22,Anderson-Freeman,Burgess-Allan,IT Services - Down-sized actuating collaboration,4,61.26,245.04,83046.51999999999,16609.3,99655.82
+INV-189752,2025-01-29,"Murphy, Richards and Warner",Williams-Hunt,Consulting - Multi-tiered neutral help-desk,3,1953.76,5861.28,23525.36,4705.07,28230.43
+INV-189752,2025-01-29,"Murphy, Richards and Warner",Williams-Hunt,Consulting - Configurable neutral conglomeration,7,1145.69,8019.83,23525.36,4705.07,28230.43
+INV-189752,2025-01-29,"Murphy, Richards and Warner",Williams-Hunt,Server Hosting - Proactive content-based leverage,7,1377.75,9644.25,23525.36,4705.07,28230.43
+INV-40229,2025-09-30,"Sharpe, Wood and Hall","Wilkins, Holloway and Bryant",Legal Retainer - Balanced optimizing functionalities,6,1176.21,7057.26,7057.26,1411.45,8468.71
+INV-616330,2024-12-14,"Sharpe, Wood and Hall",White and Sons,Accounting - Optimized asynchronous data-warehouse,6,1137.15,6822.9,6822.9,1364.58,8187.48
+INV-473783,2025-12-02,Anderson-Freeman,"Atkins, Webster and Bennett",Server Hosting - Total full-range time-frame,5,4961.78,24808.9,24808.9,4961.78,29770.68
+INV-479721,2025-02-17,"Pratt, Jackson and Wilson","Gibson, Bailey and Harrison",Legal  - Public-key bifurcated benchmark,6,848.79,5092.74,13334.34,2666.87,16001.21
+INV-479721,2025-02-17,"Pratt, Jackson and Wilson","Gibson, Bailey and Harrison",Insurance  - Reactive background architecture,2,1105.53,2211.06,13334.34,2666.87,16001.21
+INV-479721,2025-02-17,"Pratt, Jackson and Wilson","Gibson, Bailey and Harrison",Consulting - Expanded national application,6,1005.09,6030.54,13334.34,2666.87,16001.21
+INV-842744,2025-05-27,Anderson-Freeman,Hughes-Taylor,Legal Retainer - Streamlined high-level budgetary management,3,712.69,2138.07,2138.07,427.61,2565.68
+INV-276316,2024-12-22,Holloway PLC,Jenkins Inc,Staff Compensation - Right-sized transitional instruction set,4,1375.4,5501.6,39976.68,7995.34,47972.02
+INV-276316,2024-12-22,Holloway PLC,Jenkins Inc,Insurance  - Total interactive instruction set,8,1771.13,14169.04,39976.68,7995.34,47972.02
+INV-276316,2024-12-22,Holloway PLC,Jenkins Inc,Printing  - Upgradable encompassing functionalities,7,1102.64,7718.48,39976.68,7995.34,47972.02
+INV-276316,2024-12-22,Holloway PLC,Jenkins Inc,Recruitment Agency - Permanent - Multi-lateral maximized pricing structure,1,5615.21,5615.21,39976.68,7995.34,47972.02
+INV-276316,2024-12-22,Holloway PLC,Jenkins Inc,Hardware - Persevering even-keeled superstructure,5,1394.47,6972.35,39976.68,7995.34,47972.02
+INV-33343,2025-08-14,Smith-Rogers,Roberts-Knight,Office Supplies - Reduced dynamic Graphic Interface,1,189.82,189.82,2553.48,510.7,3064.18
+INV-33343,2025-08-14,Smith-Rogers,Roberts-Knight,Postage  - Public-key multimedia matrix,2,1181.83,2363.66,2553.48,510.7,3064.18
+INV-323574,2025-07-22,"Nash, Waters and Baxter",Thomson Ltd,Staff Compensation - Quality-focused real-time knowledge user,2,876.54,1753.08,9624.08,1924.82,11548.9
+INV-323574,2025-07-22,"Nash, Waters and Baxter",Thomson Ltd,Software License - Up-sized bi-directional matrix,2,171.25,342.5,9624.08,1924.82,11548.9
+INV-323574,2025-07-22,"Nash, Waters and Baxter",Thomson Ltd,Printing  - Expanded 5thgeneration concept,5,1505.7,7528.5,9624.08,1924.82,11548.9
+INV-496514,2025-03-31,"Nash, Waters and Baxter","Day, Arnold and Jones",Office Supplies - Down-sized responsive protocol,7,38.29,268.03,14030.89,2806.18,16837.07
+INV-496514,2025-03-31,"Nash, Waters and Baxter","Day, Arnold and Jones",Audit Services - Reactive well-modulated monitoring,2,4367.69,8735.38,14030.89,2806.18,16837.07
+INV-496514,2025-03-31,"Nash, Waters and Baxter","Day, Arnold and Jones",Building  - Enterprise-wide mobile adapter,4,1256.87,5027.48,14030.89,2806.18,16837.07
+INV-443433,2025-01-17,"Nash, Waters and Baxter","Cox, Hughes and Henry",Travel - Self-enabling systematic encryption,7,742.9,5200.3,46171.24,9234.25,55405.49
+INV-443433,2025-01-17,"Nash, Waters and Baxter","Cox, Hughes and Henry",Office Supplies - Intuitive interactive access,3,99.48,298.44,46171.24,9234.25,55405.49
+INV-443433,2025-01-17,"Nash, Waters and Baxter","Cox, Hughes and Henry",Marketing Agency - Re-engineered interactive solution,10,4067.25,40672.5,46171.24,9234.25,55405.49
+INV-393039,2025-06-19,"Sharpe, Wood and Hall",Smith-Thompson,Software License - Robust full-range hub,1,54.33,54.33,11650.28,2330.06,13980.34
+INV-393039,2025-06-19,"Sharpe, Wood and Hall",Smith-Thompson,Telecommunications  - Configurable background access,4,1880.69,7522.76,11650.28,2330.06,13980.34
+INV-393039,2025-06-19,"Sharpe, Wood and Hall",Smith-Thompson,Staff Compensation - Grass-roots 5thgeneration instruction set,1,1751.51,1751.51,11650.28,2330.06,13980.34
+INV-393039,2025-06-19,"Sharpe, Wood and Hall",Smith-Thompson,Insurance  - Universal homogeneous approach,4,580.42,2321.68,11650.28,2330.06,13980.34
+INV-951539,2025-11-08,Anderson-Freeman,Norton and Sons,Server Hosting - Customizable object-oriented focus group,3,3692.06,11076.18,15650.130000000001,3130.03,18780.16
+INV-951539,2025-11-08,Anderson-Freeman,Norton and Sons,Software License - Networked 4thgeneration help-desk,5,149.3,746.5,15650.130000000001,3130.03,18780.16
+INV-951539,2025-11-08,Anderson-Freeman,Norton and Sons,Telecommunications  - Multi-lateral non-volatile archive,5,765.49,3827.45,15650.130000000001,3130.03,18780.16
+INV-581325,2025-04-12,"Taylor, Richardson and Bell","Morgan, Ward and Vaughan",Legal Retainer - Virtual tertiary ability,8,755.53,6044.24,66594.56999999999,13318.91,79913.48
+INV-581325,2025-04-12,"Taylor, Richardson and Bell","Morgan, Ward and Vaughan",Postage  - Team-oriented intangible open system,8,1094.34,8754.72,66594.56999999999,13318.91,79913.48
+INV-581325,2025-04-12,"Taylor, Richardson and Bell","Morgan, Ward and Vaughan",Marketing Agency - Optimized asymmetric customer loyalty,3,4502.7,13508.1,66594.56999999999,13318.91,79913.48
+INV-581325,2025-04-12,"Taylor, Richardson and Bell","Morgan, Ward and Vaughan",Building  - Distributed cohesive superstructure,3,986.78,2960.34,66594.56999999999,13318.91,79913.48
+INV-581325,2025-04-12,"Taylor, Richardson and Bell","Morgan, Ward and Vaughan",Recruitment Agency - Permanent - Focused eco-centric secured line,1,35327.17,35327.17,66594.56999999999,13318.91,79913.48
+INV-93657,2025-05-11,"Nash, Waters and Baxter",Peacock-Parsons,Accounting - Face-to-face fault-tolerant hierarchy,7,3993.27,27952.89,424358.09,84871.62,509229.71
+INV-93657,2025-05-11,"Nash, Waters and Baxter",Peacock-Parsons,Recruitment Agency - Permanent - Multi-tiered motivating pricing structure,10,39640.52,396405.2,424358.09,84871.62,509229.71
+INV-912886,2025-02-24,Smith-Rogers,Gregory-Williams,Office Supplies - Progressive actuating instruction set,6,142.87,857.22,200714.61,40142.92,240857.53
+INV-912886,2025-02-24,Smith-Rogers,Gregory-Williams,Recruitment Agency - Permanent - Seamless coherent Local Area Network,1,23320.86,23320.86,200714.61,40142.92,240857.53
+INV-912886,2025-02-24,Smith-Rogers,Gregory-Williams,Recruitment Agency - Permanent - Persevering regional focus group,3,22123.64,66370.92,200714.61,40142.92,240857.53
+INV-912886,2025-02-24,Smith-Rogers,Gregory-Williams,Server Hosting - Synchronized cohesive adapter,3,3746.44,11239.32,200714.61,40142.92,240857.53
+INV-912886,2025-02-24,Smith-Rogers,Gregory-Williams,Recruitment Agency - Permanent - Decentralized client-server analyzer,3,32975.43,98926.29,200714.61,40142.92,240857.53
+INV-228832,2025-06-03,"Thompson, Hancock and Burns",Reid Ltd,IT Services - Streamlined static encryption,1,130.92,130.92,24340.36,4868.07,29208.43
+INV-228832,2025-06-03,"Thompson, Hancock and Burns",Reid Ltd,Hardware - Open-architected bottom-line circuit,4,1107.73,4430.92,24340.36,4868.07,29208.43
+INV-228832,2025-06-03,"Thompson, Hancock and Burns",Reid Ltd,Telecommunications  - Profit-focused local moderator,2,1537.43,3074.86,24340.36,4868.07,29208.43
+INV-228832,2025-06-03,"Thompson, Hancock and Burns",Reid Ltd,Hardware - Self-enabling discrete conglomeration,9,1424.24,12818.16,24340.36,4868.07,29208.43
+INV-228832,2025-06-03,"Thompson, Hancock and Burns",Reid Ltd,Printing  - Seamless bandwidth-monitored synergy,2,1942.75,3885.5,24340.36,4868.07,29208.43
+INV-652383,2025-07-24,Anderson-Freeman,Williams PLC,Telecommunications  - De-engineered system-worthy capacity,1,1167.14,1167.14,1167.14,233.43,1400.57
+INV-704807,2025-10-09,Stephens-Jones,"Jennings, Rose and Forster",Legal Retainer - Optional didactic intranet,10,1190.16,11901.6,139165.16,27833.03,166998.19
+INV-704807,2025-10-09,Stephens-Jones,"Jennings, Rose and Forster",Recruitment Agency - Permanent - Exclusive asymmetric core,5,13386.46,66932.3,139165.16,27833.03,166998.19
+INV-704807,2025-10-09,Stephens-Jones,"Jennings, Rose and Forster",Recruitment Agency - Permanent - Innovative analyzing strategy,6,8320.93,49925.58,139165.16,27833.03,166998.19
+INV-704807,2025-10-09,Stephens-Jones,"Jennings, Rose and Forster",Building  - Ergonomic maximized conglomeration,6,1734.28,10405.68,139165.16,27833.03,166998.19
+INV-126383,2025-09-05,Anderson-Freeman,"Thomas, Roberts and Hamilton",Audit Services - Synergized upward-trending contingency,3,4781.27,14343.81,36037.01,7207.4,43244.41
+INV-126383,2025-09-05,Anderson-Freeman,"Thomas, Roberts and Hamilton",Consulting - Devolved zero tolerance Internet solution,7,1102.43,7717.01,36037.01,7207.4,43244.41
+INV-126383,2025-09-05,Anderson-Freeman,"Thomas, Roberts and Hamilton",Staff Compensation - User-friendly scalable moratorium,9,1552.91,13976.19,36037.01,7207.4,43244.41
+INV-20993,2025-06-25,"Pratt, Jackson and Wilson",Matthews-Edwards,Office  - Optional bifurcated ability,10,1897.77,18977.7,40848.020000000004,8169.6,49017.62
+INV-20993,2025-06-25,"Pratt, Jackson and Wilson",Matthews-Edwards,Office  - Total asynchronous collaboration,10,732.73,7327.3,40848.020000000004,8169.6,49017.62
+INV-20993,2025-06-25,"Pratt, Jackson and Wilson",Matthews-Edwards,Hardware - Organic context-sensitive attitude,4,760.11,3040.44,40848.020000000004,8169.6,49017.62
+INV-20993,2025-06-25,"Pratt, Jackson and Wilson",Matthews-Edwards,Office  - Decentralized context-sensitive architecture,6,733.54,4401.24,40848.020000000004,8169.6,49017.62
+INV-20993,2025-06-25,"Pratt, Jackson and Wilson",Matthews-Edwards,Accounting - Front-line intermediate conglomeration,2,3550.67,7101.34,40848.020000000004,8169.6,49017.62
+INV-458868,2025-02-10,Anderson-Freeman,Kemp-Taylor,Server Hosting - Visionary holistic toolset,2,731.56,1463.12,15883.98,3176.8,19060.78
+INV-458868,2025-02-10,Anderson-Freeman,Kemp-Taylor,Office  - Synergistic next generation functionalities,3,1225.63,3676.89,15883.98,3176.8,19060.78
+INV-458868,2025-02-10,Anderson-Freeman,Kemp-Taylor,Postage  - Horizontal heuristic methodology,5,1584.75,7923.75,15883.98,3176.8,19060.78
+INV-458868,2025-02-10,Anderson-Freeman,Kemp-Taylor,Legal Retainer - Organic methodical infrastructure,2,1410.11,2820.22,15883.98,3176.8,19060.78
+INV-329356,2025-07-17,"Nash, Waters and Baxter",Lucas-Howard,IT Services - Compatible human-resource middleware,9,111.26,1001.34,14003.760000000002,2800.75,16804.51
+INV-329356,2025-07-17,"Nash, Waters and Baxter",Lucas-Howard,Consulting - Monitored 6thgeneration archive,2,1793.15,3586.3,14003.760000000002,2800.75,16804.51
+INV-329356,2025-07-17,"Nash, Waters and Baxter",Lucas-Howard,Building  - Realigned multi-state service-desk,7,1345.16,9416.12,14003.760000000002,2800.75,16804.51
+INV-845853,2025-07-20,Anderson-Freeman,Poole Inc,Staff Compensation - User-friendly static hub,9,1988.47,17896.23,25103.93,5020.79,30124.72
+INV-845853,2025-07-20,Anderson-Freeman,Poole Inc,Staff Compensation - Optional 3rdgeneration functionalities,5,1441.54,7207.7,25103.93,5020.79,30124.72
+INV-835727,2025-05-30,Anderson-Freeman,James-Wright,IT Services - Open-source context-sensitive portal,1,109.44,109.44,17283.83,3456.77,20740.6
+INV-835727,2025-05-30,Anderson-Freeman,James-Wright,Staff Compensation - Future-proofed full-range array,2,685.1,1370.2,17283.83,3456.77,20740.6
+INV-835727,2025-05-30,Anderson-Freeman,James-Wright,Staff Compensation - Total hybrid function,6,1859.02,11154.12,17283.83,3456.77,20740.6
+INV-835727,2025-05-30,Anderson-Freeman,James-Wright,Office  - Profit-focused tertiary strategy,5,698.75,3493.75,17283.83,3456.77,20740.6
+INV-835727,2025-05-30,Anderson-Freeman,James-Wright,Office Supplies - Quality-focused object-oriented software,8,144.54,1156.32,17283.83,3456.77,20740.6
+INV-143303,2025-02-03,"Thompson, Hancock and Burns",Higgins-Webster,Legal  - Extended content-based database,1,1105.6,1105.6,32502.709999999995,6500.54,39003.25
+INV-143303,2025-02-03,"Thompson, Hancock and Burns",Higgins-Webster,Office  - Stand-alone systematic superstructure,4,901.13,3604.52,32502.709999999995,6500.54,39003.25
+INV-143303,2025-02-03,"Thompson, Hancock and Burns",Higgins-Webster,Audit Services - Self-enabling modular secured line,6,3759.96,22559.76,32502.709999999995,6500.54,39003.25
+INV-143303,2025-02-03,"Thompson, Hancock and Burns",Higgins-Webster,Software License - Cross-platform fresh-thinking policy,7,270.53,1893.71,32502.709999999995,6500.54,39003.25
+INV-143303,2025-02-03,"Thompson, Hancock and Burns",Higgins-Webster,Building  - Compatible tangible database,3,1113.04,3339.12,32502.709999999995,6500.54,39003.25
+INV-89990,2025-11-27,"Sharpe, Wood and Hall",Green-Elliott,Accounting - Automated national secured line,1,1149.17,1149.17,20243.489999999998,4048.7,24292.19
+INV-89990,2025-11-27,"Sharpe, Wood and Hall",Green-Elliott,Staff Compensation - Future-proofed directional attitude,9,626.01,5634.09,20243.489999999998,4048.7,24292.19
+INV-89990,2025-11-27,"Sharpe, Wood and Hall",Green-Elliott,Accounting - Visionary impactful throughput,7,1922.89,13460.23,20243.489999999998,4048.7,24292.19
+INV-324442,2025-02-17,"Thompson, Hancock and Burns",Perry-Andrews,IT Services - Automated dynamic toolset,2,117.32,234.64,65750.39,13150.08,78900.47
+INV-324442,2025-02-17,"Thompson, Hancock and Burns",Perry-Andrews,Building  - Compatible client-server application,8,1709.89,13679.12,65750.39,13150.08,78900.47
+INV-324442,2025-02-17,"Thompson, Hancock and Burns",Perry-Andrews,Marketing Agency - Triple-buffered asynchronous toolset,5,1250.24,6251.2,65750.39,13150.08,78900.47
+INV-324442,2025-02-17,"Thompson, Hancock and Burns",Perry-Andrews,Audit Services - Vision-oriented impactful intranet,9,4373.97,39365.73,65750.39,13150.08,78900.47
+INV-324442,2025-02-17,"Thompson, Hancock and Burns",Perry-Andrews,Hardware - Balanced foreground Graphic Interface,5,1243.94,6219.7,65750.39,13150.08,78900.47
+INV-719798,2025-06-15,"Sharpe, Wood and Hall",White Inc,IT Services - Enhanced zero tolerance archive,3,69.41,208.23,208.23,41.65,249.88
+INV-416636,2025-05-20,"Pratt, Jackson and Wilson",Clark PLC,Staff Compensation - User-centric system-worthy Local Area Network,9,982.78,8845.02,20493.39,4098.68,24592.07
+INV-416636,2025-05-20,"Pratt, Jackson and Wilson",Clark PLC,Accounting - Multi-channeled grid-enabled framework,1,3492.36,3492.36,20493.39,4098.68,24592.07
+INV-416636,2025-05-20,"Pratt, Jackson and Wilson",Clark PLC,Software License - Mandatory user-facing hierarchy,9,84.84,763.56,20493.39,4098.68,24592.07
+INV-416636,2025-05-20,"Pratt, Jackson and Wilson",Clark PLC,Building  - Enhanced uniform architecture,5,1478.49,7392.45,20493.39,4098.68,24592.07
+INV-669926,2025-04-15,"Nash, Waters and Baxter",Jackson PLC,Legal  - Pre-emptive impactful application,6,1745.79,10474.74,10474.74,2094.95,12569.69
+INV-386040,2024-12-17,Holloway PLC,Wilson-Harrison,Insurance  - Ameliorated tangible Graphical User Interface,6,565.02,3390.12,3390.12,678.02,4068.14
+INV-522980,2025-04-11,Holloway PLC,Birch-Jones,Legal Retainer - Compatible needs-based support,8,616.68,4933.44,51561.48,10312.3,61873.78
+INV-522980,2025-04-11,Holloway PLC,Birch-Jones,Office  - Team-oriented regional circuit,7,1138.02,7966.14,51561.48,10312.3,61873.78
+INV-522980,2025-04-11,Holloway PLC,Birch-Jones,Postage  - Customer-focused optimal conglomeration,10,1094.7,10947.0,51561.48,10312.3,61873.78
+INV-522980,2025-04-11,Holloway PLC,Birch-Jones,Marketing Agency - Managed executive workforce,6,4619.15,27714.9,51561.48,10312.3,61873.78
+INV-639939,2025-02-06,"Pratt, Jackson and Wilson",Patel Group,Consulting - Diverse local neural-net,8,784.75,6278.0,6278.0,1255.6,7533.6
+INV-982393,2025-11-03,Anderson-Freeman,"Carpenter, Sullivan and Simpson",Consulting - Horizontal non-volatile groupware,1,1448.45,1448.45,1448.45,289.69,1738.14
+INV-110673,2025-12-08,Smith-Rogers,"Bell, Roberts and Whitehead",Legal Retainer - Digitized neutral info-mediaries,8,775.42,6203.36,39564.21,7912.84,47477.05
+INV-110673,2025-12-08,Smith-Rogers,"Bell, Roberts and Whitehead",Travel - Face-to-face asymmetric framework,9,1522.15,13699.35,39564.21,7912.84,47477.05
+INV-110673,2025-12-08,Smith-Rogers,"Bell, Roberts and Whitehead",Recruitment Agency - Temporary - Quality-focused human-resource solution,5,3594.9,17974.5,39564.21,7912.84,47477.05
+INV-110673,2025-12-08,Smith-Rogers,"Bell, Roberts and Whitehead",Catering  - Seamless bandwidth-monitored emulation,2,843.5,1687.0,39564.21,7912.84,47477.05
+INV-936976,2025-07-09,"Taylor, Richardson and Bell","Green, Howe and Hunt",Printing  - Face-to-face optimal knowledgebase,7,1222.45,8557.15,58494.27,11698.85,70193.12
+INV-936976,2025-07-09,"Taylor, Richardson and Bell","Green, Howe and Hunt",Recruitment Agency - Temporary - Streamlined grid-enabled website,1,36548.77,36548.77,58494.27,11698.85,70193.12
+INV-936976,2025-07-09,"Taylor, Richardson and Bell","Green, Howe and Hunt",Catering  - Decentralized modular focus group,1,1977.43,1977.43,58494.27,11698.85,70193.12
+INV-936976,2025-07-09,"Taylor, Richardson and Bell","Green, Howe and Hunt",Telecommunications  - Ameliorated regional monitoring,6,1901.82,11410.92,58494.27,11698.85,70193.12
+INV-137094,2025-10-30,"Sharpe, Wood and Hall",Jenkins-Benson,Audit Services - Front-line actuating functionalities,10,2091.24,20912.4,23069.920000000002,4613.98,27683.9
+INV-137094,2025-10-30,"Sharpe, Wood and Hall",Jenkins-Benson,Telecommunications  - Exclusive systematic moratorium,4,539.38,2157.52,23069.920000000002,4613.98,27683.9
+INV-853539,2025-08-04,Stephens-Jones,Brown LLC,Catering  - Switchable real-time infrastructure,2,1240.27,2480.54,14165.34,2833.07,16998.41
+INV-853539,2025-08-04,Stephens-Jones,Brown LLC,Travel - Monitored web-enabled info-mediaries,4,1548.73,6194.92,14165.34,2833.07,16998.41
+INV-853539,2025-08-04,Stephens-Jones,Brown LLC,Hardware - Reverse-engineered clear-thinking core,6,914.98,5489.88,14165.34,2833.07,16998.41
+INV-888503,2025-03-06,Holloway PLC,Franklin Ltd,Legal  - Cloned grid-enabled focus group,8,1497.57,11980.56,11980.56,2396.11,14376.67
+INV-519861,2025-12-11,Holloway PLC,"Webster, Wallace and Ali",Building  - Total 5thgeneration circuit,2,1318.11,2636.22,3809.62,761.92,4571.54
+INV-519861,2025-12-11,Holloway PLC,"Webster, Wallace and Ali",Telecommunications  - Advanced heuristic process improvement,1,1173.4,1173.4,3809.62,761.92,4571.54

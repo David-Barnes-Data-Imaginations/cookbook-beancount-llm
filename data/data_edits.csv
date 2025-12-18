@@ -1,0 +1,891 @@
+Date,Payee,Description,Amount,Currency,Beancount_Id, Source_Account
+2023-01-01,,Opening Balance for checking account,3817.85,GBP,0bb1effd67, Lloyds
+2023-01-04,BANK FEES,Monthly bank fee,-4.00,GBP,2fcf382008, Lloyds
+2023-01-05,KFH,Paying the rent,-2400.00,GBP,2dd232f43f, Lloyds
+2023-01-05,ADP,Payroll,1350.60,GBP,777a35d998, Lloyds
+2023-01-08,British Gas,Electricity,-65.00,GBP,71cb5e5c21, Lloyds
+2023-01-08,Barclays,Paying off credit card,-62.21,GBP,f436b23529, Lloyds
+2023-01-19,ADP,Payroll,1350.60,GBP,064c476549, Lloyds
+2023-01-20,EE,Mobile,,-53.67,GBP,0bbea817e9, Lloyds
+2023-01-22,British Telecomm, Cable,-80.03,GBP,2125fd5b32, Lloyds
+2023-02-02,ADP,Payroll,1350.60,GBP,f554eaf6aa, Lloyds
+2023-02-04,BANK FEES,Monthly bank fee,-4.00,GBP,e566ce6d8c, Lloyds
+2023-02-05,KFH,Paying the rent,-2400.00,GBP,6b7c1b7a9b, Lloyds
+2023-02-08,British Gas,Heating,-65.00,GBP,f92746e1a9, Lloyds
+2023-02-10,Barclays,Paying off credit card,-586.88,GBP,5a255f8106, Lloyds
+2023-02-16,ADP,Payroll,1350.60,GBP,2ba5f5116d, Lloyds
+2023-02-20,EE,Mobile,,-59.34,GBP,f90d509afd, Lloyds
+2023-02-22,British Telecomm, Cable,-80.07,GBP,feeb4946d1, Lloyds
+2023-03-02,ADP,Payroll,1350.60,GBP,f805fe1174, Lloyds
+2023-03-04,BANK FEES,Monthly bank fee,-4.00,GBP,51cd4747eb, Lloyds
+2023-03-04,KFH,Paying the rent,-2400.00,GBP,74d6670653, Lloyds
+2023-03-08,Barclays,Paying off credit card,-547.95,GBP,efc6771f2d, Lloyds
+2023-03-09,British Gas,Electricity,-65.00,GBP,88588e84b7, Lloyds
+2023-03-16,ADP,Payroll,1350.60,GBP,23a0954d4a, Lloyds
+2023-03-20,EE,Mobile,,-75.02,GBP,3083d25187, Lloyds
+2023-03-21,British Telecomm, Cable,-79.91,GBP,8622dd6fe8, Lloyds
+2023-03-30,ADP,Payroll,1350.60,GBP,93833cc96d, Lloyds
+2023-04-03,KFH,Paying the rent,-2400.00,GBP,174ca6c502, Lloyds
+2023-04-04,BANK FEES,Monthly bank fee,-4.00,GBP,315f3b6277, Lloyds
+2023-04-08,British Gas,Heating,-65.00,GBP,b268fff15a, Lloyds
+2023-04-10,Barclays,Paying off credit card,-743.04,GBP,04c177caa3, Lloyds
+2023-04-13,ADP,Payroll,1350.60,GBP,bec769d808, Lloyds
+2023-04-18,EE,Mobile,,-77.45,GBP,e28475f842, Lloyds
+2023-04-21,British Telecomm, Cable,-79.96,GBP,8f5af55d6c, Lloyds
+2023-04-27,ADP,Payroll,1350.60,GBP,81e574291d, Lloyds
+2023-05-04,BANK FEES,Monthly bank fee,-4.00,GBP,0ed9e543ae, Lloyds
+2023-05-04,KFH,Paying the rent,-2400.00,GBP,1d63f82c36, Lloyds
+2023-05-07,Barclays,Paying off credit card,-657.07,GBP,9ff7bffe5a, Lloyds
+2023-05-09,British Gas,Electricity,-65.00,GBP,820d4d8c21, Lloyds
+2023-05-11,ADP,Payroll,1350.60,GBP,30d550e97c, Lloyds
+2023-05-20,EE,Mobile,,-78.62,GBP,5da4e7fee6, Lloyds
+2023-05-21,British Telecomm, Cable,-79.83,GBP,2f54c1ab5d, Lloyds
+2023-05-25,ADP,Payroll,1350.60,GBP,33d0ea9ffe, Lloyds
+2023-06-04,BANK FEES,Monthly bank fee,-4.00,GBP,d3838a12f8, Lloyds
+2023-06-05,KFH,Paying the rent,-2400.00,GBP,05e0105084, Lloyds
+2023-06-07,Barclays,Paying off credit card,-584.40,GBP,565ace00c6, Lloyds
+2023-06-08,British Gas,Heating,-65.00,GBP,e95e965353, Lloyds 
+2023-06-08,ADP,Payroll,1350.60,GBP,7f3b2c767e, Lloyds
+2023-06-19,EE,Mobile,,-70.00,GBP,6bd4a19ee5, Lloyds
+2023-06-22,British Telecomm, Cable,-79.94,GBP,887b896d19, Lloyds
+2023-06-22,ADP,Payroll,1350.60,GBP,a5b597c104, Lloyds
+2023-07-04,BANK FEES,Monthly bank fee,-4.00,GBP,bb6543d224, Lloyds
+2023-07-04,KFH,Paying the rent,-2400.00,GBP,043a08e55f, Lloyds
+2023-07-06,ADP,Payroll,1350.60,GBP,a18ec20b7e, Lloyds
+2023-07-08,Barclays,Paying off credit card,-622.75,GBP,47c01551f3, Lloyds
+2023-07-09,British Gas,Electricity,-65.00,GBP,e999ce0197, Lloyds
+2023-07-19,EE,Mobile,,-55.72,GBP,65e5bfdb57, Lloyds
+2023-07-20,ADP,Payroll,1350.60,GBP,078112306a, Lloyds
+2023-07-22,British Telecomm, Cable,-79.91,GBP,69c17743a6, Lloyds
+2023-08-03,ADP,Payroll,2050.60,GBP,663ed9ca2c, Lloyds
+2023-08-04,BANK FEES,Monthly bank fee,-4.00,GBP,a02e831e94, Lloyds
+2023-08-05,KFH,Paying the rent,-2400.00,GBP,4981927ccc, Lloyds
+2023-08-09,British Gas,Heating,-65.00,GBP,c0d8a1fa63, Lloyds
+2023-08-10,Barclays,Paying off credit card,-742.09,GBP,d185ca8293, Lloyds
+2023-08-17,ADP,Payroll,2550.60,GBP,d2acdbf16f, Lloyds
+2023-08-20,EE,Mobile,,-66.55,GBP,ed4e31c704, Lloyds
+2023-08-23,British Telecomm, Cable,-80.12,GBP,a47e0068ae, Lloyds
+2023-08-31,ADP,Payroll,2550.60,GBP,4484eba2d2, Lloyds
+2023-09-04,BANK FEES,Monthly bank fee,-4.00,GBP,7b34dedf55, Lloyds
+2023-09-06,KFH,Paying the rent,-2400.00,GBP,dc05fb6287, Lloyds
+2023-09-08,British Gas,Electricity,-65.00,GBP,64768fec65, Lloyds
+2023-09-08,Barclays,Paying off credit card,-515.11,GBP,2afcd53344, Lloyds
+2023-09-14,ADP,Payroll,2550.60,GBP,667f311f2b, Lloyds
+2023-09-15,,Transfering accumulated savings to other account,-4000,GBP,c6a351573a, Lloyds
+2023-09-18,EE,Mobile,,-59.10,GBP,5261bd57dd, Lloyds
+2023-09-23,British Telecomm, Cable,-80.04,GBP,3288f7c358, Lloyds
+2023-09-28,ADP,Payroll,2550.60,GBP,08b0f39bfd, Lloyds
+2023-10-04,BANK FEES,Monthly bank fee,-4.00,GBP,8c2e2baee6, Lloyds
+2023-10-05,KFH,Paying the rent,-2400.00,GBP,4a268e6501, Lloyds
+2023-10-08,Barclays,Paying off credit card,-707.65,GBP,3264a85310, Lloyds
+2023-10-09,British Gas,Heating,-65.00,GBP,0ca6956106, Lloyds
+2023-10-12,ADP,Payroll,2550.60,GBP,3cd568251a, Lloyds
+2023-10-20,EE,Mobile,,-63.03,GBP,081d23a878, Lloyds
+2023-10-23,British Telecomm, Cable,-80.10,GBP,b645e91576, Lloyds
+2023-10-26,ADP,Payroll,2550.60,GBP,4c2b6f384f, Lloyds
+2023-11-04,BANK FEES,Monthly bank fee,-4.00,GBP,24f5a132da, Lloyds
+2023-11-06,KFH,Paying the rent,-2400.00,GBP,5a25491f8a, Lloyds
+2023-11-09,British Gas,Electricity,-65.00,GBP,cc6f06302f, Lloyds
+2023-11-09,ADP,Payroll,2550.60,GBP,e899b40a16, Lloyds
+2023-11-10,,Transfering accumulated savings to other account,-4000,GBP,ac3b28628e, Lloyds
+2023-11-11,Barclays,Paying off credit card,-747.15,GBP,c2f0a94663, Lloyds
+2023-11-19,EE,Mobile,,-68.54,GBP,1cccd594d0, Lloyds
+2023-11-21,British Telecomm, Cable,-79.91,GBP,6970ebfe53, Lloyds
+2023-11-23,ADP,Payroll,2550.60,GBP,8ab5df0c57, Lloyds
+2023-12-04,BANK FEES,Monthly bank fee,-4.00,GBP,b4b9451dc9, Lloyds
+2023-12-05,KFH,Paying the rent,-2400.00,GBP,a86a3c54f2, Lloyds
+2023-12-07,Barclays,Paying off credit card,-252.20,GBP,58f6e9e056, Lloyds
+2023-12-07,ADP,Payroll,2589.06,GBP,7c8433d681, Lloyds
+2023-12-08,British Gas,Heating,-65.00,GBP,ea2a509df5, Lloyds
+2023-12-18,EE,Mobile,,-66.98,GBP,a63f737ff8, Lloyds
+2023-01-01,,Opening Balance for checking account,567.85,USD,0bgh1eopd99,Citibank
+2023-01-03,JustWorks,Wages,2832.14,USD,cfbeb06419,Citibank
+2024-01-04,BANK FEES,Monthly bank fee,-4.00,USD,d79b5db445,Citibank
+2024-01-04,Greystar,Monthly rent payment,-2400.00,USD,38e1516786,Citibank
+2024-01-04,JustWorks,Wages,1350.60,USD,fdc7b1ad0f,Citibank
+2024-01-07,American Express,Paying off credit card,-681.65,USD,17b3c25b27,Citibank
+2024-01-08,American Energy,,,-65.00,USD,d55c98abfb,Citibank
+2024-01-18,Starlink,Cell Phone,-56.43,USD,24f2162f90,Citibank
+2024-01-18,JustWorks,Wages,1350.60,USD,a9917cc6c5,Citibank
+2024-01-22,Comcast,,-79.94,USD,a2299fcfb6,Citibank
+2024-02-01,JustWorks,Wages,1350.60,USD,2cda6f27b1,Citibank
+2024-02-04,BANK FEES,Monthly bank fee,-4.00,USD,ec8458fb80,Citibank
+2024-02-05,Greystar,Monthly rent payment,-2400.00,USD,0c0b504473,Citibank
+2024-02-08,American Express,Paying off credit card,-640.83,USD,5be8ed9688,Citibank
+2024-02-09,American Energy,Electricity & Gas,,-65.00,USD,91d786291f,Citibank
+2024-02-15,JustWorks,Wages,1350.60,USD,d62094f374,Citibank
+2024-02-20,Starlink,Cell Phone,-73.15,USD,0264034aa6,Citibank
+2024-02-23,Comcast,Cable,-79.99,USD,973d08c2a3,Citibank
+2024-02-29,JustWorks,Wages,1350.60,USD,93a1c9dcaa,Citibank
+2024-03-04,BANK FEES,Monthly bank fee,-4.00,USD,86a2b72607,Citibank
+2024-03-05,Greystar,Monthly rent payment,-2400.00,USD,3ab237d08d,Citibank
+2024-03-08,American Energy,,,-65.00,USD,9cd2a3a7ac,Citibank
+2024-03-10,American Express,Paying off credit card,-632.81,USD,fe951fe38d,Citibank
+2024-03-14,JustWorks,Wages,1350.60,USD,5e95ebefd6,Citibank
+2024-03-18,Starlink,Cell Phone,-70.96,USD,5b992d8f1b,Citibank
+2024-03-22,Comcast,,-80.05,USD,956ee21970,Citibank
+2024-03-23,,FEDERAL TAXPYMT,-373.30,USD,10a682957b,Citibank
+2024-03-24,,STATE TAX & FINANC PYMT,-305.92,USD,4895b8af0d,Citibank
+2024-03-28,JustWorks,Wages,1350.60,USD,7609f37814,Citibank
+2024-04-04,BANK FEES,Monthly bank fee,-4.00,USD,548f8b86d8,Citibank
+2024-04-05,Greystar,Monthly rent payment,-2400.00,USD,33706daac6,Citibank
+2024-04-08,American Energy,,,-65.00,USD,055c1f8c9d,Citibank
+2024-04-11,American Express,Paying off credit card,-509.50,USD,af65c19792,Citibank
+2024-04-11,JustWorks,Wages,1350.60,USD,cd7ac896cd,Citibank
+2024-04-20,Starlink,Cell Phone,-59.65,USD,14f38ebf91,Citibank
+2024-04-22,Comcast,,-79.83,USD,5eeb26cc90,Citibank
+2024-04-25,JustWorks,Wages,1350.60,USD,5bccc117d8,Citibank
+2024-05-03,Greystar,Monthly rent payment,-2400.00,USD,5cb9f2c9c4,Citibank
+2024-05-04,BANK FEES,Monthly bank fee,-4.00,USD,a2ce0b9de7,Citibank
+2024-05-08,American Energy,,,-65.00,USD,2de87c26e4,Citibank
+2024-05-09,American Express,Paying off credit card,-692.49,USD,5f9c428011,Citibank
+2024-05-09,JustWorks,Wages,1350.60,USD,2f4bf3608c,Citibank
+2024-05-18,Starlink,Cell Phone,-72.19,USD,f73f5427f5,Citibank
+2024-05-23,Comcast,,-80.02,USD,701c152e99,Citibank
+2024-05-23,JustWorks,Wages,1350.60,USD,e19464ffe6,Citibank
+2024-06-04,BANK FEES,Monthly bank fee,-4.00,USD,544f2724b0,Citibank
+2024-06-04,Greystar,Monthly rent payment,-2400.00,USD,7826fab214,Citibank
+2024-06-06,JustWorks,Wages,1350.60,USD,58e1b8d819,Citibank
+2024-06-08,American Express,Paying off credit card,-611.33,USD,f3d737acc4,Citibank
+2024-06-09,American Energy,Electricity & Gas,,-65.00,USD,8c3663a725,Citibank
+2024-06-18,Starlink,Cell Phone,-54.87,USD,f57e68f146,Citibank
+2024-06-20,JustWorks,Wages,1350.60,USD,fca2bf2291,Citibank
+2024-06-22,Comcast,,-80.00,USD,8ab09522f8,Citibank
+2024-07-04,BANK FEES,Monthly bank fee,-4.00,USD,063d17b18a,Citibank
+2024-07-04,Greystar,Monthly rent payment,-2400.00,USD,742334d632,Citibank
+2024-07-04,JustWorks,Wages,1350.60,USD,3116655bdd,Citibank
+2024-07-09,American Energy,,,-65.00,USD,346434af71,Citibank
+2024-07-09,American Express,Paying off credit card,-739.54,USD,0e48e61a9a,Citibank
+2024-07-18,JustWorks,Wages,1350.60,USD,d88b47d887,Citibank
+2024-07-20,Starlink,Cell Phone,-58.30,USD,1ff93947ce,Citibank
+2024-07-23,Comcast,,-79.98,USD,8722a1cbaa,Citibank
+2024-08-01,JustWorks,Wages,2050.60,USD,7389ac955e,Citibank
+2024-08-03,Greystar,Monthly rent payment,-2400.00,USD,8db842dd64,Citibank
+2024-08-04,BANK FEES,Monthly bank fee,-4.00,USD,62f190526f,Citibank
+2024-08-07,American Express,Paying off credit card,-561.36,USD,13d7103122,Citibank
+2024-08-09,American Energy,,,-65.00,USD,fb71166433,Citibank
+2024-08-15,JustWorks,Wages,2550.60,USD,da58aeeef8,Citibank
+2024-08-16,,Transfering accumulated savings to other account,-3000,USD,e75a4db055,Citibank
+2024-08-20,Starlink,Cell Phone,-40.49,USD,19ec98e9d4,Citibank
+2024-08-22,Comcast,,-79.81,USD,8bc360ea6f,Citibank
+2024-08-29,JustWorks,Wages,2550.60,USD,13f08aa86c,Citibank
+2024-09-04,BANK FEES,Monthly bank fee,-4.00,USD,fd8a39e640,Citibank
+2024-09-06,Greystar,Monthly rent payment,-2400.00,USD,6c9fb739be,Citibank
+2024-09-08,American Energy,,,-65.00,USD,9040e0b200,Citibank
+2024-09-11,American Express,Paying off credit card,-715.34,USD,6cb7aec182,Citibank
+2024-09-12,JustWorks,Wages,2550.60,USD,2cfbec6288,Citibank
+2024-09-20,Starlink,Cell Phone,-58.84,USD,ee679d4562,Citibank
+2024-09-21,Comcast,,-79.87,USD,6fa2764208,Citibank
+2024-09-26,JustWorks,Wages,2550.60,USD,cf12b48859,Citibank
+2024-10-04,BANK FEES,Monthly bank fee,-4.00,USD,1be9610791,Citibank
+2024-10-06,Greystar,Monthly rent payment,-2400.00,USD,d6bee786af,Citibank
+2024-10-07,American Express,Paying off credit card,-435.05,USD,0ed5355e63,Citibank
+2024-10-09,American Energy,,,-65.00,USD,00d125576b,Citibank
+2024-10-10,JustWorks,Wages,2550.60,USD,e236beca0a,Citibank
+2024-10-11,,Transfering accumulated savings to other account,-4500,USD,cfdfc59b69,Citibank
+2024-10-18,Starlink,Cell Phone,-70.13,USD,2ec3df7fef,Citibank
+2024-10-23,Comcast,,-79.99,USD,eb50051487,Citibank
+2024-10-24,JustWorks,Wages,2550.60,USD,2c243eecae,Citibank
+2024-11-03,Greystar,Monthly rent payment,-2400.00,USD,b26760590f,Citibank
+2024-11-04,BANK FEES,Monthly bank fee,-4.00,USD,dd6acedb00,Citibank
+2024-11-07,JustWorks,Wages,2550.60,USD,64f9f89eac,Citibank
+2024-11-08,American Energy,,,-65.00,USD,5ac3fe6315,Citibank
+2024-11-09,American Express,Paying off credit card,-691.04,USD,4a4acc262a,Citibank
+2024-11-20,Starlink,Cell Phone,-56.18,USD,f3362908bb,Citibank
+2024-11-21,JustWorks,Wages,2550.60,USD,652002ac25,Citibank
+2024-11-23,Comcast,,-79.74,USD,a40613168a,Citibank
+2024-12-04,BANK FEES,Monthly bank fee,-4.00,USD,5dcfe1b6bf,Citibank
+2024-12-04,Greystar,Monthly rent payment,-2400.00,USD,c208f10d40,Citibank
+2024-12-05,JustWorks,Wages,2589.06,USD,339144b029,Citibank
+2024-12-08,,Opening Balance for checking account,3817.85,USD,obf07klm6,BofA
+2024-12-09,EDISON POWER,,-65.00,USD,adf7d08c82,BofA
+2024-12-09,Chase:Slate,Paying off credit card,-701.71,USD,e9e72d6f77,BofA
+2024-12-18,Verizon Wireless,,-60.95,USD,b99f912ac4,BofA
+2024-12-19,Hooli,Payroll,2832.14,USD,334a262ecb,BofA
+2024-12-23,Wine-Tarner Cable,,-79.90,USD,17ea497658,BofA
+2025-01-02,Hooli,Payroll,1350.60,USD,3bb9e1a551,BofA
+2025-01-04,BANK FEES,Monthly bank fee,-6.50,USD,994ddb608e,BofA
+2025-01-04,RiverBank Properties,Paying the rent,-1493.84,USD,fa3ae76854,BofA
+2025-01-07,Chase:Slate,Paying off credit card,-639.54,USD,1ec4bb6d55,BofA
+2025-01-09,EDISON POWER,,-65.00,USD,da503b1482,BofA
+2025-01-16,Hooli,Payroll,1350.60,USD,1889da8ef5,BofA
+2025-01-20,Verizon Wireless,,-59.04,USD,f6dce8a0b8,BofA
+2025-01-22,Wine-Tarner Cable,,-79.95,USD,a487b8aaf3,BofA
+2025-01-30,Hooli,Payroll,1350.60,USD,801b6c9b85,BofA
+2025-02-04,BANK FEES,Monthly bank fee,-6.50,USD,2b24b832e2,BofA
+2025-02-04,RiverBank Properties,Paying the rent,-1493.84,USD,32bbdbab86,BofA
+2025-02-08,EDISON POWER,,-65.00,USD,76afd1dfba,BofA
+2025-02-10,Chase:Slate,Paying off credit card,-710.15,USD,a69c9460f7,BofA
+2025-02-13,Hooli,Payroll,1350.60,USD,a970f30102,BofA
+2025-02-18,Verizon Wireless,,-67.32,USD,287c635dc8,BofA
+2025-02-23,Wine-Tarner Cable,,-79.98,USD,f7f6cc4a8e,BofA
+2025-02-27,Hooli,Payroll,1350.60,USD,ef1040274e,BofA
+2025-03-04,BANK FEES,Monthly bank fee,-6.50,USD,42af1bd69b,BofA
+2025-03-06,RiverBank Properties,Paying the rent,-1493.84,USD,bdf175bee2,BofA
+2025-03-07,Chase:Slate,Paying off credit card,-549.69,USD,74eafc3bde,BofA
+2025-03-08,EDISON POWER,,-65.00,USD,3dd524dbe8,BofA
+2025-03-13,Hooli,Payroll,1350.60,USD,8e57dbef58,BofA
+2025-03-20,Verizon Wireless,,-53.98,USD,184f5926ff,BofA
+2025-03-23,Wine-Tarner Cable,,-79.95,USD,b56beae7b8,BofA
+2025-03-24,,STATE TAX & FINANC PYMT,-372.00,USD,6f966e61ce,BofA
+2025-03-27,Hooli,Payroll,1350.60,USD,059031b0df,BofA
+2025-03-28,,FEDERAL TAXPYMT,-524.30,USD,21ca3e0a70,BofA
+2025-04-04,BANK FEES,Monthly bank fee,-6.50,USD,d84353ff94,BofA
+2025-04-04,RiverBank Properties,Paying the rent,-1493.84,USD,4177dfd780,BofA
+2025-04-09,EDISON POWER,,-65.00,USD,4e9d37a2e6,BofA
+2025-04-10,Hooli,Payroll,1350.60,USD,4edcdd38c5,BofA
+2025-04-11,Chase:Slate,Paying off credit card,-675.25,USD,61142978b2,BofA
+2025-04-20,Verizon Wireless,,-52.86,USD,b9a82f1f96,BofA
+2025-04-22,Wine-Tarner Cable,,-79.94,USD,74aac09ac7,BofA
+2025-04-24,Hooli,Payroll,1350.60,USD,ebacd4e683,BofA
+2025-05-04,BANK FEES,Monthly bank fee,-6.50,USD,75c3a4393f,BofA
+2025-05-06,RiverBank Properties,Paying the rent,-1493.84,USD,0f790242a1,BofA
+2025-05-08,Chase:Slate,Paying off credit card,-532.01,USD,c0ad9077a9,BofA
+2025-05-08,Hooli,Payroll,1350.60,USD,fd82490661,BofA
+2025-05-09,EDISON POWER,,-65.00,USD,19280172b4,BofA
+2025-05-20,Verizon Wireless,,-58.80,USD,ccc6ccc6ae,BofA
+2025-05-22,Hooli,Payroll,1350.60,USD,7b286bf401,BofA
+2025-05-23,Wine-Tarner Cable,,-80.04,USD,e0b5062083,BofA
+2025-06-04,BANK FEES,Monthly bank fee,-6.50,USD,ded869b8c4,BofA
+2025-06-04,RiverBank Properties,Paying the rent,-1493.84,USD,2348fff516,BofA
+2025-06-05,Hooli,Payroll,1350.60,USD,38a8152c73,BofA
+2025-06-08,EDISON POWER,,-65.00,USD,926fecc080,BofA
+2025-06-11,Chase:Slate,Paying off credit card,-341.68,USD,bbc0318a73,BofA
+2025-06-18,Verizon Wireless,,-47.91,USD,70156d733f,BofA
+2025-06-19,Hooli,Payroll,1350.60,USD,d6630fc475,BofA
+2025-06-23,Wine-Tarner Cable,,-79.95,USD,99e9e337e1,BofA
+2025-07-03,Hooli,Payroll,1350.60,USD,85347e1c5f,BofA
+2025-07-04,BANK FEES,Monthly bank fee,-6.50,USD,fb8af43a33,BofA
+2025-07-05,RiverBank Properties,Paying the rent,-1493.84,USD,bc6e6f9399,BofA
+2025-07-09,EDISON POWER,,-65.00,USD,313c1f3d3e,BofA
+2025-07-10,Chase:Slate,Paying off credit card,-563.12,USD,d27e8987ab,BofA
+2025-07-17,Hooli,Payroll,1350.60,USD,67e15134fa,BofA
+2025-07-18,Verizon Wireless,,-61.48,USD,e48fa1f30e,BofA
+2025-07-22,Wine-Tarner Cable,,-79.81,USD,e1517263f0,BofA
+2025-07-31,Hooli,Payroll,2050.60,USD,b7d34028b5,BofA
+2025-08-04,BANK FEES,Monthly bank fee,-6.50,USD,0a2908ed86,BofA
+2025-08-06,RiverBank Properties,Paying the rent,-1493.84,USD,6f30a423c4,BofA
+2025-08-08,Chase:Slate,Paying off credit card,-566.50,USD,862c7a220f,BofA
+2025-08-09,EDISON POWER,,-65.00,USD,329a5ce237,BofA
+2025-08-14,Hooli,Payroll,2550.60,USD,1ddc6c1132,BofA
+2025-08-15,,Transfering accumulated savings to other account,-4500,USD,0775ee24b2,BofA
+2025-08-18,Verizon Wireless,,-85.03,USD,6bf9447b5c,BofA
+2025-08-23,Wine-Tarner Cable,,-80.20,USD,33dd126ac8,BofA
+2025-08-28,Hooli,Payroll,2550.60,USD,afdc980ce5,BofA
+2025-09-04,BANK FEES,Monthly bank fee,-6.50,USD,833191a6f8,BofA
+2025-09-05,RiverBank Properties,Paying the rent,-1493.84,USD,bc3453e991,BofA
+2025-09-07,Chase:Slate,Paying off credit card,-569.03,USD,85f685f16e,BofA
+2025-09-08,EDISON POWER,,-65.00,USD,1edb9c04e1,BofA
+2025-09-11,Hooli,Payroll,2550.60,USD,333a0bc58e,BofA
+2025-09-19,Verizon Wireless,,-60.56,USD,2415e6b8c8,BofA
+2025-09-21,Wine-Tarner Cable,,-80.03,USD,2c5f8893aa,BofA
+2025-09-25,Hooli,Payroll,2550.60,USD,7e1f56b034,BofA
+2025-10-04,BANK FEES,Monthly bank fee,-6.50,USD,7ef992ca96,BofA
+2025-10-04,RiverBank Properties,Paying the rent,-1493.84,USD,0cf5b84160,BofA
+2025-10-09,EDISON POWER,,-65.00,USD,2f3c793d65,BofA
+2025-10-09,Chase:Slate,Paying off credit card,-701.47,USD,9dbd0e82b9,BofA
+2025-10-09,Hooli,Payroll,2550.60,USD,2a671dbdda,BofA
+2025-10-10,,Transfering accumulated savings to other account,-4000,USD,69e908bbbd,BofA
+2025-10-20,Verizon Wireless,,-54.59,USD,debc3f92c0,BofA
+2025-10-23,Wine-Tarner Cable,,-80.03,USD,5c2b2c7eaa,BofA
+2025-10-23,Hooli,Payroll,2550.60,USD,632b5fe0a6,BofA
+2025-11-04,BANK FEES,Monthly bank fee,-6.50,USD,ebc695be0f,BofA
+2025-11-06,RiverBank Properties,Paying the rent,-1493.84,USD,34c2ba23c0,BofA
+2025-11-06,Hooli,Payroll,2550.60,USD,9e36d5acfa,BofA
+2025-11-07,Chase:Slate,Paying off credit card,-482.70,USD,cacd0604ba,BofA
+2025-11-09,EDISON POWER,,-65.00,USD,f97ab381a3,BofA
+2025-11-19,Verizon Wireless,,-71.27,USD,d0d3476da4,BofA
+2025-11-20,Hooli,Payroll,2550.60,USD,39d2cba17b,BofA
+2025-11-21,,Transfering accumulated savings to other account,-4500,USD,689d1a693d,BofA
+2025-11-22,Wine-Tarner Cable,,-79.84,USD,4811c1859a,BofA
+2025-12-04,BANK FEES,Monthly bank fee,-6.50,USD,87bc667071,BofA
+2025-12-04,Hooli,Payroll,2589.06,USD,c9650fdd1b,BofA
+2025-12-06,Whole Foods,Weekly groceries,-125.47 USD,1a2b3c4d5e,BofA
+2025-12-07,Amazon,Online book purchase,-28.99 USD,6f7e8d9c0b,BofA
+2025-12-09,Verizon Wireless,Phone bill,-54.59 USD,a1b2c3d4e5f,BofA
+2025-12-11,Hooli,Payroll,2589.06 USD,g7h8i9j0k1l,BofA
+2025-12-15,Chase:Slate,Paying off credit card,-312.45 USD,m2n3o4p5q6r,BofA
+2025-12-18,LA Fitness,Membership fee,-45.00 USD,s7t8u9v0w1x,BofA
+2025-12-20,,Transfer to savings account,-1500.00 USD,y2z3a4b5c6d,BofA
+2025-12-22,EDISON POWER,Electricity bill,-68.25 USD,e7f8g9h0i1j,BofA
+2025-12-24,Wine-Tarner Cable,Cable and internet,-82.14 USD,k2l3m4n5o6p,BofA
+2025-12-27,Starbucks,Coffee run,-15.75 USD,q7r8s9t0u1v,BofA
+2026-01-03,BANK FEES,Annual service fee,-12.00 USD,w2x3y4z5a6b,BofA
+2026-01-05,Hooli,Payroll,2620.50 USD,c7d8e9f0g1h,BofA
+2026-01-07,RiverBank Properties,Rent payment,-1493.84 USD,i2j3k4l5m6n,BofA
+2026-01-10,Netflix,Subscription,-15.49 USD,o7p8q9r0s1t,BofA
+2026-01-12,Target,Household supplies,-89.30 USD,u2v3w4x5y6z,BofA
+2026-01-15,Chase:Slate,Paying off credit card,-456.78 USD,a7b8c9d0e1f,BofA
+2026-01-17,Apple Store,App purchase,-9.99 USD,g2h3i4j5k6l,BofA
+2026-01-20,Hooli,Payroll,2620.50 USD,m7n8o9p0q1r,BofA
+2026-01-22,,Transfer to investment account,-2000.00 USD,s2t3u4v5w6x,BofA
+2026-01-25,Verizon Wireless,Phone bill,-56.20 USD,y7z8a9b0c1d,BofA
+2026-01-27,EDISON POWER,Electricity bill,-70.10 USD,e2f3g4h5i6j,BofA
+2026-01-30,Wine-Tarner Cable,Cable and internet,-84.67 USD,k7l8m9n0o1p,BofA
+2026-02-02,BANK FEES,Monthly fee,-6.50 USD,q2r3s4t5u6v,BofA
+2026-02-04,Hooli,Payroll,2652.00 USD,w7x8y9z0a1b,BofA
+2026-02-06,Whole Foods,Weekly groceries,-132.15 USD,c2d3e4f5g6h,BofA
+2026-02-08,Amazon,Electronics accessory,-45.67 USD,i7j8k9l0m1n,BofA
+2026-02-10,LA Fitness,Membership fee,-45.00 USD,o2p3q4r5s6t,BofA
+2026-02-12,Chase:Slate,Paying off credit card,-289.34 USD,u7v8w9x0y1z,BofA
+2026-02-15,,Transfer to savings account,-1800.00 USD,a2b3c4d5e6f,BofA
+2026-02-17,Starbucks,Coffee run,-18.90 USD,g7h8i9j0k1l,BofA
+2026-02-20,Hooli,Payroll,2652.00 USD,m2n3o4p5q6r,BofA
+2026-02-22,RiverBank Properties,Rent payment,-1493.84 USD,s7t8u9v0w1x,BofA
+2026-02-25,Target,Clothing purchase,-67.89 USD,y2z3a4b5c6d,BofA
+2026-02-27,EDISON POWER,Electricity bill,-65.40 USD,e7f8g9h0i1j,BofA
+2026-03-02,Wine-Tarner Cable,Cable and internet,-81.23 USD,k2l3m4n5o6p,BofA
+2026-03-04,BANK FEES,Monthly fee,-6.50 USD,q7r8s9t0u1v,BofA
+2026-03-06,Hooli,Payroll,2685.25 USD,w2x3y4z5a6b,BofA
+2026-03-08,Netflix,Subscription,-15.49 USD,c7d8e9f0g1h,BofA
+2026-03-10,Whole Foods,Weekly groceries,-140.22 USD,i2j3k4l5m6n,BofA
+2026-03-12,Apple Store,App purchase,-12.99 USD,o7p8q9r0s1t,BofA
+2026-03-15,Chase:Slate,Paying off credit card,-378.92 USD,u2v3w4x5y6z,BofA
+2026-03-17,,Transfer to investment account,-2200.00 USD,a7b8c9d0e1f,BofA
+2026-03-20,Hooli,Payroll,2685.25 USD,g2h3i4j5k6l,BofA
+2026-03-22,Verizon Wireless,Phone bill,-58.45 USD,m7n8o9p0q1r,BofA
+2026-03-24,LA Fitness,Membership fee,-45.00 USD,s2t3u4v5w6x,BofA
+2026-03-27,Amazon,Book order,-35.10 USD,y7z8a9b0c1d,BofA
+2026-03-29,Starbucks,Coffee run,-16.50 USD,e2f3g4h5i6j,BofA
+2026-04-01,BANK FEES,Monthly fee,-6.50 USD,k7l8m9n0o1p,BofA
+2026-04-03,Hooli,Payroll,2720.00 USD,q2r3s4t5u6v,BofA
+2026-04-05,RiverBank Properties,Rent payment,-2450.00 USD,w7x8y9z0a1b,BofA
+2026-04-07,Target,Household supplies,-95.60 USD,c2d3e4f5g6h,BofA
+2026-04-10,EDISON POWER,Electricity bill,-72.80 USD,i7j8k9l0m1n,BofA
+2026-04-12,Wine-Tarner Cable,Cable and internet,-86.95 USD,o2p3q4r5s6t,BofA
+2026-04-15,Chase:Slate,Paying off credit card,-423.67 USD,u7v8w9x0y1z,BofA
+2026-04-17,Whole Foods,Weekly groceries,-145.30 USD,a2b3c4d5e6f,BofA
+2026-04-20,Hooli,Payroll,2720.00 USD,g7h8i9j0k1l,BofA
+2026-04-22,,Transfer to savings account,-1900.00 USD,m2n3o4p5q6r,BofA
+2026-04-25,Netflix,Subscription,-15.49 USD,s7t8u9v0w1x,BofA
+2026-04-27,Verizon Wireless,Phone bill,-60.10 USD,y2z3a4b5c6d,BofA
+2026-05-01,BANK FEES,Monthly fee,-6.50 USD,e7f8g9h0i1j,BofA
+2026-05-03,Hooli,Payroll,3867.24 USD,k2l3m4n5o6p,BofA
+2026-05-05,LA Fitness,Membership fee,-45.00 USD,q7r8s9t0u1v,BofA
+2026-05-07,Amazon,Clothing order,-52.40 USD,w2x3y4z5a6b,BofA
+2026-05-10,Starbucks,Coffee run,-20.10 USD,c7d8e9f0g1h,BofA
+2026-05-12,Apple Store,App purchase,-14.99 USD,i2j3k4l5m6n,BofA
+2026-05-15,Chase:Slate,Paying off credit card,-361.25 USD,o7p8q9r0s1t,BofA
+2026-05-17,RiverBank Properties,Rent payment,-2450.00 USD,u2v3w4x5y6z,BofA
+2026-05-20,Hooli,Payroll,3867.24 USD,a7b8c9d0e1f,BofA
+2026-05-22,EDISON POWER,Electricity bill,-75.15 USD,g2h3i4j5k6l,BofA
+2026-05-24,Wine-Tarner Cable,Cable and internet,-89.40 USD,m7n8o9p0q1r,BofA
+2026-05-27,Target,Weekly groceries,-110.75 USD,s2t3u4v5w6x,BofA
+2026-05-29,,Transfer to investment account,-1493.84 USD,y7z8a9b0c1d,BofA
+2026-06-02,BANK FEES,Monthly fee,-6.50 USD,e2f3g4h5i6j,BofA
+2026-06-04,Hooli,Payroll,2790.00 USD,k7l8m9n0o1p,BofA
+2026-06-06,Whole Foods,Household supplies,-155.80 USD,q2r3s4t5u6v,BofA
+2026-06-08,Netflix,Subscription,-15.49 USD,w7x8y9z0a1b,BofA
+2026-06-10,Verizon Wireless,Phone bill,-123.54 USD,c2d3e4f5g6h,BofA
+2026-06-12,LA Fitness,Membership fee,-45.00 USD,i7j8k9l0m1n,BofA
+2026-06-15,Chase:Slate,Paying off credit card,-498.90 USD,o2p3q4r5s6t,BofA
+2026-06-17,Amazon,Book purchase,-41.20 USD,u7v8w9x0y1z,BofA
+2026-06-20,Hooli,Payroll,2790.00 USD,a2b3c4d5e6f,BofA
+2026-06-22,Starbucks,Coffee run,-17.25 USD,g7h8i9j0k1l,BofA
+2026-06-25,EDISON POWER,Electricity bill,-78.50 USD,m2n3o4p5q6r,BofA
+2026-06-27,Wine-Tarner Cable,Cable and internet,-92.15 USD,s7t8u9v0w1x,BofA
+2026-07-01,BANK FEES,Monthly fee,-6.50 USD,y2z3a4b5c6d,BofA
+2026-07-03,Hooli,Payroll,2825.75 USD,e7f8g9h0i1j,BofA
+2026-07-05,RiverBank Properties,Rent payment,-2500.00 USD,k2l3m4n5o6p,BofA
+2026-07-07,Target,Clothing,-72.30 USD,q7r8s9t0u1v,BofA
+2026-07-10,Apple Store,App purchase,-16.99 USD,w2x3y4z5a6b,BofA
+2026-07-12,,Transfer to savings account,-2100.00 USD,c7d8e9f0g1h,BofA
+2026-07-15,Chase:Slate,Paying off credit card,-334.80 USD,i2j3k4l5m6n,BofA
+2026-07-17,Whole Foods,Weekly groceries,-162.45 USD,o7p8q9r0s1t,BofA
+2026-07-20,Hooli,Payroll,2825.75 USD,u2v3w4x5y6z,BofA
+2026-07-22,Netflix,Subscription,-15.49 USD,a7b8c9d0e1f,BofA
+2026-07-25,Verizon Wireless,Phone bill,-63.40 USD,g2h3i4j5k6l,BofA
+2026-07-20,,Opening Balance for bank account,105,045.29,GBP,0bm1ejip67,Barclays
+2026-07-27,Pure Gym,Membership fee,-45.00 GBP,m7n8o9p0q1r,Barclays
+2026-08-01,SILVER ACC,Monthly Bank Fee,-10.00 GBP,s2t3u4v5w6x,Barclays
+2026-08-03,Close Brothers LTD, Monthly Salary Compensation, 2860.00 GBP,y7z8a9b0c1d,Barclays
+2026-08-05,British Gas,Electricity bill,-80.90 GBP,e2f3g4h5i6j,Barclays
+2026-08-07,Virgin Media,Cable and internet,-94.80 GBP,k7l8m9n0o1p,Barclays
+2026-08-10,Starbucks,Coffee run,-21.60 GBP,q2r3s4t5u6v,Barclays
+2026-08-12,Amazon,Accessories,-58.75 GBP,w7x8y9z0a1b,Barclays
+2026-08-15,Virgin Money, Credit Card Payment,-445.12 GBP,c2d3e4f5g6h,Barclays
+2026-08-17,Foxtons,This months rent,-2500.00 GBP,i7j8k9l0m1n,Barclays
+2026-08-20,Close Brothers LTD, Monthly Salary Compensation, 2860.00 GBP,o2p3q4r5s6t,Barclays
+2026-08-22,,Transfer to investment account,-2600.00 GBP,u7v8w9x0y1z,Barclays
+2026-08-25,Target,Household supplies,-118.90 GBP,a2b3c4d5e6f,Barclays
+2026-08-27,Whole Foods,Weekly groceries,-169.20 GBP,g7h8i9j0k1l,Barclays
+2026-09-01,SILVER ACC,Monthly Bank Fee,-10.00 GBP,m2n3o4p5q6r,Barclays
+2026-09-03,Close Brothers LTD, Monthly Salary Compensation, 4000.00 GBP,s7t8u9v0w1x,Barclays
+2026-09-05,Netflix,Subscription,-15.49 GBP,y2z3a4b5c6d,Barclays
+2026-09-07,Google,Gemini One Subs,-65.05 GBP,e7f8g9h0i1j,Barclays
+2026-09-10,Pure Gym,Membership fee,-45.00 GBP,k2l3m4n5o6p,Barclays
+2026-09-12,Facebook Marketplace,App purchase,-18.99 GBP,q7r8s9t0u1v,Barclays
+2026-09-15,Virgin Money, Credit Card Payment,-412.50 GBP,w2x3y4z5a6b,Barclays
+2026-09-17,British Gas,Electricity bill,-83.25 GBP,c7d8e9f0g1h,Barclays
+2026-09-20,Close Brothers LTD, Monthly Salary Compensation, 4000.00 GBP,i2j3k4l5m6n,Barclays
+2026-09-22,Virgin Media,Cable and internet,-97.45 GBP,o7p8q9r0s1t,Barclays
+2026-09-25,Starbucks,Coffee run,-19.80 GBP,u2v3w4x5y6z,Barclays
+2026-09-27,Amazon,Book order,-48.30 GBP,a7b8c9d0e1f,Barclays
+2026-10-01,SILVER ACC,Monthly Bank Fee,-10.00 GBP,g2h3i4j5k6l,Barclays
+2026-10-03,Close Brothers LTD, Monthly Salary Compensation, 2930.00 GBP,m7n8o9p0q1r,Barclays
+2026-10-05,Foxtons,This months rent,-3017.00 GBP,s2t3u4v5w6x,Barclays
+2026-10-07,Target,Clothing purchase,-78.60 GBP,y7z8a9b0c1d,Barclays
+2026-10-10,,Transfer to savings account,-2300.00 GBP,e2f3g4h5i6j,Barclays
+2026-10-12,Whole Foods,Weekly groceries,-176.10 GBP,k7l8m9n0o1p,Barclays
+2026-10-15,Virgin Money, Credit Card Payment,-389.75 GBP,q2r3s4t5u6v,Barclays
+2026-10-17,Netflix,Subscription,-15.49 GBP,w7x8y9z0a1b,Barclays
+2026-10-20,Close Brothers LTD, Monthly Salary Compensation, 2930.00 GBP,c2d3e4f5g6h,Barclays
+2026-10-22,Google,Gemini One Subs,-66.70 GBP,i7j8k9l0m1n,Barclays
+2026-10-24,Pure Gym,Membership fee,-45.00 GBP,o2p3q4r5s6t,Barclays
+2026-10-27,British Gas,Electricity bill,-85.60 GBP,u7v8w9x0y1z,Barclays
+2026-10-29,Virgin Media,Cable and internet,-100.10 GBP,a2b3c4d5e6f,Barclays
+2026-11-01,SILVER ACC,Monthly Bank Fee,-10.00 GBP,g7h8i9j0k1l,Barclays
+2026-11-03,Close Brothers LTD, Monthly Salary Compensation, 2965.25 GBP,m2n3o4p5q6r,Barclays
+2026-11-05,Amazon,Accessories,-65.20 GBP,s7t8u9v0w1x,Barclays
+2026-11-07,Starbucks,Coffee run,-23.40 GBP,y2z3a4b5c6d,Barclays
+2026-11-10,Facebook Marketplace,App purchase,-20.99 GBP,e7f8g9h0i1j,Barclays
+2026-11-12,Virgin Money, Credit Card Payment,-475.30 GBP,k2l3m4n5o6p,Barclays
+2026-11-15,Foxtons,This months rent,-3017.00 GBP,q7r8s9t0u1v,Barclays
+2026-11-17,Target,Household supplies,-125.40 GBP,w2x3y4z5a6b,Barclays
+2026-11-20,Close Brothers LTD, Monthly Salary Compensation, 2965.25 GBP,c7d8e9f0g1h,Barclays
+2026-11-22,,Transfer to investment account,-2800.00 GBP,i2j3k4l5m6n,Barclays
+2026-11-25,Whole Foods,Weekly groceries,-183.00 GBP,o7p8q9r0s1t,Barclays
+2026-11-27,Netflix,Subscription,-15.49 GBP,u2v3w4x5y6z,Barclays
+2026-12-01,SILVER ACC,Monthly Bank Fee,-10.00 GBP,a7b8c9d0e1f,Barclays
+2026-12-03,Close Brothers LTD, Monthly Salary Compensation, 3000.00 GBP,g2h3i4j5k6l,Barclays
+2026-12-05,Google,Gemini One Subs,-68.35 GBP,m7n8o9p0q1r,Barclays
+2026-12-07,Pure Gym,Membership fee,-45.00 GBP,s2t3u4v5w6x,Barclays
+2026-12-10,British Gas,Electricity bill,-88.00 GBP,y7z8a9b0c1d,Barclays
+2026-12-12,Virgin Media,Cable and internet,-102.75 GBP,e2f3g4h5i6j,Barclays
+2026-12-15,Virgin Money, Credit Card Payment,-620.50 GBP,k7l8m9n0o1p,Barclays
+2025-12-05,Amazon,,89.99,GBP,2f3c793d66,Barclays
+2025-12-05,Starbucks,Coffee,-5.75,GBP,9dbd0e82ba,Barclays
+2025-12-06,Grocery Store,Weekly groceries,-125.43,GBP,2a671dbddb,Barclays
+2025-12-07,Uber,Ride to work,-12.50,GBP,69e908bbbe,Barclays
+2025-12-08,Netflix,,14.99,GBP,debc3f92c1,Barclays
+2025-12-09,Facebook Marketplace,AirPods Pro,-249.00,GBP,5c2b2c7eab,Barclays
+2025-12-10,Close Brothers LTD, Monthly Salary Compensation, 2589.06,GBP,632b5fe0a7,Barclays
+2025-12-11,Best Buy,New laptop,-899.99,GBP,ebc695be10,Barclays
+2025-12-12,Chevron,Gas,-45.67,GBP,34c2ba23c1,Barclays
+2025-12-13,Target,Household items,-78.32,GBP,9e36d5acfb,Barclays
+2025-12-14,Virgin Money, Credit Card Payment,-550.25,GBP,cacd0604bb,Barclays
+2025-12-15,British Gas,,-68.50,GBP,f97ab381a4,Barclays
+2025-12-16,Verizon Wireless,,-72.15,GBP,d0d3476da5,Barclays
+2025-12-17,Close Brothers LTD, Monthly Salary Compensation, 2589.06,GBP,39d2cba17c,Barclays
+2025-12-18,,Transfer to savings,-1000.00,GBP,689d1a693e,Barclays
+2025-12-19,Virgin Media,,-82.99,GBP,4811c1859b,Barclays
+2025-12-20,BANK FEES,Monthly bank fee,-4.00,GBP,87bc667072,Barclays
+2025-12-21,Whole Foods,Groceries,-98.76,GBP,c9650fdd1c,Barclays
+2025-12-22,DoorDash,Food delivery,-34.50,GBP,2f3c793d67,Barclays
+2025-12-23,Apple Music,,10.99,GBP,9dbd0e82bb,Barclays
+2025-12-24,Gas Company,Natural gas,-85.25,GBP,2a671dbddc,Barclays
+2025-12-25,Amazon,Gift purchases,-156.89,GBP,69e908bbbf,Barclays
+2025-12-26,Close Brothers LTD, Monthly Salary Compensation, 2589.06,GBP,debc3f92c2,Barclays
+2025-12-27,CVS Pharmacy,Medicine,-28.45,GBP,5c2b2c7eac,Barclays
+2025-12-28,Virgin Money, Credit Card Payment,-475.30,GBP,632b5fe0a8,Barclays
+2025-12-29,Gym Membership,Monthly fee,-29.99,GBP,ebc695be11,Barclays
+2025-12-30,Water Utility,Water bill,-45.60,GBP,34c2ba23c2,Barclays
+2025-12-31,Uber Eats,New Year's Eve dinner,-67.89,GBP,9e36d5acfc,Barclays
+2026-01-01,Close Brothers LTD, Monthly Salary Compensation, 2600.00,GBP,cacd0604bc,Barclays
+2026-01-02,British Gas,,-69.25,GBP,f97ab381a5,Barclays
+2026-01-03,Verizon Wireless,,-73.45,GBP,d0d3476da6,Barclays
+2026-01-04,Foxtons,This months rent,-2450.00,GBP,39d2cba17d,Barclays
+2026-01-05,Amazon,Office supplies,-89.99,GBP,689d1a693f,Barclays
+2026-01-06,BANK FEES,Monthly bank fee,-4.00,GBP,4811c1859c,Barclays
+2026-01-07,Virgin Media,,-84.50,GBP,87bc667073,Barclays
+2026-01-08,Trader Joe's,Groceries,-67.89,GBP,c9650fdd1d,Barclays
+2026-01-09,Close Brothers LTD, Monthly Salary Compensation, 2600.00,GBP,2f3c793d68,Barclays
+2026-01-10,Spotify,,12.99,GBP,9dbd0e82bc,Barclays
+2026-01-11,Costco,Bulk groceries,-215.67,GBP,2a671dbddd,Barclays
+2026-01-12,Virgin Money, Credit Card Payment,-512.75,GBP,69e908bbc0,Barclays
+2026-01-13,Dentist,Dental cleaning,-185.00,GBP,debc3f92c3,Barclays
+2026-01-14,Gas Station,Gas fill-up,-42.30,GBP,5c2b2c7ead,Barclays
+2026-01-15,Close Brothers LTD, Monthly Salary Compensation, 2600.00,GBP,632b5fe0a9,Barclays
+2026-01-16,Home Depot,Home repairs,-156.89,GBP,ebc695be12,Barclays
+2026-01-17,Netflix,,14.99,GBP,34c2ba23c3,Barclays
+2026-01-18,AT&T,Cell phone,-65.50,GBP,9e36d5acfd,Barclays
+2026-01-19,Amazon Prime,Annual membership,-139.00,GBP,cacd0604bd,Barclays
+2026-01-20,British Gas,,-70.75,GBP,f97ab381a6,Barclays
+2026-01-21,Verizon Wireless,,-74.90,GBP,d0d3476da7,Barclays
+2026-01-22,BANK FEES,Monthly bank fee,-4.00,GBP,39d2cba17e,Barclays
+2026-01-23,Virgin Media,,-86.25,GBP,689d1a6940,Barclays
+2026-01-24,Close Brothers LTD, Monthly Salary Compensation, 2600.00,GBP,4811c1859d,Barclays
+2026-01-25,Restaurant,Dinner out,-78.50,GBP,87bc667074,Barclays
+2026-01-26,Uber,Ride home,-18.75,GBP,c9650fdd1e,Barclays
+2026-01-27,Apple App Store,App purchases,-12.99,GBP,2f3c793d69,Barclays
+2026-01-28,Virgin Money, Credit Card Payment,-489.25,GBP,9dbd0e82bd,Barclays
+2026-01-29,Grocery Store,Weekly groceries,-112.45,GBP,2a671dbdde,Barclays
+2026-01-30,Gym Membership,Monthly fee,-29.99,GBP,69e908bbc1,Barclays
+2026-01-31,Close Brothers LTD, Monthly Salary Compensation, 2600.00,GBP,debc3f92c4,Barclays
+2026-02-01,Foxtons,This months rent,-2450.00,GBP,5c2b2c7eae,Barclays
+2026-02-02,British Gas,,-71.50,GBP,632b5fe0aa,Barclays
+2026-02-03,Verizon Wireless,,-76.20,GBP,ebc695be13,Barclays
+2026-02-04,Amazon,Books,-45.67,GBP,34c2ba23c4,Barclays
+2026-02-05,BANK FEES,Monthly bank fee,-4.00,GBP,9e36d5acfe,Barclays
+2026-02-06,Virgin Media,,-88.00,GBP,cacd0604be,Barclays
+2026-02-07,Close Brothers LTD, Monthly Salary Compensation, 2625.00,GBP,f97ab381a7,Barclays
+2026-02-08,Gas Company,Natural gas,-92.45,GBP,d0d3476da8,Barclays
+2026-02-09,Target,Clothing,-89.99,GBP,39d2cba17f,Barclays
+2026-02-10,Virgin Money, Credit Card Payment,-534.80,GBP,689d1a6941,Barclays
+2026-02-11,Starbucks,Coffee,-6.25,GBP,4811c1859e,Barclays
+2026-02-12,Water Utility,Water bill,-48.75,GBP,87bc667075,Barclays
+2026-02-13,Close Brothers LTD, Monthly Salary Compensation, 2625.00,GBP,c9650fdd1f,Barclays
+2026-02-14,Flower Shop,Valentine's flowers,-65.00,GBP,2f3c793d6a,Barclays
+2026-02-15,Restaurant,Valentine's dinner,-125.50,GBP,9dbd0e82be,Barclays
+2026-02-16,Netflix,,14.99,GBP,2a671dbddf,Barclays
+2026-02-17,Uber,Ride to airport,-45.00,GBP,69e908bbc2,Barclays
+2026-02-18,British Gas,,-72.25,GBP,debc3f92c5,Barclays
+2026-02-19,Verizon Wireless,,-77.65,GBP,5c2b2c7eaf,Barclays
+2026-02-20,BANK FEES,Monthly bank fee,-4.00,GBP,632b5fe0ab,Barclays
+2026-02-21,Virgin Media,,-89.50,GBP,ebc695be14,Barclays
+2026-02-22,Close Brothers LTD, Monthly Salary Compensation, 2625.00,GBP,34c2ba23c5,Barclays
+2026-02-23,Grocery Store,Weekly groceries,-118.90,GBP,9e36d5acff,Barclays
+2026-02-24,Virgin Money, Credit Card Payment,-498.75,GBP,cacd0604bf,Barclays
+2026-02-25,Gym Membership,Monthly fee,-29.99,GBP,f97ab381a8,Barclays
+2026-02-26,Amazon,Electronics,-345.67,GBP,d0d3476da9,Barclays
+2026-02-27,DoorDash,Food delivery,-28.50,GBP,39d2cba180,Barclays
+2026-02-28,Close Brothers LTD, Monthly Salary Compensation, 2625.00,GBP,689d1a6942,Barclays
+2026-03-01,Foxtons,This months rent,-2450.00,GBP,4811c1859f,Barclays
+2026-03-02,British Gas,,-73.00,GBP,87bc667076,Barclays
+2026-03-03,Verizon Wireless,,-79.10,GBP,c9650fdd20,Barclays
+2026-03-04,BANK FEES,Monthly bank fee,-4.00,GBP,2f3c793d6b,Barclays
+2026-03-05,Virgin Media,,-91.25,GBP,9dbd0e82bf,Barclays
+2026-03-06,Close Brothers LTD, Monthly Salary Compensation, 2650.00,GBP,2a671dbde0,Barclays
+2026-03-07,Gas Station,Gas fill-up,-38.45,GBP,69e908bbc3,Barclays
+2026-03-08,Apple Music,,10.99,GBP,debc3f92c6,Barclays
+2026-03-09,Target,Home goods,-67.89,GBP,5c2b2c7eb0,Barclays
+2026-03-10,Virgin Money, Credit Card Payment,-567.40,GBP,632b5fe0ac,Barclays
+2026-03-11,Dentist,Follow-up appointment,-95.00,GBP,ebc695be15,Barclays
+2026-03-12,Grocery Store,Weekly groceries,-105.75,GBP,34c2ba23c6,Barclays
+2026-03-13,Close Brothers LTD, Monthly Salary Compensation, 2650.00,GBP,9e36d5ad00,Barclays
+2026-03-14,Amazon,Household items,-78.99,GBP,cacd0604c0,Barclays
+2026-03-15,Uber,Ride to meeting,-14.50,GBP,f97ab381a9,Barclays
+2026-03-16,Netflix,,14.99,GBP,d0d3476daa,Barclays
+2026-03-17,British Gas,,-74.50,GBP,39d2cba181,Barclays
+2026-03-18,Verizon Wireless,,-80.55,GBP,689d1a6943,Barclays
+2026-03-19,BANK FEES,Monthly bank fee,-4.00,GBP,4811c185a0,Barclays
+2026-03-20,Virgin Media,,-93.00,GBP,87bc667077,Barclays
+2026-03-21,Close Brothers LTD, Monthly Salary Compensation, 2650.00,GBP,c9650fdd21,Barclays
+2026-03-22,Gym Membership,Monthly fee,-29.99,GBP,2f3c793d6c,Barclays
+2026-03-23,Restaurant,Birthday dinner,-89.50,GBP,9dbd0e82c0,Barclays
+2026-03-24,Virgin Money, Credit Card Payment,-512.80,GBP,2a671dbde1,Barclays
+2026-03-25,Whole Foods,Groceries,-134.25,GBP,69e908bbc4,Barclays
+2026-03-26,Gas Company,Natural gas,-88.75,GBP,debc3f92c7,Barclays
+2026-03-27,Amazon,Books and media,-56.89,GBP,5c2b2c7eb1,Barclays
+2026-03-28,Close Brothers LTD, Monthly Salary Compensation, 2650.00,GBP,632b5fe0ad,Barclays
+2026-03-29,Water Utility,Water bill,-52.30,GBP,ebc695be16,Barclays
+2026-03-30,Starbucks,Coffee,-5.99,GBP,34c2ba23c7,Barclays
+2026-03-31,,Transfer to savings,-1500.00,GBP,9e36d5ad01,Barclays
+2025-12-06,RiverBank Properties,Paying the rent,-2400.00,GBP,a1b2c3d4e5,Barclays
+2025-12-09,British Gas,,-65.00,GBP,f6g7h8i9j0,Barclays
+2025-12-09,Virgin Money, Credit Card Payment,-645.32,GBP,k1l2m3n4o5
+2025-12-10,Verizon Wireless,,-71.27,GBP,p6q7r8s9t0
+2025-12-13,Virgin Media,,-79.84,GBP,u1v2w3x4y5
+2025-12-20,Close Brothers LTD, Monthly Salary Compensation, 2589.06,GBP,z6a7b8c9d0
+2025-12-21,,Transfering accumulated savings to other account,-3200,GBP,e1f2g3h4i5
+2025-12-22,Virgin Money, Credit Card Payment,-512.89,GBP,j6k7l8m9n0
+2026-01-04,BANK FEES,Monthly bank fee,-4.00,GBP,o1p2q3r4s5
+2026-01-06,RiverBank Properties,Paying the rent,-2400.00,GBP,t6u7v8w9x0
+2026-01-06,Close Brothers LTD, Monthly Salary Compensation, 2589.06,GBP,y1z2a3b4c5
+2026-01-09,British Gas,,-65.00,GBP,d6e7f8g9h0
+2026-01-09,Virgin Money, Credit Card Payment,-678.45,GBP,i1j2k3l4m5
+2026-01-10,Verizon Wireless,,-71.27,GBP,n6o7p8q9r0,Barclays
+2026-01-13,Virgin Media,,-79.84,GBP,s1t2u3v4w5,Barclays
+2026-01-20,Close Brothers LTD, Monthly Salary Compensation, 2589.06,GBP,x6y7z8a9b0,Barclays
+2026-01-21,,Transfering accumulated savings to other account,-2800,GBP,c1d2e3f4g5,Barclays
+2026-01-22,Virgin Money, Credit Card Payment,-695.12,GBP,h6i7j8k9l0,Barclays
+2026-02-04,BANK FEES,Monthly bank fee,-4.00,GBP,m1n2o3p4q5,Barclays
+2026-02-06,RiverBank Properties,Paying the rent,-2400.00,GBP,r6s7t8u9v0,Barclays
+2026-02-06,Close Brothers LTD, Monthly Salary Compensation, 2589.06,GBP,w1x2y3z4a5,Barclays
+2026-02-09,Pure Gym,Membership fee,-45.00 GBP,e2f3g4h5i6j,Barclays
+2026-02-08,,Opening Balance,4986.56,GBP,0nw1effd67,Natwest
+2026-02-09,THAMES WATER, Water Bill-65.00,GBP,b6c7d8e9f0,Natwest
+2026-02-09,Natwest,Other credit card,-734.56,GBP,g1h2i3j4k5,Natwest
+2026-02-10,EE Broadband,TV & Internet,-71.27,GBP,l6m7n8o9p0,Natwest
+2026-02-13,ArcheryFit,Archery Lessons,-109.24,GBP,q1r2s3t4u5,Natwest
+2026-02-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,v6w7x8y9z0,Natwest
+2026-02-21,,Transfering accumulated savings to other account,-3500,GBP,a1b2c3d4e5,Natwest
+2026-02-22,Natwest,Other credit card,-612.78,GBP,f6g7h8i9j0,Natwest
+2026-03-04,BANK FEES,Monthly bank fee,-4.00,GBP,k1l2m3n4o5,Natwest
+2026-03-06,RiverBank Properties,Paying the rent,-2400.00,GBP,p6q7r8s9t0,Natwest
+2026-03-06,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,u1v2w3x4y5,Natwest
+2026-03-09,THAMES WATER, Water Bill-65.00,GBP,z6a7b8c9d0,Natwest
+2026-03-09,Natwest,Other credit card,-668.90,GBP,e1f2g3h4i5,Natwest
+2026-03-10,EE Broadband,TV & Internet,-71.27,GBP,j6k7l8m9n0,Natwest
+2026-03-13,ArcheryFit,Archery Lessons,-109.24,GBP,o1p2q3r4s5,Natwest
+2026-03-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,t6u7v8w9x0,Natwest
+2026-03-21,,Transfering accumulated savings to other account,-4000,GBP,y1z2a3b4c5,Natwest
+2026-03-22,Natwest,Other credit card,-701.23,GBP,d6e7f8g9h0,Natwest
+2026-04-04,BANK FEES,Monthly bank fee,-4.00,GBP,i1j2k3l4m5,Natwest
+2026-04-06,RiverBank Properties,Paying the rent,-2400.00,GBP,n6o7p8q9r0,Natwest
+2026-04-06,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,s1t2u3v4w5,Natwest
+2026-04-09,THAMES WATER, Water Bill-65.00,GBP,x6y7z8a9b0,Natwest
+2026-04-09,Natwest,Other credit card,-719.45,GBP,c1d2e3f4g5,Natwest
+2026-04-10,EE Broadband,TV & Internet,-71.27,GBP,h6i7j8k9l0,Natwest
+2026-04-13,ArcheryFit,Archery Lessons,-109.24,GBP,m1n2o3p4q5,Natwest
+2026-04-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,r6s7t8u9v0,Natwest
+2026-04-21,,Transfering accumulated savings to other account,-3300,GBP,w1x2y3z4a5,Natwest
+2026-04-22,Natwest,Other credit card,-634.67,GBP,b6c7d8e9f0,Natwest
+2026-05-04,BANK FEES,Monthly bank fee,-4.00,GBP,g1h2i3j4k5,Natwest
+2026-05-06,RiverBank Properties,Paying the rent,-2400.00,GBP,l6m7n8o9p0,Natwest
+2026-05-06,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,q1r2s3t4u5,Natwest
+2026-05-09,THAMES WATER, Water Bill-65.00,GBP,v6w7x8y9z0,Natwest
+2026-05-09,Natwest,Other credit card,-756.78,GBP,a1b2c3d4e5,Natwest
+2026-05-10,EE Broadband,TV & Internet,-71.27,GBP,f6g7h8i9j0,Natwest
+2026-05-13,ArcheryFit,Archery Lessons,-109.24,GBP,k1l2m3n4o5,Natwest
+2026-05-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,p6q7r8s9t0,Natwest
+2026-05-21,,Transfering accumulated savings to other account,-4200,GBP,u1v2w3x4y5,Natwest
+2026-05-22,Natwest,Other credit card,-689.34,GBP,z6a7b8c9d0,Natwest
+2026-06-04,BANK FEES,Monthly bank fee,-4.00,GBP,e1f2g3h4i5,Natwest
+2026-06-06,RiverBank Properties,Paying the rent,-2400.00,GBP,j6k7l8m9n0,Natwest
+2026-06-06,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,o1p2q3r4s5,Natwest
+2026-06-09,THAMES WATER, Water Bill-65.00,GBP,t6u7v8w9x0,Natwest
+2026-06-09,Natwest,Other credit card,-625.42,GBP,y1z2a3b4c5,Natwest
+2026-06-10,EE Broadband,TV & Internet,-71.27,GBP,d6e7f8g9h0,Natwest
+2026-06-13,ArcheryFit,Archery Lessons,-109.24,GBP,i1j2k3l4m5,Natwest
+2026-06-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,n6o7p8q9r0,Natwest
+2026-06-21,,Transfering accumulated savings to other account,-3800,GBP,s1t2u3v4w5,Natwest
+2026-06-22,Natwest,Other credit card,-710.89,GBP,x6y7z8a9b0,Natwest
+2026-07-04,BANK FEES,Monthly bank fee,-4.00,GBP,c1d2e3f4g5,Natwest
+2026-07-06,RiverBank Properties,Paying the rent,-2400.00,GBP,h6i7j8k9l0,Natwest
+2026-07-06,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,m1n2o3p4q5,Natwest
+2026-07-09,THAMES WATER, Water Bill-65.00,GBP,r6s7t8u9v0,Natwest
+2026-07-09,Natwest,Other credit card,-743.21,GBP,w1x2y3z4a5,Natwest
+2026-07-10,EE Broadband,TV & Internet,-71.27,GBP,b6c7d8e9f0,Natwest
+2026-07-13,ArcheryFit,Archery Lessons,-109.24,GBP,g1h2i3j4k5,Natwest
+2026-07-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,l6m7n8o9p0,Natwest
+2026-07-21,,Transfering accumulated savings to other account,-2900,GBP,q1r2s3t4u5,Natwest
+2026-07-22,Virgin Money,Credit Card Bills,-835.21,GBP,v6w7x8y9z0,Natwest
+2026-08-04,BANK FEES,Monthly bank fee,-4.00,GBP,a1b2c3d4e5,Natwest
+2026-08-06,RiverBank Properties,Paying the rent,-2400.00,GBP,f6g7h8i9j0,Natwest
+2026-08-06,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,k1l2m3n4o5,Natwest
+2026-08-09,THAMES WATER, Water Bill-65.00,GBP,p6q7r8s9t0,Natwest
+2026-08-09,Natwest,Other credit card,-598.67,GBP,u1v2w3x4y5,Natwest
+2026-08-10,EE Broadband,TV & Internet,-71.27,GBP,z6a7b8c9d0,Natwest
+2026-08-13,ArcheryFit,Archery Lessons,-109.24,GBP,e1f2g3h4i5,Natwest
+2026-08-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,j6k7l8m9n0,Natwest
+2026-08-21,,Transfering accumulated savings to other account,-4100,GBP,o1p2q3r4s5,Natwest
+2026-08-22,Natwest,Other credit card,-721.43,GBP,t6u7v8w9x0,Natwest
+2026-09-04,BANK FEES,Monthly bank fee,-4.00,GBP,y1z2a3b4c5,Natwest
+2026-09-06,RiverBank Properties,Paying the rent,-2400.00,GBP,d6e7f8g9h0,Natwest
+2026-09-06,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,i1j2k3l4m5,Natwest
+2026-09-09,THAMES WATER, Water Bill-65.00,GBP,n6o7p8q9r0,Natwest
+2026-09-09,Natwest,Other credit card,-685.78,GBP,s1t2u3v4w5,Natwest
+2026-09-10,EE Broadband,TV & Internet,-71.27,GBP,x6y7z8a9b0,Natwest
+2026-09-13,ArcheryFit,Archery Lessons,-109.24,GBP,c1d2e3f4g5,Natwest
+2026-09-20,HAYS EMPLOYMENT,Temp Payroll,1299.78,GBP,h6i7j8k9l0,Natwest
+2026-09-21,,Transfering accumulated savings to other account,-3600,GBP,m1n2o3p4q5,Natwest
+2026-09-22,Natwest,Other credit card,-652.91,GBP,r6s7t8u9v0,Natwest
+2026-02-01,Netflix,Streaming subscription,-15.99,GBP,1a2b3c4d5e,Natwest
+2026-02-02,Starbucks,Coffee,-4.75,GBP,6f7g8h9i0j,Natwest
+2026-02-03,Apple,App Store purchase,-3.99,GBP,aa11bb22cc,Natwest
+2026-02-04,Google Cloud,Compute credits,-120.00,GBP,dd33ee44ff,Natwest
+2026-02-05,Amazon,Online shopping,-87.30,GBP,1122aabbcc,Natwest
+2026-02-06,Spotify,Music subscription,-9.99,GBP,dd44ee55ff,Natwest
+2026-02-07,NYC Transit,MetroCard reload,-33.00,GBP,7766aabbdd,Natwest
+2026-02-08,PayPal,Transfer fee,-2.90,GBP,8899ccddeeff,Natwest
+2026-02-09,Target,Household goods,-45.20,GBP,0011223344,Natwest
+2026-02-10,Delta Airlines,Flight ticket,-350.00,GBP,5566778899,Natwest
+2026-02-11,Electric Co.,Electricity bill,-92.45,GBP,aa33bb44cc,Natwest
+2026-02-12,Water Works,Water bill,-38.20,GBP,dd55ee66ff,Natwest
+2026-02-13,Home Depot,DIY supplies,-63.15,GBP,1122dd3344,Natwest
+2026-02-14,Apple,Payroll,2600.00,GBP,7788aa99bb,Natwest
+2026-02-15,Uber,Ride to airport,-27.80,GBP,99aabbccdd,Natwest
+2026-02-16,Costco,Wholesale groceries,-115.60,GBP,ff00112233,Natwest
+2026-02-17,Zoom,Pro subscription,-14.99,GBP,4455667788,Natwest
+2026-02-18,Microsoft,Office 365,-69.99,GBP,99bbccddeeff,Natwest
+2026-02-19,Starbucks,Latte,-5.25,GBP,aa1122bb33,Natwest
+2026-02-20,Local Gym,Monthly fee,-29.99,GBP,cc44dd55ee,Natwest
+2026-02-21,Amazon Prime,Annual membership,-139.00,GBP,ff1122aa33,Natwest
+2026-02-22,Netflix,Streaming subscription,-15.99,GBP,44aa55bb66,Natwest
+2026-02-23,AT&T,Cell phone,-65.50,GBP,77cc88dd99,Natwest
+2026-02-24,BT,Rachels phone bill,-74.90,GBP,aa33bb44cc,Natwest
+2026-02-25,BANK FEES,Monthly bank fee,-4.00,GBP,dd55ee66ff,Natwest
+2026-02-26,Restaurant,Dinner out,-78.50,GBP,1122dd3344,Natwest
+2026-02-27,Apple App Store,App purchases,-12.99,GBP,7788aa99bb,Natwest
+2026-02-28,Natwest,Other credit card,-489.25,GBP,99aabbccdd,Natwest
+2026-03-01,George Grocery Store,Weekly groceries,-112.45,GBP,ff00112233,Natwest
+2026-03-02,Wine-Tarner Cable,Internet,-86.25,GBP,4455667788,Natwest
+2026-03-03,Google Ads,Ad spend,-210.00,GBP,99bbccddeeff,Natwest
+2026-03-04,Adobe,Creative Cloud,-52.99,GBP,aa1122bb33,Natwest
+2026-03-05,Slack,Team plan,-8.00,GBP,cc44dd55ee,Natwest
+2026-03-06,Uber,Eats delivery,-23.40,GBP,ff1122aa33,Natwest
+2026-03-07,Airbnb,Short‑term stay,-145.00,GBP,44aa55bb66,Natwest
+2026-03-08,NYC Parking,Monthly permit,-45.00,GBP,77cc88dd99,Natwest
+2026-03-09,Apple,Payroll,2600.00,GBP,aa33bb44cc,Natwest
+2026-03-10,Microsoft,Payroll,2600.00,GBP,dd55ee66ff,Natwest
+2026-03-11,Amazon,Office supplies,-57.80,GBP,1122dd3344,Natwest
+2026-03-12,Target,Clothing,-63.90,GBP,7788aa99bb,Natwest
+2026-03-13,Spotify,Family plan,-14.99,GBP,99aabbccdd,Natwest
+2026-03-14,Netflix,Streaming subscription,-15.99,GBP,ff00112233,Natwest
+2026-03-15,Starbucks,Coffee,-4.75,GBP,4455667788,Natwest
+2026-03-16,Electric Co.,Electricity bill,-94.10,GBP,99bbccddeeff,Natwest
+2026-03-17,Water Works,Water bill,-37.80,GBP,aa1122bb33,Natwest
+2026-03-18,Home Depot,Tools,-48.55,GBP,cc44dd55ee,Natwest
+2026-03-19,Costco,Groceries,-128.70,GBP,ff1122aa33,Natwest
+2026-03-20,Zoom,Pro subscription,-14.99,GBP,44aa55bb66,Natwest
+2026-03-21,Google Cloud,Storage,-78.00,GBP,77cc88dd99,Natwest
+2026-03-22,PayPal,Transfer fee,-2.90,GBP,aa33bb44cc,Natwest
+2026-03-23,Apple,App Store purchase,-4.99,GBP,dd55ee66ff,Natwest
+2026-03-24,Uber,Ride home,-19.20,GBP,1122dd3344,Natwest
+2026-03-25,Restaurant,Lunch,-32.40,GBP,7788aa99bb,Natwest
+2026-03-26,NYC Transit,MetroCard reload,-33.00,GBP,99aabbccdd,Natwest
+2026-03-27,Starbucks,Latte,-5.25,GBP,ff00112233,Natwest
+2026-03-28,Local Gym,Monthly fee,-29.99,GBP,4455667788,Natwest
+2026-03-29,Netflix,Streaming subscription,-15.99,GBP,99bbccddeeff,Natwest
+2026-03-30,Amazon Prime,Annual membership,-139.00,GBP,aa1122bb33,Natwest
+2026-03-31,AT&T,Cell phone,-65.50,GBP,cc44dd55ee,Natwest
+2026-04-01,BT,Rachels phone bill,-74.90,GBP,ff1122aa33,Natwest
+2026-04-02,BANK FEES,Monthly bank fee,-4.00,GBP,44aa55bb66,Natwest
+2026-04-03,Restaurant,Dinner out,-78.50,GBP,77cc88dd99,Natwest
+2026-04-04,Apple App Store,App purchases,-12.99,GBP,aa33bb44cc,Natwest
+2026-04-05,Natwest,Other credit card,-489.25,GBP,dd55ee66ff,Natwest
+2026-04-06,George Grocery Store,Weekly groceries,-112.45,GBP,1122dd3344,Natwest
+2026-04-07,Wine-Tarner Cable,Internet,-86.25,GBP,7788aa99bb,Natwest
+2026-04-08,Apple,Payroll,2600.00,GBP,99aabbccdd,Natwest
+2026-04-09,Microsoft,Payroll,2600.00,GBP,ff00112233,Natwest
+2026-04-10,Google Ads,Ad spend,-210.00,GBP,4455667788,Natwest
+2026-04-11,Adobe,Creative Cloud,-52.99,GBP,99bbccddeeff,Natwest
+2026-04-12,Slack,Team plan,-8.00,GBP,aa1122bb33,Natwest
+2026-04-13,Uber,Eats delivery,-23.40,GBP,cc44dd55ee,Natwest
+2026-04-14,Airbnb,Short‑term stay,-145.00,GBP,ff1122aa33,Natwest
+2026-04-15,NYC Parking,Monthly permit,-45.00,GBP,44aa55bb66,Natwest
+2026-04-16,Apple,Payroll,2600.00,GBP,77cc88dd99,Natwest
+2026-04-17,Microsoft,Payroll,2600.00,GBP,aa33bb44cc,Natwest
+2026-04-18,Amazon,Office supplies,-57.80,GBP,dd55ee66ff,Natwest
+2026-04-19,Target,Clothing,-63.90,GBP,1122dd3344,Natwest
+2026-04-20,Spotify,Family plan,-14.99,GBP,7788aa99bb,Natwest
+2026-04-21,Netflix,Streaming subscription,-15.99,GBP,99aabbccdd,Natwest
+2026-04-22,Starbucks,Coffee,-4.75,GBP,ff00112233,Natwest
+2026-04-23,Electric Co.,Electricity bill,-94.10,GBP,4455667788,Natwest
+2026-04-24,Water Works,Water bill,-37.80,GBP,99bbccddeeff,Natwest
+2026-04-25,Home Depot,Tools,-48.55,GBP,aa1122bb33,Natwest
+2026-04-26,Costco,Groceries,-128.70,GBP,cc44dd55ee,Natwest
+2026-04-27,Zoom,Pro subscription,-14.99,GBP,ff1122aa33,Natwest
+2026-04-28,Google Cloud,Storage,-78.00,GBP,44aa55bb66,Natwest
+2026-04-29,PayPal,Transfer fee,-2.90,GBP,77cc88dd99,Natwest
+2026-04-30,Apple,App Store purchase,-4.99,GBP,aa33bb44cc,Natwest
+2026-05-01,Uber,Ride home,-19.20,GBP,dd55ee66ff,Natwest
+2026-05-02,Restaurant,Lunch,-32.40,GBP,1122dd3344,Natwest
+2026-05-03,NYC Transit,MetroCard reload,-33.00,GBP,7788aa99bb,Natwest
+2026-05-04,Starbucks,Latte,-5.25,GBP,99aabbccdd,Natwest
+2026-05-05,Local Gym,Monthly fee,-29.99,GBP,ff00112233,Natwest
+2026-05-06,Netflix,Streaming subscription,-15.99,GBP,4455667788,Natwest
+2026-05-07,Amazon Prime,Annual membership,-139.00,GBP,99bbccddeeff,Natwest
+2026-05-08,AT&T,Cell phone,-65.50,GBP,aa1122bb33,Natwest
+2026-05-09,BT,Rachels phone bill,-74.90,GBP,cc44dd55ee,Natwest
+2026-05-10,BANK FEES,Monthly bank fee,-4.00,GBP,ff1122aa33,Natwest
+2026-05-11,Restaurant,Dinner out,-78.50,GBP,44aa55bb66,Natwest
+2026-05-12,Apple App Store,App purchases,-12.99,GBP,77cc88dd99,Natwest
+2026-05-13,Natwest,Other credit card,-489.25,GBP,aa33bb44cc,Natwest
+2026-05-14,George Grocery Store,Weekly groceries,-112.45,GBP,dd55ee66ff,Natwest
+2026-05-15,Wine-Tarner Cable,Internet,-86.25,GBP,1122dd3344,Natwest
+2026-05-16,Apple,Payroll,2600.00,GBP,7788aa99bb,Natwest
+2026-05-17,Microsoft,Payroll,2600.00,GBP,99aabbccdd,Natwest
+2026-05-18,Google Ads,Ad spend,-210.00,GBP,ff00112233,Natwest
+2026-05-19,Adobe,Creative Cloud,-52.99,GBP,4455667788,Natwest
+2026-05-20,Slack,Team plan,-8.00,GBP,99bbccddeeff,Natwest
+2026-05-21,Uber,Eats delivery,-23.40,GBP,aa1122bb33,Natwest
+2026-05-22,Airbnb,Short‑term stay,-145.00,GBP,cc44dd55ee,Natwest
+2026-05-23,NYC Parking,Monthly permit,-45.00,GBP,ff1122aa33,Natwest
+2026-05-24,Apple,Payroll,2600.00,GBP,44aa55bb66,Natwest
+2026-05-25,Microsoft,Payroll,2600.00,GBP,77cc88dd99,Natwest
+2026-05-26,Amazon,Office supplies,-57.80,GBP,aa33bb44cc,Natwest
+2026-05-27,Target,Clothing,-63.90,GBP,dd55ee66ff,Natwest
+2026-05-28,Spotify,Family plan,-14.99,GBP,1122dd3344,Natwest
+2026-05-29,Netflix,Streaming subscription,-15.99,GBP,7788aa99bb,Natwest
+2026-05-30,Starbucks,Coffee,-4.75,GBP,99aabbccdd,Natwest
+2026-05-31,Electric Co.,Electricity bill,-92.45,GBP,ff00112233,Natwest
+2026-06-01,Water Works,Water bill,-38.20,GBP,4455667788,Natwest
+2026-06-02,Home Depot,DIY supplies,-63.15,GBP,99bbccddeeff,Natwest
+2026-06-03,Costco,Wholesale groceries,-115.60,GBP,aa1122bb33,Natwest
+2026-06-04,Zoom,Pro subscription,-14.99,GBP,cc44dd55ee,Natwest
+2026-06-05,Google Cloud,Compute credits,-120.00,GBP,ff1122aa33,Natwest
+2026-06-06,PayPal,Transfer fee,-2.90,GBP,44aa55bb66,Natwest
+2026-06-07,Apple,App Store purchase,-3.99,GBP,77cc88dd99,Natwest
+2026-06-09,Restaurant,Dinner out,-78.50,GBP,dd55ee66ff,Natwest
+2026-06-10,NYC Transit,MetroCard reload,-33.00,GBP,1122dd3344,Natwest
+2026-06-11,Starbucks,Latte,-5.25,GBP,7788aa99bb,Natwest
+2026-06-12,Local Gym,Monthly fee,-29.99,GBP,99aabbccdd,Natwest
+2026-06-13,Netflix,Streaming subscription,-15.99,GBP,ff00112233,Natwest
+2026-06-14,Amazon Prime,Annual membership,-139.00,GBP,4455667788,Natwest
+2026-06-15,AT&T,Cell phone,-65.50,GBP,99bbccddeeff,Natwest
+2026-06-16,BT,Rachels phone bill,-74.90,GBP,aa1122bb33,Natwest
+2026-06-17,BANK FEES,Monthly bank fee,-4.00,GBP,cc44dd55ee,Natwest
+2026-06-18,Restaurant,Takeout,-42.30,GBP,ff1122aa33,Natwest
+2026-06-19,Apple App Store,App purchases,-12.99,GBP,44aa55bb66,Natwest
+2026-06-20,Natwest,Other credit card,-489.25,GBP,77cc88dd99,Natwest
+2026-06-21,George Grocery Store,Weekly groceries,-112.45,GBP,aa33bb44cc,Natwest
+2026-06-22,Wine-Tarner Cable,Internet,-86.25,GBP,dd55ee66ff,Natwest
+2026-06-23,Apple,Payroll,2600.00,GBP,1122dd3344,Natwest
+2026-06-24,Microsoft,Payroll,2600.00,GBP,7788aa99bb,Natwest
+2026-06-25,Google Ads,Ad spend,-210.00,GBP,99aabbccdd,Natwest
+2026-06-26,Adobe,Creative Cloud,-52.99,GBP,ff00112233,Natwest
+2026-06-27,Slack,Team plan,-8.00,GBP,4455667788,Natwest
+2026-06-28,Uber,Eats delivery,-23.40,GBP,99bbccddeeff,Natwest
+2026-06-29,Airbnb,Short‑term stay,-145.00,GBP,aa1122bb33,Natwest
+2026-06-30,NYC Parking,Monthly permit,-45.00,GBP,cc44dd55ee,Natwest
+2026-02-01,AT&T,Cell phone,-65.50,GBP,a1b2c3d4ef,Natwest
+2026-02-02,Spotify,Music streaming,-12.99,GBP,b2c3d4e5f0,Natwest
+2026-02-03,EDISON POWER,Electricity,-72.40,GBP,c3d4e5f6g1,Natwest
+2026-02-04,Whole Foods,Groceries,-156.78,GBP,d4e5f6g7h2,Natwest
+2026-02-05,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,e5f6g7h8i3,Natwest
+2026-02-06,BT,Rachels phone bill,-74.90,GBP,f6g7h8i9j4,Natwest
+2026-02-07,CVS,Medicine,-34.21,GBP,g7h8i9j0k5,Natwest
+2026-02-08,Restaurant,Lunch,-42.30,GBP,h8i9j0k1l6,Natwest
+2026-02-09,Target,Shopping,-89.45,GBP,i9j0k1l2m7,Natwest
+2026-02-10,Natwest,Other credit card,-500.00,GBP,j0k1l2m3n8,Natwest
+2026-02-11,Amazon Prime,Renewal,-139.00,GBP,k1l2m3n4o9,Natwest
+2026-02-12,Wine-Tarner Cable,Internet,-86.25,GBP,l2m3n4o5p0,Natwest
+2026-02-13,Uber,Transportation,-22.50,GBP,m3n4o5p6q1,Natwest
+2026-02-14,Starbucks,Coffee,-6.75,GBP,n4o5p6q7r2,Natwest
+2026-02-15,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,o5p6q7r8s3,Natwest
+2026-02-16,Apple App Store,Apps,-19.99,GBP,p6q7r8s9t4,Natwest
+2026-02-17,Gym Membership,Monthly,-29.99,GBP,q7r8s9t0u5,Natwest
+2026-02-18,Gas Station,Fuel,-52.30,GBP,r8s9t0u1v6,Natwest
+2026-02-19,Trader Joe's,Groceries,-78.92,GBP,s9t0u1v2w7,Natwest
+2026-02-20,Netflix,Streaming,-15.99,GBP,t0u1v2w3x8,Natwest
+2026-02-21,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,u1v2w3x4y9,Natwest
+2026-02-22,BANK FEES,Monthly fee,-4.00,GBP,v2w3x4y5z0,Natwest
+2026-02-23,Walgreens,Pharmacy,-45.67,GBP,w3x4y5z6a1,Natwest
+2026-02-24,Restaurant,Dinner,-95.20,GBP,x4y5z6a7b2,Natwest
+2026-02-25,Lyft,Ride,-18.40,GBP,y5z6a7b8c3,Natwest
+2026-02-26,Best Buy,Electronics,-120.00,GBP,z6a7b8c9d4,Natwest
+2026-02-27,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,a7b8c9d0e5,Natwest
+2026-02-28,Amazon,Shopping,-63.45,GBP,b8c9d0e1f6,Natwest
+2026-03-01,BT,Sarahs phone bill,-65.50,GBP,c9d0e1f2g7,Natwest
+2026-03-02,Costco,Membership,-60.00,GBP,d0e1f2g3h8,Natwest
+2026-03-03,EDISON POWER,Electricity,-68.90,GBP,e1f2g3h4i9,Natwest
+2026-03-04,Whole Foods,Groceries,-142.33,GBP,f2g3h4i5j0,Natwest
+2026-03-05,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,g3h4i5j6k1,Natwest
+2026-03-06,BT,Rachels phone bill,-74.90,GBP,h4i5j6k7l2,Natwest
+2026-03-07,Chipotle,Lunch,-14.50,GBP,i5j6k7l8m3,Natwest
+2026-03-08,Target,Household,-76.54,GBP,j6k7l8m9n4,Natwest
+2026-03-09,Natwest,Other credit card,-550.00,GBP,k7l8m9n0o5,Natwest
+2026-03-10,Wine-Tarner Cable,Internet,-86.25,GBP,l8m9n0o1p6,Natwest
+2026-03-11,Uber Eats,Food delivery,-28.99,GBP,m9n0o1p2q7,Natwest
+2026-03-12,Apple Music,Subscription,-10.99,GBP,n0o1p2q3r8,Natwest
+2026-03-13,Gym Membership,Monthly,-29.99,GBP,o1p2q3r4s9,Natwest
+2026-03-14,Shell Gas,Fuel,-48.75,GBP,p2q3r4s5t0,Natwest
+2026-03-15,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,q3r4s5t6u1,Natwest
+2026-03-16,Trader Joe's,Groceries,-85.40,GBP,r4s5t6u7v2,Natwest
+2026-03-17,Hulu,Streaming,-7.99,GBP,s5t6u7v8w3,Natwest
+2026-03-18,Movie Theater,Entertainment,-32.00,GBP,t6u7v8w9x4,Natwest
+2026-03-19,Lyft,Ride,-21.80,GBP,u7v8w9x0y5,Natwest
+2026-03-20,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,v8w9x0y1z6,Natwest
+2026-03-21,BANK FEES,Monthly fee,-4.00,GBP,w9x0y1z2a7,Natwest
+2026-03-22,CVS,Shopping,-28.45,GBP,x0y1z2a3b8,Natwest
+2026-03-23,Restaurant,Dinner,-88.60,GBP,y1z2a3b4c9,Natwest
+2026-03-24,Amazon Prime,Renewal,-139.00,GBP,z2a3b4c5d0,Natwest
+2026-03-25,Whole Foods,Groceries,-165.78,GBP,a3b4c5d6e1,Natwest
+2026-03-26,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,b4c5d6e7f2,Natwest
+2026-03-27,AT&T,Cell phone,-65.50,GBP,c5d6e7f8g3,Natwest
+2026-03-28,BT,Rachels phone bill,-74.90,GBP,d6e7f8g9h4,Natwest
+2026-03-29,EDISON POWER,Electricity,-71.20,GBP,e7f8g9h0i5,Natwest
+2026-03-30,Spotify,Music streaming,-12.99,GBP,f8g9h0i1j6,Natwest
+2026-03-31,Wine-Tarner Cable,Internet,-86.25,GBP,g9h0i1j2k7,Natwest
+2026-04-01,Trader Joe's,Groceries,-98.30,GBP,h0i1j2k3l8,Natwest
+2026-04-02,Target,Shopping,-110.45,GBP,i1j2k3l4m9,Natwest
+2026-04-03,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,j2k3l4m5n0,Natwest
+2026-04-04,Gym Membership,Monthly,-29.99,GBP,k3l4m5n6o1,Natwest
+2026-04-05,Uber,Ride,-19.50,GBP,l4m5n6o7p2,Natwest
+2026-04-06,Natwest,Other credit card,-575.00,GBP,m5n6o7p8q3,Natwest
+2026-04-07,Apple App Store,Apps,-24.99,GBP,n6o7p8q9r4,Natwest
+2026-04-08,Gas Station,Fuel,-55.40,GBP,o7p8q9r0s5,Natwest
+2026-04-09,HAYS EMPLOYMENT,Temp Payroll,2600.00,GBP,p8q9r0s1t6,Natwest
+2026-04-10,Restaurant,Dinner,-72.15,GBP,q9r0s1t2u7,Natwest
