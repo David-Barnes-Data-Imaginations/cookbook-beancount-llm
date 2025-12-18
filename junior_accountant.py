@@ -297,4 +297,4 @@ if __name__ == "__main__":
     agent.process_batch("bank_statement_sft_randomized.csv", limit=10000)
     
     # 3. Export
-    agent.save_for_label_studio("postsft_data_246.json")
+    agent.save_for_label_studio("pre_senior_accountant.json")

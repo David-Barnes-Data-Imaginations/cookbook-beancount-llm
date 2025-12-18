@@ -2,7 +2,7 @@ import json
 import yaml
 
 # CONFIG
-INPUT_FILE = "ready_for_unsloth.json"  # Output from your Janitor script
+INPUT_FILE = "pre_senior_accountant.json"  # Output from your Janitor script
 OUTPUT_FILE = "human_edits_senior.yaml"
 
 def str_presenter(dumper, data):
