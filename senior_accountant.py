@@ -12,7 +12,7 @@ load_dotenv()
 
 # ================= CONFIGURATION =================
 INPUT_FILE = "training_data.json"   # The file from your Junior Agent
-OUTPUT_FILE = "refined_data.json"   # The file for Label Studio
+OUTPUT_FILE = "final_train.json"   # The file for Label Studio
 LLM_API_URL = "http://localhost:1234/v1/chat/completions"
 # Ideally use Qwen-2.5-Coder-7B-Instruct or similar strict model here
 MODEL_NAME = "local-model" 

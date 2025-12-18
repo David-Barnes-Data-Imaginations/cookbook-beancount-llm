@@ -2,8 +2,8 @@ import json
 import yaml
 
 # CONFIG
-INPUT_FILE = "pre_senior_accountant.json"  # Output from your Janitor script
-OUTPUT_FILE = "human_edits_senior.yaml"
+INPUT_FILE = "data/json/final_train.json"  # Output from your Janitor script
+OUTPUT_FILE = "data/yaml/human_edits_senior.yaml"
 
 def str_presenter(dumper, data):
     """Configures YAML to use the '|' style for multi-line strings"""
