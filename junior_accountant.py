@@ -290,7 +290,7 @@ if __name__ == "__main__":
         print("Using LM Studio Provider")
     
     # 1. Initialize
-    agent = JuniorAccountant("my_accounts.beancount")
+    agent = JuniorAccountant(data/my_accounts.beancount")
     
     # 2. Run on your CSV
     # Only doing 5 for the first test!
