@@ -2,7 +2,7 @@ import json
 import yaml
 
 # CONFIG
-INPUT_FILE = "postsft_data_246.json"
+INPUT_FILE = "postsft_data_180.json"
 OUTPUT_FILE = "postsft_readable.yaml"
 
 # Function to clean tokenizer artifacts recursively
