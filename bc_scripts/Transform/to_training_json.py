@@ -2,7 +2,7 @@ import yaml
 import json
 
 INPUT_FILE = "human_edits.yaml"
-OUTPUT_FILE = "final_train.json" # Load THIS into Unsloth
+OUTPUT_FILE = "final_train_edited.json" # Load THIS into Unsloth
 
 def main():
     try:
